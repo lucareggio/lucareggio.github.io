@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Luca Reggio - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Luca Reggio at Oxford University."
 sitemap: false
 permalink: /
 ---
