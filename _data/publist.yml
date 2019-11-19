@@ -3,7 +3,57 @@
   authors:
     Marco Abbadini and Luca Reggio
   link:
-    url: https://arxiv.org/abs/1909.01631
-    display: arXiv preprint
+    preprinturl: https://arxiv.org/abs/1909.01631
+    preprintdisplay: arXiv preprint
+  publishedurl:
+  publisheddisplay:
+  published: 0
+  thesis: 0
+
+- title: A duality theoretic view on limits of finite structures
+  description: ""
+  authors:
+    Mai Gehrke, Tomas Jakl, and Luca Reggio
+  link:
+    preprinturl: https://arxiv.org/abs/1907.04036
+    preprintdisplay: arXiv preprint
+  publishedurl:
+  publisheddisplay:
+  published: 0
+  thesis: 0
+
+- title: A characterisation of the category of compact Hausdorff spaces
+  description: ""
+  authors:
+    Vincenzo Marra and Luca Reggio
+  link:
+    preprinturl: https://arxiv.org/abs/1808.09738
+    preprintdisplay: arXiv preprint
+  publishedurl:
+  publisheddisplay:
+  published: 0
+  thesis: 0
+
+- title: Quantifiers on languages and codensity monads
+  description: ""
+  authors:
+    Mai Gehrke, Daniela Petrisan, and Luca Reggio
+  link:
+    preprinturl: https://arxiv.org/abs/1702.08841
+    preprintdisplay: arXiv preprint
+  publishedurl:
+  publisheddisplay:
+  published: 0
+  thesis: 0
+
+- title: Codensity, profiniteness and algebras of semiring-valued measures
+  description: ""
+  authors:
+    Luca Reggio
+  link:
+    preprinturl: 
+    preprintdisplay: 
+  published url: https://arxiv.org/abs/1702.08841
+  published display: Journal of Pure and Applied Algebra, vol. 240, pp. 69-77 (2018)
   published: 0
   thesis: 0
