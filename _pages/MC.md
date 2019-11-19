@@ -1,12 +1,12 @@
 ---
-title: "Luca Reggio - Research"
+title: "Luca Reggio - Marie Curie project"
 layout: textlay
-excerpt: "Luca Reggio -- Research"
+excerpt: "Luca Reggio - Marie Curie project"
 sitemap: false
-permalink: /research/
+permalink: /MC/
 ---
 
-# Research
+# D-FINED -- Duality for finite models
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
