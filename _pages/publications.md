@@ -71,7 +71,7 @@ permalink: /publications/
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
 
-{% elif publi.published == 1 and publi.preprinturl != 0 %}
+{% elseif publi.published == 1 and publi.preprinturl != 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
