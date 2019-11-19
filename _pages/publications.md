@@ -70,6 +70,7 @@ permalink: /publications/
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
+  Preprint available on<a href="{{ publi.link.preprinturl }}">{{ publi.link.ppreprintdisplay }}</a>
 
 {% endif %}
 {% endfor %}
