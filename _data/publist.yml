@@ -53,7 +53,43 @@
   link:
     preprinturl: https://arxiv.org/abs/1807.10637
     preprintdisplay: arXiv
-  published url: https://arxiv.org/abs/1702.08841
-  published display: Journal of Pure and Applied Algebra, vol. 240, pp. 69-77 (2018)
+  published url: https://www.sciencedirect.com/science/article/pii/S0022404919301203
+  published display: Journal of Pure and Applied Algebra, Vol. 224, pp. 181-205, 2020
+  published: 1
+  thesis: 0
+
+- title: An open mapping theorem for finitely copresented Esakia spaces
+  description: ""
+  authors:
+    Sam van Gool and Luca Reggio
+  link:
+    preprinturl: https://arxiv.org/abs/1710.01630
+    preprintdisplay: arXiv
+  published url: https://www.sciencedirect.com/science/article/abs/pii/S0166864118301664
+  published display: Topology and its Applications, Vol. 240, pp. 69-77, 2018
+  published: 1
+  thesis: 0
+
+- title: Quantifiers on languages and codensity monads
+  description: ""
+  authors:
+    Mai Gehrke, Daniela Petrisan, and Luca Reggio
+  link:
+    preprinturl: 0
+    preprintdisplay: 0
+  published url: https://ieeexplore.ieee.org/document/8005140
+  published display: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
+  published: 1
+  thesis: 0
+
+- title: Stone duality above dimension zero: Axiomatising the algebraic theory of C(X)
+  description: ""
+  authors:
+    Vincenzo Marra and Luca Reggio
+  link:
+    preprinturl: https://arxiv.org/abs/1508.07750
+    preprintdisplay: arXiv
+  published url: https://www.sciencedirect.com/science/article/pii/S0001870815302772
+  published display: Advances in Mathematics, Vol. 307, pp. 253-287, 2017  
   published: 1
   thesis: 0

@@ -67,6 +67,12 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 {% if publi.published == 1 %}
+{% if publi.preprinturl == 0 %}
+
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
+  <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
+
+{% else%}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
