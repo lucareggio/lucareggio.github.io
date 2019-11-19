@@ -60,6 +60,7 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+{% endif %}
 {% endfor %}
 
 ## Full List
@@ -70,5 +71,6 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+{% endif %}
 {% endfor %}
 
