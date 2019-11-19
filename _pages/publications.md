@@ -78,7 +78,7 @@ permalink: /publications/
   Preprint available on <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
 
 
-{% if %}
+{% endif %}
 {% endfor %}
 
 ## Theses
