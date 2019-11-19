@@ -69,7 +69,7 @@ permalink: /publications/
 {% if publi.published == 1 and publi.preprintavailable == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a>
+  <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a> <br />
   Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
   
 {% endif %}  
