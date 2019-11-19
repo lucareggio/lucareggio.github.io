@@ -1,8 +1,9 @@
 - title: On the axiomatisability of the dual of compact ordered spaces
   description: ""
-  authors: [Marco Abbadini](http://www.mat.unimi.it/users/mabbadini/) and Luca Reggio
+  authors:
+    Marco Abbadini and Luca Reggio
   link:
-  url: https://arxiv.org/abs/1909.01631
-  display: arXiv preprint
+    url: https://arxiv.org/abs/1909.01631
+    display: arXiv preprint
   published: 0
   thesis: 0
