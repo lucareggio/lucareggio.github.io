@@ -58,7 +58,7 @@ permalink: /publications/
 {% if publi.published == 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  Preprint available on <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
+  Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
 
 {% endif %}
 {% endfor %}
@@ -69,15 +69,15 @@ permalink: /publications/
 {% if publi.published == 1 and publi.preprintavailable == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
-  Preprint available on <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
+  <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a>
+  Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
   
 {% endif %}  
 
 {% if publi.published == 1 and publi.preprintavailable == 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
+  <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a>
   
 {% endif %}
 {% endfor %}
@@ -88,7 +88,7 @@ permalink: /publications/
 {% if publi.thesis == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
+  <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
 
 {% endif %}
 {% endfor %}
