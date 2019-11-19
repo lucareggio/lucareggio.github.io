@@ -53,8 +53,8 @@
   link:
     preprinturl: https://arxiv.org/abs/1807.10637
     preprintdisplay: arXiv
-  published url: https://www.sciencedirect.com/science/article/pii/S0022404919301203
-  published display: Journal of Pure and Applied Algebra, Vol. 224, pp. 181-205, 2020
+  publishedurl: https://www.sciencedirect.com/science/article/pii/S0022404919301203
+  publisheddisplay: Journal of Pure and Applied Algebra, Vol. 224, pp. 181-205, 2020
   published: 1
   thesis: 0
 
@@ -65,8 +65,8 @@
   link:
     preprinturl: https://arxiv.org/abs/1710.01630
     preprintdisplay: arXiv
-  published url: https://www.sciencedirect.com/science/article/abs/pii/S0166864118301664
-  published display: Topology and its Applications, Vol. 240, pp. 69-77, 2018
+  publishedurl: https://www.sciencedirect.com/science/article/abs/pii/S0166864118301664
+  publisheddisplay: Topology and its Applications, Vol. 240, pp. 69-77, 2018
   published: 1
   thesis: 0
 
@@ -77,8 +77,8 @@
   link:
     preprinturl:
     preprintdisplay:
-  published url: https://ieeexplore.ieee.org/document/8005140
-  published display: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
+  publishedurl: https://ieeexplore.ieee.org/document/8005140
+  publisheddisplay: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
   published: 1
   thesis: 0
 
@@ -89,7 +89,7 @@
   link:
     preprinturl: https://arxiv.org/abs/1508.07750
     preprintdisplay: arXiv
-  published url: https://www.sciencedirect.com/science/article/pii/S0001870815302772
-  published display: Advances in Mathematics, Vol. 307, pp. 253-287, 2017
+  publishedurl: https://www.sciencedirect.com/science/article/pii/S0001870815302772
+  publisheddisplay: Advances in Mathematics, Vol. 307, pp. 253-287, 2017
   published: 1
   thesis: 0
