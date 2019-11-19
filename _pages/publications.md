@@ -66,16 +66,14 @@ permalink: /publications/
 ## Published papers
 
 {% for publi in site.data.publist %}
-{% if publi.published == 1 and publi.preprinturl == null %}
+{% if publi.published == 1 and publi.preprinturl == 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <!--<a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
--->
-dld
+  <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
 
 {% endif %}
 
-{% if publi.published == 1 and publi.preprinturl != null %}
+{% if publi.published == 1 and publi.preprinturl != 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
