@@ -57,8 +57,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.published == 0 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em>, {{ publi.title }} <br />
+  <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
 {% endfor %}
@@ -68,8 +68,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.published == 1 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em>, {{ publi.title }} <br />
+  <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
 {% endfor %}
