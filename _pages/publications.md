@@ -72,7 +72,7 @@ permalink: /publications/
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
 
-{% else%}
+{% else %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
