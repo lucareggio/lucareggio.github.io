@@ -57,7 +57,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.published == 0 %}
 
-  <em>{{ publi.authors }}</em>, {{ publi.title }} <br />
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
 
 {% endif %}
@@ -68,7 +68,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.published == 1 %}
 
-  <em>{{ publi.authors }}</em>, {{ publi.title }} <br />
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.publishedurl }}">{{ publi.link.publisheddisplay }}</a>
 
 {% endif %}
@@ -79,7 +79,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.thesis == 1 %}
 
-  <em>{{ publi.authors }}</em>, {{ publi.title }} <br />
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   <a href="{{ publi.link.preprinturl }}">{{ publi.link.preprintdisplay }}</a>
 
 {% endif %}
