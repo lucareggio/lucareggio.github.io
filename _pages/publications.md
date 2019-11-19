@@ -55,7 +55,7 @@ permalink: /publications/
 ## Submitted
 
 {% for publi in site.data.publist %}
-{% if publi.highlight == 0 %}
+{% if publi.published == 0 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
@@ -63,10 +63,21 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
-## Full List
+## Published papers
 
 {% for publi in site.data.publist %}
-{% if publi.highlight == 1 %}
+{% if publi.published == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+## Theses
+
+{% for publi in site.data.publist %}
+{% if publi.thesis == 1 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
