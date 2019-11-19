@@ -3,6 +3,7 @@
   authors:
     Marco Abbadini and Luca Reggio
   link:
+  preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1909.01631
     preprintdisplay: arXiv
   publishedurl:
@@ -15,6 +16,7 @@
   authors:
     Mai Gehrke, Tomas Jakl, and Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1907.04036
     preprintdisplay: arXiv
   publishedurl:
@@ -27,6 +29,7 @@
   authors:
     Vincenzo Marra and Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1808.09738
     preprintdisplay: arXiv
   publishedurl:
@@ -39,6 +42,7 @@
   authors:
     Mai Gehrke, Daniela Petrisan, and Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1702.08841
     preprintdisplay: arXiv
   publishedurl:
@@ -51,6 +55,7 @@
   authors:
     Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1807.10637
     preprintdisplay: arXiv
   publishedurl: https://www.sciencedirect.com/science/article/pii/S0022404919301203
@@ -63,6 +68,7 @@
   authors:
     Sam van Gool and Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1710.01630
     preprintdisplay: arXiv
   publishedurl: https://www.sciencedirect.com/science/article/abs/pii/S0166864118301664
@@ -75,8 +81,9 @@
   authors:
     Mai Gehrke, Daniela Petrisan, and Luca Reggio
   link:
-    preprinturl: 0
-    preprintdisplay: 0
+    preprintavailable: 0
+    preprinturl:
+    preprintdisplay:
   publishedurl: https://ieeexplore.ieee.org/document/8005140
   publisheddisplay: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
   published: 1
@@ -87,6 +94,7 @@
   authors:
     Vincenzo Marra and Luca Reggio
   link:
+    preprintavailable: 1
     preprinturl: https://arxiv.org/abs/1508.07750
     preprintdisplay: arXiv
   publishedurl: https://www.sciencedirect.com/science/article/pii/S0001870815302772
