@@ -52,9 +52,20 @@ permalink: /publications/
 <p> &nbsp; </p>
 -->
 
+## Submitted
+
+{% for publi in site.data.publist %}
+{% if publi.highlight == 0 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 ## Full List
 
 {% for publi in site.data.publist %}
+{% if publi.highlight == 1 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
