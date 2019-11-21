@@ -11,7 +11,7 @@ permalink: /talks
 {% for talk in site.data.talklist %}
 {% if talk.venueurlavailable == 1 %}
 
-  1. <b>{{ talk.title }}</b>, <a href="{{ talk.venueurl }}">{{ talk.venuedisplay }}</a>, {{ talk.place }}, {{ talk.date }}
+  1. <b>{{ talk.title }}</b>, {{ talk.note }} <a href="{{ talk.venueurl }}">{{ talk.venuedisplay }}</a>, {{ talk.place }}, {{ talk.date }}
 
 {% endif %}
 
