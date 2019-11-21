@@ -54,4 +54,11 @@
   venueurl: http://events.illc.uva.nl/alg-coalg/
   venuedisplay: Algebra|Coalgebra Seminar
   place: Institute for Logic, Language and Computation, Amsterdam
-  date: 28 November 2018        
+  date: 28 November 2018 
+  
+- title: Duality, definability and continuous functions
+  venueurlavailable: 1
+  venueurl: https://www.cs.cas.cz/logics/seminar.html
+  venuedisplay: Seminar of Applied Mathematical Logic
+  place: Institute of Computer Science of the Czech Academy of Sciences, Prague
+  date: 14 November 2018           

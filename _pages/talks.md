@@ -17,7 +17,7 @@ permalink: /talks
 
 {% if talk.venueurlavailable == 0 %}
 
-1. <b>{{ talk.title }}</b>, {{ talk.venuedisplay }}, {{ talk.place }}, {{ talk.date }}
+1. <b>{{ talk.title }}</b>, {{ talk.note }} {{ talk.venuedisplay }}, {{ talk.place }}, {{ talk.date }}
 
 {% endif %}
 
