@@ -88,7 +88,7 @@ permalink: /publications/
 {% if publi.thesis == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
+  {{ publi.info }}, available at <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
 
 {% endif %}
 {% endfor %}
