@@ -23,6 +23,35 @@
   note: invited talk at the
   venueurlavailable: 1
   venueurl: http://umi.dm.unibo.it/congresso2019/
-  venuedisplay: XXI COngresso dell'Unione Matematica Italiana
+  venuedisplay: XXI Congresso dell'Unione Matematica Italiana
   place: Pavia
   date: 2-7 September 2019
+  
+- title: Axiomatising categories of spaces, the case of compact Hausdorff spaces
+  venueurlavailable: 1
+  venueurl: https://math.unice.fr/~tacl/2019/
+  venuedisplay: TACL 2019
+  place: Nice
+  date: 17-21 June 2019
+  
+- title: Dualities in Logic
+  note: two-part invited tutorial at
+  venueurlavailable: 1
+  venueurl: https://mathsites.unibe.ch/phdlogic2019/
+  venuedisplay: PhDs in Logic XI
+  place: Bern
+  date: 24-26 April 2019
+  
+- title: Uniform interpolation for IPC via an open mapping theorem for Esakia spaces
+  venueurlavailable: 1
+  venueurl: https://www.cs.cas.cz/logics/seminar.html
+  venuedisplay: Seminar of Applied Mathematical Logic
+  place: Institute of Computer Science of the Czech Academy of Sciences, Prague
+  date: 20 February 2019 
+  
+- title: Beth definability and the Stone-Weierstrass Theorem
+  venueurlavailable: 1
+  venueurl: http://events.illc.uva.nl/alg-coalg/
+  venuedisplay: Algebra|Coalgebra Seminar
+  place: Institute for Logic, Language and Computation, Amsterdam
+  date: 28 November 2018        
