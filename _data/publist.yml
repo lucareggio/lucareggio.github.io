@@ -98,15 +98,3 @@
   publisheddisplay: 43rd International Colloquium on Automata, Languages, and Programming (ICALP), LIPICS Vol. 55, pp. 112:1-112:14, 2016
   published: 1
   thesis: 0
-  
-  - title: Quantifiers and duality
-  authors:
-    Luca Reggio
-  info: Université Sorbonne Paris Cité, 2018  
-  preprintavailable: 0
-  preprinturl: {{ site.baseurl }}/downloads/Quantifiers-and-duality.pdf
-  preprintdisplay: this link
-  publishedurl: 
-  publisheddisplay: 
-  published: 0
-  thesis: 1

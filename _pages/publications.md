@@ -84,12 +84,7 @@ permalink: /publications/
 
 ## Theses
 
-{% for publi in site.data.publist %}
-{% if publi.thesis == 1 %}
-
-  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  {{ publi.info }}, available at <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
-
-{% endif %}
-{% endfor %}
+<em>Luca Reggio</em>, <b>Quantifiers and duality</b> <br />
+  PhD thesis, Sorbonne Paris Cité, 2018, available at [this link]({{ site.baseurl }}/downloads/Quantifiers-and-duality.pdf)
+  
 
