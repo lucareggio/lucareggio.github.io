@@ -88,4 +88,4 @@ permalink: /publications/
   PhD thesis, Sorbonne Paris Cité, 2018, available at [this link]({{ site.baseurl }}/downloads/Quantifiers-and-duality.pdf) <br /> <br />
   
   <em>Luca Reggio</em>, <b>Stone duality above dimension zero</b> <br />
-  Master's thesis, Università degli Studi di Milano, 2015, available at [this link]({{ site.baseurl }}/downloads/Stone-duality-above-dimension-zero.pdf)
+  Master's thesis, Università degli Studi di Milano, 2015, available at [this link]({{ site.baseurl }}/downloads/Stone-duality-above-dimension-zero.pdf) <br /><br />
