@@ -86,5 +86,3 @@ permalink: /publications/
 
 <em>Luca Reggio</em>, <b>Quantifiers and duality</b> <br />
   PhD thesis, Sorbonne Paris Cité, 2018, available at [this link]({{ site.baseurl }}/downloads/Quantifiers-and-duality.pdf)
-  
-
