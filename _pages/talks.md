@@ -21,7 +21,9 @@ permalink: /talks
 
 {% endif %}
 
-{% endfor %} <br /><br />
+{% endfor %} 
+
+<br />
 
 <!--We are always looking for new group members with passion, talent, and grit!
 
