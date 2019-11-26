@@ -69,4 +69,104 @@
   venueurl: http://rmi.tsu.ge/tolo6/
   venuedisplay: International Workshop on Topological Methods in Logic VI
   place: Tbilisi
-  date: 2-6 July 2018             
+  date: 2-6 July 2018  
+  
+- title: Langages formels et dualité, entre syntaxe et sémantique
+  note: invited talk at the workshop
+  venueurlavailable: 1
+  venueurl: https://math.unice.fr/~patras/PhilMathMED/index.html
+  venuedisplay: Logique, Langages, Preuves
+  place: Université de Montpellier
+  date: 31 May - 1 June 2018
+  
+- title: A pretopos theoretic characterisation of compact Hausdorff spaces
+  venueurlavailable: 1
+  venueurl: https://math.unice.fr/~patras/CatLogTop/index.html
+  venuedisplay: Journées niçoises de logique catégorique, topos et dualités
+  place: Laboratoire J. A. Dieudonné, Université Côte d'Azur
+  date: 8-12 January 2018
+  
+- title: Adding a layer of (simple) quantifiers via semidirect products and codensity monads, Part II
+  venueurlavailable: 1
+  venueurl: https://math.unice.fr/~reggio/GdT.html
+  venuedisplay: séminaire Dualité de Stone, langages formels et logique
+  place: Laboratoire J. A. Dieudonné, Université Côte d'Azur
+  date: 17 October 2017
+  
+- title: Adding a layer of (simple) quantifiers via semidirect products and codensity monads, Part I
+  venueurlavailable: 1
+  venueurl: https://math.unice.fr/~reggio/GdT.html
+  venuedisplay: séminaire Dualité de Stone, langages formels et logique
+  place: Laboratoire J. A. Dieudonné, Université Côte d'Azur
+  date: 10 October 2017
+  
+- title: Quantifiers, languages and codensity monads
+  venueurlavailable: 1
+  venueurl: http://www.cs.cas.cz/tacl2017/
+  venuedisplay: TACL 2017
+  place: Charles University of Prague
+  date: 26-30 June 2017
+  
+- title: Quantifiers on languages and codensity monads, Part II
+  venueurlavailable: 1
+  venueurl: https://www.irif.fr/~colcombe/duall_seminar_en.html
+  venuedisplay: DuaLL seminar
+  place: IRIF, Université Paris-Diderot
+  date: 19 April 2017
+  
+- title: Quantifiers on languages and codensity monads, Part I
+  venueurlavailable: 1
+  venueurl: https://www.irif.fr/~colcombe/duall_seminar_en.html
+  venuedisplay: DuaLL seminar
+  place: IRIF, Université Paris-Diderot
+  date: 24 March 2017
+  
+- title: The Schützenberger product for syntactic spaces
+  venueurlavailable: 1
+  venueurl: http://www.easyconferences.eu/icalp2016/
+  venuedisplay: ICALP 2016
+  place: Rome
+  date: 12-15 July 2016
+  
+- title: Toward a general Stone-Gelfand duality
+  note: invited talk at the
+  venueurlavailable: 1
+  venueurl: http://rmi.tsu.ge/tolo5/
+  venuedisplay: International Workshop on Topological Methods in Logic V
+  place: Tbilisi
+  date: 13-17 June 2016
+  
+- title: On existential quantification and hyperspaces for logic on words
+  venueurlavailable: 1
+  venueurl: http://logicseminar.di.unimi.it/
+  venuedisplay: Logic seminar
+  place: Università di Milano
+  date: 7 April 2016
+  
+- title: Duality theory - from algebra to topology, through logic
+  venueurlavailable: 0
+  venueurl:
+  venuedisplay: Journée des entrants
+  place: IRIF, Université Paris-Diderot
+  date: 2 November 2015
+  
+- title: Axiomatising the dual of compact Hausdorff space
+  venueurlavailable: 1
+  venueurl: http://logica.dipmat.unisa.it/tacl/home-page/
+  venuedisplay: TACL 2015
+  place: Ischia, Italy
+  date: 21-26 June 2015
+  
+- title: Stone duality above dimension zero
+  venueurlavailable: 1
+  venueurl: http://home.fau.edu/wmcgove1/web/Conference2015/Conference2015.html
+  venuedisplay: 18th Annual Conference on Ordered Algebraic Structures
+  place: H. L. Wilkes Honors College, Jupiter, Florida
+  date: 9 May 2015
+  
+- title: Stone duality above dimension zero: infinitary algebras of real-valued functions on compact Hausdorff spaces
+  venueurlavailable: 1
+  venueurl: http://local.disia.unifi.it/Beyond2014/
+  venuedisplay:  Beyond true and false - Algebra, Logic and Topology
+  place: Università di Firenze
+  date: 3-5 December 2014  
