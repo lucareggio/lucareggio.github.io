@@ -1,0 +1,12 @@
+
+<div class="well">
+<h4>Events</h4>
+
+{% for article in site.data.eventlist limit:5 %}
+{{ article.date }}
+<p>{{ article.title }}</p> in {{ article.place }}
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/events">... see all Events</a></h4>
+
+    </div>
