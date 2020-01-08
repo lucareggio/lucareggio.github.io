@@ -2,10 +2,10 @@
 <div class="well">
 <h4>Upcoming events</h4>
 
-{% for article in site.data.eventlist limit:5 %}
+{% for event in site.data.eventlist limit:5 %}
 {% if event.upcoming == 1 %}
-{{ article.date }} ({{ article.place }})
-<p>{{ article.title }}</p>
+{{ event.date }} ({{ event.place }})
+<p>{{ event.title }}</p>
 {% endif %}
 {% endfor %}
 
