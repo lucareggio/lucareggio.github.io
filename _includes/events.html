@@ -1,10 +1,12 @@
 
 <div class="well">
-<h4>Events</h4>
+<h4>Upcoming events</h4>
 
 {% for article in site.data.eventlist limit:5 %}
+{% if event.upcoming == 1 %}
 {{ article.date }} ({{ article.place }})
 <p>{{ article.title }}</p>
+{% endif %}
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/events">... see all Events</a></h4>
