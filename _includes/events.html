@@ -3,8 +3,8 @@
 <h4>Events</h4>
 
 {% for article in site.data.eventlist limit:5 %}
-{{ article.date }}
-<p>{{ article.title }}</p> in {{ article.place }}
+{{ article.date }} ({{ article.place }})
+<p>{{ article.title }}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/events">... see all Events</a></h4>
