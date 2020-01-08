@@ -5,7 +5,7 @@
 {% for event in site.data.eventlist limit:5 %}
 {% if event.upcoming == 1 %}
 {{ event.date }} ({{ event.place }})
-<p>{{ event.title }}</p>
+<p><b>{{ event.title }}</b></p>
 {% endif %}
 {% endfor %}
 
