@@ -5,19 +5,19 @@
   preprinturl: https://arxiv.org/abs/1909.01631
   preprintdisplay: arXiv
   publishedurl: 0
-  publisheddisplay: To appear in the proceedings of FoSSaCS 2020
-  published: 1
+  publisheddisplay: 0
+  published: 0
   thesis: 0
 
 - title: A duality theoretic view on limits of finite structures
   authors:
-    Mai Gehrke, Tomas Jakl, and Luca Reggio
+    Mai Gehrke, Tomas Jakl and Luca Reggio
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1907.04036
   preprintdisplay: arXiv
   publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publisheddisplay: To appear in the proceedings of FoSSaCS 2020
+  published: 1
   thesis: 0
 
 - title: A characterisation of the category of compact Hausdorff spaces
@@ -33,7 +33,7 @@
 
 - title: Quantifiers on languages and codensity monads
   authors:
-    Mai Gehrke, Daniela Petrisan, and Luca Reggio
+    Mai Gehrke, Daniela Petrisan and Luca Reggio
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1702.08841
   preprintdisplay: arXiv
@@ -67,7 +67,7 @@
 
 - title: Quantifiers on languages and codensity monads
   authors:
-    Mai Gehrke, Daniela Petrisan, and Luca Reggio
+    Mai Gehrke, Daniela Petrisan and Luca Reggio
   preprintavailable: 0
   preprinturl: 0
   preprintdisplay: 0
@@ -90,7 +90,7 @@
     
 - title: The Schutzenberger Product for Syntactic Spaces
   authors:
-    Mai Gehrke, Daniela Petrisan, and Luca Reggio
+    Mai Gehrke, Daniela Petrisan and Luca Reggio
   preprintavailable: 0
   preprinturl: 0
   preprintdisplay: 0
