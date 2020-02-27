@@ -1,8 +1,20 @@
 - title: Resources and co-Resources Workshop
   upcoming: 1
-  url: 
+  url: https://www.cst.cam.ac.uk/conference/coresources-2020
   place: Cambridge
   date: 25-27 March 2020
+  
+- title: 23rd International Conference on Foundations of Software Science and Computation Structures
+  upcoming: 1
+  url: https://www.etaps.org/2020/fossacs
+  place: Dublin
+  date: 27-30 April 2020  
+  
+- title: XXVII Incontro di Logica
+  upcoming: 1
+  url: http://www.ailalogica.it/incontro2020/
+  place: Caserta
+  date: 2-5 September 2020
 
 - title: Logic and Structure in Computer Science and Beyond
   upcoming: 0
