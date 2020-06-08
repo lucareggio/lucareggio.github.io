@@ -9,7 +9,7 @@ permalink: /
 I am a Marie Skłodowska-Curie fellow at the [Department of Computer Science](http://www.cs.ox.ac.uk/) of the University of Oxford. My main interests lie at the intersection of mathematical logic, duality theory and theoretical computer science. If you are interested, you can read more about my [research interests]({{ site.url }}{{ site.baseurl }}/research) or my Marie Curie project [D-FINED]({{ site.url }}{{ site.baseurl }}/research#D-FINED).
 
 
-({{ site.url }}{{ site.baseurl }}/images/DSC_0093.jpg){: style="width: 300px; float: none; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/DSC_0093.jpg){: style="width: 300px; float: none; border: 10px"}
 
 
 
