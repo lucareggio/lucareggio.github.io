@@ -74,6 +74,6 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 <br>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Oxford.gif" style="width: 170px"> &nbsp; &nbsp; &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Oxford.gif" style="width: 180px"> &nbsp; &nbsp; &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 220px">
 </figure>
