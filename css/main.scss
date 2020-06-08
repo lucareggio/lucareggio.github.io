@@ -83,27 +83,18 @@ firstp {
 
 /* Carousel */
 
+.carousel-item img{
+ width: auto;
+ height: 245px;
+ max-height: 245px;
+ margin: auto; 
+ display: block;
+ }
+
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
-}
-
-.carousel-item {
-  text-align: center;
-}
-
-.carousel-item img {
-  display: block;
-  margin: auto;
-}
-
-.carousel-inner img {
-  margin: auto;
-}
-
-.carousel-inner .item a img {
-margin: auto;
 }
