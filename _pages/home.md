@@ -57,7 +57,7 @@ I obtained my PhD in Mathematics at Université de Paris in September 2018, unde
     </div>
 
     <div id="image" style="display:inline;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 180px">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 220px">
     </div>
 
 </div>
