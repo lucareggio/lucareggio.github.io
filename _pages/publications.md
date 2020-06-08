@@ -85,7 +85,7 @@ permalink: /publications/
 ## Theses
 
 <em>Luca Reggio</em>, <b>Quantifiers and duality</b> <br />
-  PhD thesis, Sorbonne Paris Cité, 2018, available on [HAL](https://hal.archives-ouvertes.fr/tel-02459132/) <br />
+  PhD thesis, Sorbonne Paris Cité, 2018, available on [HAL](https://hal.archives-ouvertes.fr/tel-02459132/) (a local copy is hosted [here]({{ site.baseurl }}/downloads/Quantifiers-and-duality.pdf))<br />
   
   <em>Luca Reggio</em>, <b>Stone duality above dimension zero</b> <br />
   Master's thesis, Università degli Studi di Milano, 2015, available at [this link]({{ site.baseurl }}/downloads/Stone-duality-above-dimension-zero.pdf) <br /><br />
