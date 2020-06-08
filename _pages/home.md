@@ -50,8 +50,18 @@ I obtained my PhD in Mathematics at Université de Paris in September 2018, unde
 
 <br>
 
-You can contact me at &nbsp; &nbsp; <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 180px">
+<div id="container" style="white-space:nowrap">
+
+    <div id="texts" style="display:inline; white-space:nowrap;"> 
+        You can contact me at &nbsp; 
+    </div>
+
+    <div id="image" style="display:inline;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 180px">
+    </div>
+
+</div>
+  
 
 <!--To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
