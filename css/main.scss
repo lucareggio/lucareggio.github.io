@@ -83,13 +83,9 @@ firstp {
 
 /* Carousel */
 
-.carousel-item img{
- width: auto;
- height: 245px;
- max-height: 245px;
- margin: auto; 
- display: block;
- }
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
 
 .carousel {
     border-radius: 3px 3px 3px 3px;
