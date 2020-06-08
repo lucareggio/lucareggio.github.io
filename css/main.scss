@@ -83,6 +83,10 @@ firstp {
 
 /* Carousel */
 
-.carousel-inner > .item > img {
-  margin: 0 auto;
-}
+.carousel-item img{
+ width: auto;
+ height: 245px;
+ max-height: 245px;
+ margin: auto; 
+ display: block;
+ }
