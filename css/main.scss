@@ -91,8 +91,10 @@ firstp {
     margin-right: 30px;
 }
 
-.carousel-inner .item a img {
-
-margin: auto;
-
-}
+.carousel-item img{
+ width: auto;
+ height: 245px;
+ max-height: 245px;
+ margin: auto; 
+ display: block;
+ }
