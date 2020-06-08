@@ -74,6 +74,6 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 <br>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Oxford.gif" style="width: 210px","padding: 20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Oxford.gif" style="width: 180px","padding: 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 180px">
 </figure>
