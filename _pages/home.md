@@ -71,5 +71,6 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
 <br>
 
+<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png" style="width: 100px">
 </figure>
