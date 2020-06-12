@@ -8,21 +8,15 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+My research activity lies at the intersection of three areas: mathematical logic, theoretical computer science and duality theory. I am particularly interested in the interconnections between them. Duality theory, initiated by mathematician M. H. Stone in 1936, provides a mathematical framework to study connections such as those between algebra and geometry, or observables and states, which abound both in the mathematics and physics world. When applied to logic, duality allows us to study the link between syntax and semantics. In theoretical computer science, the interplay between syntax and semantics is of central importance, as the two sides correspond to specification languages and computational states. The ability to move between these two worlds has often proved a useful tool.
+A prime example is Abramsky's <em>domain theory in logical form</em> (Abramsky, 1991), bridging program logic and domain theory via Stone duality. 
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-<!--![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}-->
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+I pursue two main research directions. The first consists in developing and applying duality methods to more algorithmic areas of theoretical computer science, where duality has not yet played a role. These include formal language theory and finite model theory. In particular, I am currently working on a structural/topological understanding of Rossman's Equirank and Finite Homomorphism Preservation theorems (Rossman, 2005). An exciting challenge, in this respect, consists in combining the duality theoretic techniques with the categorical and comonadic approach recently put forward by Abramsky, Dawar and their collaborators.  
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
 
-<!--![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}-->
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface. <a id="D-FINED"></a>
+The second aims at studying logics with quantifiers using Stone-type dualities. While duality has proved a powerful tool in the study of propositional logics, many applications require first-order or higher-order logics. Although some notions of duality for first-order logics, based on categorical semantics, have been proposed (Makkai, 1987), applications are few and far between. On the other hand, in recent works with several collaborators I have shown that, in the context of logic on words and finite model theory, quantification dually corresponds to a space-of-measures construction. As part of my Marie Curie project I aim to provide a systematic understanding of quantifiers as dual to measures, and relate it to the categorical approach to the model theory of positive existential logic (Ben-Yaacov, 2003).
+ <a id="D-FINED"></a>
 
 <br>
 
