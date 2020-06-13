@@ -42,7 +42,7 @@ I am a Marie Skłodowska-Curie fellow at the [Department of Computer Science](ht
   </a>-->
 </div>
 
-I am part of [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)'s group, and collaborate with the Oxford and Cambridge teams on the EPSRC project "Resources and co-resources: a junction between semantics and descriptive complexity" co-led by Samson Abramsky and [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/).
+I am part of [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)'s group, and collaborate with the Oxford and Cambridge teams on the EPSRC project _"Resources and co-resources: a junction between semantics and descriptive complexity"_ co-led by Samson Abramsky and [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/).
 
 Before coming to Oxford, I was a postdoc researcher at the University of Bern, working on [George Metcalfe](https://www.math.unibe.ch/about_us/personen/prof_dr_metcalfe_george/index_eng.html)'s project _"Hidden Quantifiers"_, and at the Institute of Computer Science of the Czech Academy of Sciences in Prague.
 
