@@ -1,7 +1,7 @@
 ---
 title: "Luca Reggio - Research"
 layout: textlay
-excerpt: "Luca Reggio -- Research"
+excerpt: "Luca Reggio - Research"
 sitemap: false
 permalink: /research/
 ---
