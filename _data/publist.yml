@@ -25,9 +25,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1909.01631
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://link.springer.com/article/10.1007%2Fs10485-020-09604-y
+  publisheddisplay: Applied Categorical Structures, 2020
+  published: 1
   thesis: 0
 
 - title: A duality theoretic view on limits of finite structures
