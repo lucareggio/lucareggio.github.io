@@ -89,9 +89,9 @@
 - title: Quantifiers on languages and codensity monads
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
-  preprintavailable: 0
-  preprinturl: 0
-  preprintdisplay: 0
+  preprintavailable: 1
+  preprinturl: https://ora.ox.ac.uk/objects/uuid:cf51ae11-2d4c-493c-ab9c-d1fecf65e2bd
+  preprintdisplay: ORA
   publishedurl: https://ieeexplore.ieee.org/document/8005140
   publisheddisplay: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
   published: 1
