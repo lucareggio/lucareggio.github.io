@@ -66,6 +66,11 @@ I obtained my PhD in Mathematics at Université de Paris in September 2018, unde
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png" style="width: 100px">
+  &nbsp; &nbsp; &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg" style="width: 160px">
 </figure>
+
+<br>
+(All views expressed on this page are my own and may not reflect the opinions of any entity with which I have been affiliated.)
 
 <br>
