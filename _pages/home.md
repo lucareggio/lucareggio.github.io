@@ -71,6 +71,6 @@ I obtained my PhD in Mathematics at Université de Paris in September 2018, unde
 </figure>
 
 <br>
-(All views expressed on this page are my own and may not reflect the opinions of any entity with which I have been affiliated.)
+(All views expressed on this page are my own and may not reflect the opinions of any entity with which I am affiliated.)
 
 <br>
