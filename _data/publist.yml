@@ -47,9 +47,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1808.09738
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: http://www.tac.mta.ca/tac/volumes/35/51/35-51abs.html
+  publisheddisplay: Theory and Applications of Categories, Vol. 35, No. 51, pp. 1871-1906, 2020
+  published: 1
   thesis: 0
 
 - title: Quantifiers on languages and codensity monads
