@@ -18,6 +18,17 @@
   publisheddisplay: 0
   published: 0
   thesis: 0
+  
+- title: A characterisation of the category of compact Hausdorff spaces
+  authors:
+    Vincenzo Marra and Luca Reggio
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/1808.09738
+  preprintdisplay: arXiv
+  publishedurl: http://www.tac.mta.ca/tac/volumes/35/51/35-51abs.html
+  publisheddisplay: Theory and Applications of Categories, Vol. 35, No. 51, pp. 1871-1906, 2020
+  published: 1
+  thesis: 0  
 
 - title: On the axiomatisability of the dual of compact ordered spaces
   authors:
@@ -38,17 +49,6 @@
   preprintdisplay: arXiv
   publishedurl: https://link.springer.com/chapter/10.1007%2F978-3-030-45231-5_16
   publisheddisplay: Foundations of Software Science and Computation Structures (FoSSaCS), Proceedings of the 23rd International Conference, pp. 299-318, 2020
-  published: 1
-  thesis: 0
-
-- title: A characterisation of the category of compact Hausdorff spaces
-  authors:
-    Vincenzo Marra and Luca Reggio
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/1808.09738
-  preprintdisplay: arXiv
-  publishedurl: http://www.tac.mta.ca/tac/volumes/35/51/35-51abs.html
-  publisheddisplay: Theory and Applications of Categories, Vol. 35, No. 51, pp. 1871-1906, 2020
   published: 1
   thesis: 0
 
