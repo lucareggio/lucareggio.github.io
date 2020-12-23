@@ -13,7 +13,7 @@ permalink: /events
 {% for event in site.data.eventlist %}
 {% if event.upcoming == 1 %}
 
-  <a href="{{ event.url }}">{{ event.title }}</a>, ({{ event.place }}, {{ event.date }})
+  <a href="{{ event.url }}">{{ event.title }}</a> ({{ event.place }}, {{ event.date }})
 
 {% endif %}
 {% endfor %}
@@ -23,7 +23,7 @@ permalink: /events
 {% for event in site.data.eventlist %}
 {% if event.upcoming == 0 %}
 
-  <a href="{{ event.url }}">{{ event.title }}</a>, ({{ event.place }}, {{ event.date }})
+  <a href="{{ event.url }}">{{ event.title }}</a> ({{ event.place }}, {{ event.date }})
   
 {% endif %}  
 {% endfor %}
