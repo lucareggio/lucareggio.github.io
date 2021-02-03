@@ -9,12 +9,21 @@ permalink: /publications/
 
 # Publications
 
+## Preprints
 
+{% for publi in site.data.publist %}
+{% if publi.published == 0 and pub.submitted == 0 %}
+
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
+  Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
+
+{% endif %}
+{% endfor %}
 
 ## Submitted
 
 {% for publi in site.data.publist %}
-{% if publi.published == 0 %}
+{% if publi.published == 0 and pub.submitted == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
   Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>

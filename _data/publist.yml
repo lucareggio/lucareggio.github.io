@@ -1,6 +1,17 @@
+- title: Model completions for universal classes of algebras. Necessary and sufficient conditions
+  authors: George Metcalfe and Luca Reggio
+  submitted: 0  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2102.01426
+  preprintdisplay: arXiv
+  publishedurl: 0
+  publisheddisplay: 0
+  published: 0
+  thesis: 0
+
 - title: A duality theoretic view on limits of finite structures (Extended version)
-  authors:
-    Mai Gehrke, Tomas Jakl and Luca Reggio
+  authors: Mai Gehrke, Tomas Jakl and Luca Reggio
+  submitted: 1  
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2012.09975
   preprintdisplay: arXiv
@@ -11,6 +22,7 @@
 
 - title: Beth definability and the Stone-Weierstrass Theorem
   authors: Luca Reggio
+  submitted: 1 
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.05281
   preprintdisplay: arXiv
@@ -22,6 +34,7 @@
 - title: A Cook's tour of duality in logic. From quantifiers, through Vietoris, to measures
   authors:
     Mai Gehrke, Tomas Jakl and Luca Reggio
+  submitted: 1 
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.15415
   preprintdisplay: arXiv
@@ -33,6 +46,7 @@
 - title: A characterisation of the category of compact Hausdorff spaces
   authors:
     Vincenzo Marra and Luca Reggio
+  submitted: 1 
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1808.09738
   preprintdisplay: arXiv
@@ -44,6 +58,7 @@
 - title: On the axiomatisability of the dual of compact ordered spaces
   authors:
     Marco Abbadini and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1909.01631
   preprintdisplay: arXiv
@@ -55,6 +70,7 @@
 - title: A duality theoretic view on limits of finite structures
   authors:
     Mai Gehrke, Tomas Jakl and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1907.04036
   preprintdisplay: arXiv
@@ -66,6 +82,7 @@
 - title: Quantifiers on languages and codensity monads
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1702.08841
   preprintdisplay: arXiv
@@ -78,6 +95,7 @@
   description: ""
   authors:
     Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1807.10637
   preprintdisplay: arXiv
@@ -89,6 +107,7 @@
 - title: An open mapping theorem for finitely copresented Esakia spaces
   authors:
     Sam van Gool and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1710.01630
   preprintdisplay: arXiv
@@ -100,6 +119,7 @@
 - title: Quantifiers on languages and codensity monads
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://ora.ox.ac.uk/objects/uuid:cf51ae11-2d4c-493c-ab9c-d1fecf65e2bd
   preprintdisplay: ORA
@@ -111,6 +131,7 @@
 - title: Stone duality above dimension zero. Axiomatising the algebraic theory of C(X)
   authors:
     Vincenzo Marra and Luca Reggio
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1508.07750
   preprintdisplay: arXiv
@@ -123,6 +144,7 @@
 - title: The Schutzenberger Product for Syntactic Spaces
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
+  submitted: 1   
   preprintavailable: 0
   preprinturl: 0
   preprintdisplay: 0
