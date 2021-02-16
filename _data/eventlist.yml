@@ -10,11 +10,11 @@
   place: <del>Cambridge</del> Online
   date: 25-27 March 2020
   
-- title: 23rd International Conference on Foundations of Software Science and Computation Structures
-  upcoming: 1
-  url: https://www.etaps.org/2020/fossacs
-  place: <del>Dublin</del>
-  date: <del>27-30 April 2020</del> cancelled
+#- title: 23rd International Conference on Foundations of Software Science and Computation Structures
+#  upcoming: 1
+#  url: https://www.etaps.org/2020/fossacs
+#  place: <del>Dublin</del>
+#  date: <del>27-30 April 2020</del> cancelled
   
 - title: XXVII Incontro di Logica
   upcoming: 1
