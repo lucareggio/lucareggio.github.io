@@ -1,4 +1,30 @@
+- title: TBA
+  upcoming: 1
+  note: invited talk at
+  venueurlavailable: 1
+  venueurl: https://math.nmsu.edu/blast-2021/
+  venuedisplay: BLAST 2021 (Special session on Stone and Priestley dualities)
+  place: Online
+  date: 9-13 June 2021
+
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 0
+  venueurl: 
+  venuedisplay: Cambridge Category Theory Seminar
+  place: Online
+  date: 9 March 2021
+
 - title: Counting homomorphisms between finite structures
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://www.cs.cas.cz/logics/seminar.html
+  venuedisplay: Bern-Prague joint Logic Seminar
+  place: Online
+  date: 24 February 2021
+
+- title: Counting homomorphisms between finite structures
+  upcoming: 0
   venueurlavailable: 0
   venueurl: 
   venuedisplay: LMF Seminar (ENS Paris-Saclay)
@@ -6,6 +32,7 @@
   date: 11 December 2020
 
 - title: Quantifiers and measures
+  upcoming: 0
   note: invited talk at the
   venueurlavailable: 1
   venueurl: https://www.cst.cam.ac.uk/conference/coresources-2020/online-workshop
@@ -14,6 +41,7 @@
   date: 26 March 2020
 
 - title: Duality and limits of finite structures
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://www.ens-lyon.fr/LIP/PLUME/?page_id=202
   venuedisplay: PLUME Seminar
@@ -21,6 +49,7 @@
   date: 16 December 2019
 
 - title: Duality and limits of finite structures
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://www.lsv.fr/Seminaires/
   venuedisplay: LSV Seminar
@@ -28,6 +57,7 @@
   date: 10 December 2019
 
 - title: Formal languages, logic, and duality
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.math.unibe.ch/research/talks/colloquium/index_eng.html
   venuedisplay: Mathemathical Colloquium
@@ -35,6 +65,7 @@
   date: 11 November 2019
   
 - title: Uniform interpolation for intuitionistic logic via an open mapping theorem
+  upcoming: 0
   venueurlavailable: 0
   venueurl: 
   venuedisplay: Algebra Seminar
@@ -42,6 +73,7 @@
   date: 30 October 2019
   
 - title: Limits of finite structures, a duality theoretic perspective
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.irif.fr/en/seminaires/automates/index
   venuedisplay: Automata Seminar
@@ -49,6 +81,7 @@
   date: 25 October 2019
   
 - title: Dualities in Logic, old and new results
+  upcoming: 0
   note: invited talk at the
   venueurlavailable: 1
   venueurl: http://umi.dm.unibo.it/congresso2019/
@@ -57,6 +90,7 @@
   date: 2-7 September 2019
   
 - title: Axiomatising categories of spaces, the case of compact Hausdorff spaces
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://math.unice.fr/~tacl/2019/
   venuedisplay: TACL 2019
@@ -64,6 +98,7 @@
   date: 17-21 June 2019
   
 - title: Dualities in Logic
+  upcoming: 0
   note: two-part invited tutorial at
   venueurlavailable: 1
   venueurl: https://mathsites.unibe.ch/phdlogic2019/
@@ -72,6 +107,7 @@
   date: 24-26 April 2019
   
 - title: Uniform interpolation for IPC via an open mapping theorem for Esakia spaces
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.cs.cas.cz/logics/seminar.html
   venuedisplay: Seminar of Applied Mathematical Logic
@@ -79,6 +115,7 @@
   date: 20 February 2019 
   
 - title: Beth definability and the Stone-Weierstrass Theorem
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://events.illc.uva.nl/alg-coalg/
   venuedisplay: Algebra|Coalgebra Seminar
@@ -86,6 +123,7 @@
   date: 28 November 2018 
   
 - title: Duality, definability and continuous functions
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.cs.cas.cz/logics/seminar.html
   venuedisplay: Seminar of Applied Mathematical Logic
@@ -93,6 +131,7 @@
   date: 14 November 2018  
   
 - title: Pretoposes and topological representations
+  upcoming: 0
   note: invited talk at the
   venueurlavailable: 1
   venueurl: http://rmi.tsu.ge/tolo6/
@@ -101,6 +140,7 @@
   date: 2-6 July 2018  
   
 - title: Langages formels et dualité, entre syntaxe et sémantique
+  upcoming: 0
   note: invited talk at the workshop
   venueurlavailable: 1
   venueurl: https://math.unice.fr/~patras/PhilMathMED/index.html
@@ -109,6 +149,7 @@
   date: 31 May - 1 June 2018
   
 - title: A pretopos theoretic characterisation of compact Hausdorff spaces
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://math.unice.fr/~patras/CatLogTop/index.html
   venuedisplay: Journées niçoises de logique catégorique, topos et dualités
@@ -116,6 +157,7 @@
   date: 8-12 January 2018
   
 - title: Adding a layer of (simple) quantifiers via semidirect products and codensity monads, Part II
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://math.unice.fr/~reggio/GdT.html
   venuedisplay: séminaire Dualité de Stone, langages formels et logique
@@ -123,6 +165,7 @@
   date: 17 October 2017
   
 - title: Adding a layer of (simple) quantifiers via semidirect products and codensity monads, Part I
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://math.unice.fr/~reggio/GdT.html
   venuedisplay: séminaire Dualité de Stone, langages formels et logique
@@ -130,6 +173,7 @@
   date: 10 October 2017
   
 - title: Quantifiers, languages and codensity monads
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://www.cs.cas.cz/tacl2017/
   venuedisplay: TACL 2017
@@ -137,6 +181,7 @@
   date: 26-30 June 2017
   
 - title: Quantifiers on languages and codensity monads, Part II
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.irif.fr/~colcombe/duall_seminar_en.html
   venuedisplay: DuaLL seminar
@@ -144,6 +189,7 @@
   date: 19 April 2017
   
 - title: Quantifiers on languages and codensity monads, Part I
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.irif.fr/~colcombe/duall_seminar_en.html
   venuedisplay: DuaLL seminar
@@ -151,6 +197,7 @@
   date: 24 March 2017
   
 - title: The Schützenberger product for syntactic spaces
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://www.easyconferences.eu/icalp2016/
   venuedisplay: ICALP 2016
@@ -158,6 +205,7 @@
   date: 12-15 July 2016
   
 - title: Toward a general Stone-Gelfand duality
+  upcoming: 0
   note: invited talk at the
   venueurlavailable: 1
   venueurl: http://rmi.tsu.ge/tolo5/
@@ -166,6 +214,7 @@
   date: 13-17 June 2016
   
 - title: On existential quantification and hyperspaces for logic on words
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://logicseminar.di.unimi.it/
   venuedisplay: Logic seminar
@@ -173,6 +222,7 @@
   date: 7 April 2016
   
 - title: Duality theory - from algebra to topology, through logic
+  upcoming: 0
   venueurlavailable: 0
   venueurl:
   venuedisplay: Journée des entrants
@@ -180,6 +230,7 @@
   date: 2 November 2015
   
 - title: Axiomatising the dual of compact Hausdorff space
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://logica.dipmat.unisa.it/tacl/home-page/
   venuedisplay: TACL 2015
@@ -187,6 +238,7 @@
   date: 21-26 June 2015
   
 - title: Stone duality above dimension zero
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://home.fau.edu/wmcgove1/web/Conference2015/Conference2015.html
   venuedisplay: 18th Annual Conference on Ordered Algebraic Structures
@@ -194,6 +246,7 @@
   date: 9 May 2015
   
 - title: Stone duality above dimension zero - infinitary algebras of real-valued functions on compact Hausdorff spaces
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://local.disia.unifi.it/Beyond2014/
   venuedisplay:  Beyond true and false - Algebra, Logic and Topology
