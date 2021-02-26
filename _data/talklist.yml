@@ -6,8 +6,16 @@
   venuedisplay: BLAST 2021 (Special session on Stone and Priestley dualities)
   place: Online
   date: 9-13 June 2021
+  
+- title: Compact Hausdorff spaces and their algebraic dual
+  upcoming: 1
+  venueurlavailable: 0
+  venueurl: 
+  venuedisplay: Ottawa Categorical Logic Seminar
+  place: Online
+  date: 18 March 2021  
 
-- title: TBA
+- title: A characterisation of the category of compact Hausdorff spaces
   upcoming: 1
   venueurlavailable: 0
   venueurl: 
@@ -16,7 +24,7 @@
   date: 9 March 2021
 
 - title: Counting homomorphisms between finite structures
-  upcoming: 1
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://www.cs.cas.cz/logics/seminar.html
   venuedisplay: Bern-Prague joint Logic Seminar
