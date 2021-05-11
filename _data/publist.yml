@@ -48,9 +48,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.05281
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://www.sciencedirect.com/science/article/pii/S0168007221000488
+  publisheddisplay: Annals of Pure and Applied Logic, Vol. 172, Issue 8, 102990, 2021
+  published: 1
   thesis: 0
 
 - title: A Cook's tour of duality in logic. From quantifiers, through Vietoris, to measures
