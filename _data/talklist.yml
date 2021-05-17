@@ -1,3 +1,11 @@
+- title: Lovász-type theorems and game comonads
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: http://easyconferences.eu/lics2021/program/
+  venuedisplay: LiCS 2021
+  place: Online
+  date: 2 July 2021
+
 - title: Lovász-type theorems and polyadic spaces
   upcoming: 1
   note: invited talk at
@@ -6,6 +14,14 @@
   venuedisplay: BLAST 2021 (Special session on Stone and Priestley dualities)
   place: Online
   date: 9-13 June 2021
+  
+- title: Arboreal categories - An axiomatic theory of resources
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: http://www.ens-lyon.fr/LIP/PLUME/?page_id=202
+  venuedisplay: PLUME Seminar
+  place: Online
+  date: 7 June 2021
   
 - title: Compact Hausdorff spaces and their algebraic dual
   upcoming: 0
