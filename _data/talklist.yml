@@ -5,14 +5,22 @@
   venuedisplay: Logic Colloquium 2021
   place: Online
   date: 19-24 July 2021
+  
+- title: Arboreal categories and resources
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: http://easyconferences.eu/icalp2021/
+  venuedisplay: ICALP 2021
+  place: Online
+  date: 12-16 July 2021
 
 - title: Lovász-type theorems and game comonads
   upcoming: 1
   venueurlavailable: 1
-  venueurl: http://easyconferences.eu/lics2021/program/
+  venueurl: http://easyconferences.eu/lics2021/
   venuedisplay: LiCS 2021
   place: Online
-  date: 2 July 2021
+  date: 29 June - 2 July 2021
 
 - title: Lovász-type theorems and polyadic spaces
   upcoming: 1
@@ -24,7 +32,7 @@
   date: 9-13 June 2021
   
 - title: Arboreal categories - An axiomatic theory of resources
-  upcoming: 1
+  upcoming: 0
   venueurlavailable: 1
   venueurl: http://www.ens-lyon.fr/LIP/PLUME/?page_id=202
   venuedisplay: PLUME Seminar
