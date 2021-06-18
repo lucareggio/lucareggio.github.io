@@ -13,6 +13,14 @@
   venuedisplay: ICALP 2021
   place: Online
   date: 12-16 July 2021
+  
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: http://logica.dipmat.unisa.it/DOCToR/index.html
+  venuedisplay: DOCToR - Duality, Order, (Co)algebras, Topology, and Related topics
+  place: Online
+  date: 7-9 July 2021  
 
 - title: Lovász-type theorems and game comonads
   upcoming: 1
@@ -23,7 +31,7 @@
   date: 29 June - 2 July 2021
 
 - title: Lovász-type theorems and polyadic spaces
-  upcoming: 1
+  upcoming: 0
   note: invited talk at
   venueurlavailable: 1
   venueurl: https://math.nmsu.edu/blast-2021/
