@@ -101,16 +101,16 @@
   published: 1
   thesis: 0
 
-- title: Quantifiers on languages and codensity monads
+- title: Quantifiers on languages and codensity monads (Extended version)
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
   submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1702.08841
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1017/S0960129521000074
+  publisheddisplay: Mathematical Structures in Computer Science, pp. 1-35, 2021
+  published: 1
   thesis: 0
 
 - title: Codensity, profiniteness and algebras of semiring-valued measures
