@@ -1,15 +1,3 @@
-- title: Quantifiers on languages and codensity monads (Extended version)
-  authors:
-    Mai Gehrke, Daniela Petrisan and Luca Reggio
-  submitted: 1   
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/1702.08841
-  preprintdisplay: arXiv
-  publishedurl: https://doi.org/10.1017/S0960129521000074
-  publisheddisplay: Mathematical Structures in Computer Science, pp. 1-35, 2021
-  published: 1
-  thesis: 0
-
 - title: Arboreal categories. An axiomatic theory of resources
   authors: Samson Abramsky and Luca Reggio
   submitted: 1  
@@ -76,6 +64,18 @@
   publisheddisplay: 0
   published: 0
   thesis: 0
+  
+- title: Quantifiers on languages and codensity monads (Extended version)
+  authors:
+    Mai Gehrke, Daniela Petrisan and Luca Reggio
+  submitted: 1   
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/1702.08841
+  preprintdisplay: arXiv
+  publishedurl: https://doi.org/10.1017/S0960129521000074
+  publisheddisplay: Mathematical Structures in Computer Science, Vol. 30, Issue 10, pp. 1054-1088, 2020
+  published: 1
+  thesis: 0  
   
 - title: A characterisation of the category of compact Hausdorff spaces
   authors:
