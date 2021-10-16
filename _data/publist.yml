@@ -15,8 +15,8 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2105.03274
   preprintdisplay: arXiv
-  publishedurl: http://easyconferences.eu/lics2021/
-  publisheddisplay: To appear in the proceedings of the 36th Annual Symposium on Logic in Computer Science (LiCS 2021)
+  publishedurl: https://ieeexplore.ieee.org/document/9470609
+  publisheddisplay: Proceedings of the 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-13, 2021
   published: 1
   thesis: 0
 
@@ -146,7 +146,7 @@
   preprinturl: https://ora.ox.ac.uk/objects/uuid:cf51ae11-2d4c-493c-ab9c-d1fecf65e2bd
   preprintdisplay: ORA
   publishedurl: https://ieeexplore.ieee.org/document/8005140
-  publisheddisplay: 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), pp. 1-12, 2017
+  publisheddisplay: Proceedings of the 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-12, 2017
   published: 1
   thesis: 0
 
