@@ -1,3 +1,28 @@
+- title: Relating Structure to Power, an Invitation to Game Comonads
+  upcoming: 1
+  note: advanced course (taught jointly with Tomáš Jakl) at
+  venueurlavailable: 1
+  venueurl: https://2022.esslli.eu/
+  venuedisplay: ESSLLI Summer School
+  place: Galway
+  date: 8-19 August 2022
+
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://mathsites.unibe.ch/bernlogicseminar/HS2021.html
+  venuedisplay: Bern Logic Seminar
+  place: Bern
+  date: 16 December 2021
+
+- title: Game comonads - Towards an axiomatic theory of resources
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://chocola.ens-lyon.fr/events/
+  venuedisplay: Chocola meeting
+  place: Lyon
+  date: 2 December 2021
+
 - title: Game comonads and homomorphism counting in finite model theory
   upcoming: 0
   venueurlavailable: 1
