@@ -76,11 +76,11 @@
 #  place: <del>Dublin</del>
 #  date: <del>27-30 April 2020</del> cancelled
   
-- title: XXVII Incontro di Logica
-  upcoming: 1
-  url: http://www.ailalogica.it/incontro2020/
-  place: Caserta
-  date: <del>2-5 September 2020</del> postponed
+#- title: XXVII Incontro di Logica
+#  upcoming: 1
+#  url: http://www.ailalogica.it/incontro2020/
+#  place: Caserta
+#  date: <del>2-5 September 2020</del> postponed
 
 - title: Logic and Structure in Computer Science and Beyond
   upcoming: 0
