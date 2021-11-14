@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<!-->## Preprints
+<!--## Preprints
 
 {% for publi in site.data.publist %}
 {% if publi.published == 0 and publi.submitted == 0 %}
