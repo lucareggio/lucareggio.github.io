@@ -28,7 +28,7 @@ permalink: /publications/
 {% if publi.published == 0 and publi.submitted == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
+  Extended version of our ICALP'21 paper. Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
 
 {% endif %}
 {% endfor %}
