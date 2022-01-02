@@ -15,7 +15,7 @@ permalink: /publications/
 {% if publi.report == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  {{ publi.description }} Preprint available [here]({{ site.baseurl }}/downloads/coslices.pdf))</a>
+  {{ publi.description }} Preprint available [here]({{ site.baseurl }}/downloads/coslices.pdf)
 
 {% endif %}
 {% endfor %}
