@@ -9,6 +9,17 @@ permalink: /publications/
 
 # Publications
 
+## Technical reports
+
+{% for publi in site.data.publist %}
+{% if publi.report == 1 %}
+
+  <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
+  {{ publi.description }} Preprint available [here]({{ site.baseurl }}/downloads/coslices.pdf))</a>
+
+{% endif %}
+{% endfor %}
+
 
 ## Preprints
 
