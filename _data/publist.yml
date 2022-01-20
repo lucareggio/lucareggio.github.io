@@ -68,13 +68,13 @@
 
 - title: A duality theoretic view on limits of finite structures (Extended version)
   authors: Mai Gehrke, Tomas Jakl and Luca Reggio
-  submitted: 1  
-  preprintavailable: 1
+  submitted: 0  
+  preprintavailable: 0
   preprinturl: https://arxiv.org/abs/2012.09975
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://lmcs.episciences.org/8978
+  publisheddisplay: Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022
+  published: 1
   thesis: 0
 
 - title: Beth definability and the Stone-Weierstrass Theorem
