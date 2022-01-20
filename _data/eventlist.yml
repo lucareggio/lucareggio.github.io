@@ -1,3 +1,9 @@
+- title: XXVII Incontro di Logica
+  upcoming: 1
+  url: http://www.ailalogica.it/incontro2022/
+  place: Caserta
+  date: 12-15 September 2022
+
 - title: TACL 2021-22
   upcoming: 1
   url: https://www.mat.uc.pt/~tacl2021/
@@ -75,12 +81,6 @@
 #  url: https://www.etaps.org/2020/fossacs
 #  place: <del>Dublin</del>
 #  date: <del>27-30 April 2020</del> cancelled
-  
-#- title: XXVII Incontro di Logica
-#  upcoming: 1
-#  url: http://www.ailalogica.it/incontro2020/
-#  place: Caserta
-#  date: <del>2-5 September 2020</del> postponed
 
 - title: Logic and Structure in Computer Science and Beyond
   upcoming: 0
