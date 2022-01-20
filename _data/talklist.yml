@@ -7,13 +7,13 @@
   place: Galway
   date: 8-19 August 2022
 
-- title: TBA
-  upcoming: 1
-  venueurlavailable: 1
-  venueurl: https://mathsites.unibe.ch/bernlogicseminar/HS2021.html
-  venuedisplay: Bern Logic Seminar
-  place: Bern
-  date: 16 December 2021
+#- title: TBA
+#  upcoming: 1
+#  venueurlavailable: 1
+#  venueurl: https://mathsites.unibe.ch/bernlogicseminar/HS2021.html
+#  venuedisplay: Bern Logic Seminar
+#  place: Bern
+#  date: 16 December 2021
 
 - title: Game comonads - Towards an axiomatic theory of resources
   upcoming: 0
