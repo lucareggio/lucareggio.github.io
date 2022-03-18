@@ -53,3 +53,4 @@ For more on <b>game comonads</b>, have a look at the [Co-Wiki](https://kam.mff.c
 </figure>
 
 <br>
+
