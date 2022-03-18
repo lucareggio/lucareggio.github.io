@@ -10,7 +10,6 @@ permalink: /MSCA/
 
 From 1 February 2020 to 31 January 2022 I was a Marie Skłodowska-Curie fellow at the [Department of Computer Science](http://www.cs.ox.ac.uk/) of the University of Oxford. My project D-FINED was funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 837724.
 
-<br>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 220px">
 </figure>
