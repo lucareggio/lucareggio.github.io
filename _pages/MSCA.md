@@ -11,6 +11,11 @@ permalink: /MSCA/
 From 1 February 2020 to 31 January 2022 I was a Marie Skłodowska-Curie fellow at the [Department of Computer Science](http://www.cs.ox.ac.uk/) of the University of Oxford. My project D-FINED was funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 837724.
 
 <br>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 220px">
+</figure>
+
+<br>
 <b>Project synopsis</b>
 
 <b>Finite model theory</b> is the specialisation of model theory to finite structures, and has been called _"the logic of computer science"_ since in the latter field the basic models of computation are finite. Many classical results of model theory, such as the compactness theorem, fail when restricted to finite models. For this reason, finite model theory has developed independently from model theory and the research communities, as well as the techniques, are almost disjoint. Finite model theory exemplifies a strand in the field of logic in computer science focussing on <b>expressiveness and complexity</b> (<em>Power</em>), as opposed to the one focussing on <b>semantics and compositionality</b> (<em>Structure</em>). The project D-FINED (<u>D</u>uality for <u>fin</u>it<u>e</u> mo<u>d</u>els) aims to apply duality theory and categorical tools to bridge the gap between the semantics methods of model theory, and the combinatorial and complexity-theoretic methods of finite model theory, i.e., to relate <em>Structure</em> and <em>Power</em>.
@@ -45,11 +50,5 @@ Preprints of all publications mentioned above are available through the open acc
 
 <br>
 For more on <b>game comonads</b>, have a look at the [Co-Wiki](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Main_Page) maintained by [Tomáš Jakl](https://tomas.jakl.one/).
-
-<br>
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 220px">
-</figure>
 
 <br>
