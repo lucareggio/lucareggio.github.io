@@ -1,9 +1,9 @@
 ---
-title: "Luca Reggio - Research"
+title: "Luca Reggio - D-FINED"
 layout: textlay
-excerpt: "Luca Reggio - Research"
+excerpt: "Luca Reggio - D-FINED"
 sitemap: false
-permalink: /research/
+permalink: /MSCA/
 ---
 
 # Marie Skłodowska-Curie project D-FINED
