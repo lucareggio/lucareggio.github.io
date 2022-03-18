@@ -1,9 +1,9 @@
 ---
-title: "Luca Reggio - Research"
+title: "Luca Reggio - MSCA"
 layout: textlay
-excerpt: "Luca Reggio - Research"
+excerpt: "Luca Reggio - MSCA"
 sitemap: false
-permalink: /research/
+permalink: /MSCA/
 ---
 
 # Research
