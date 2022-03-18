@@ -44,7 +44,7 @@ Proceedings of the 48th International Colloquium on Automata, Languages, and Pro
 <li> Luca Reggio, <em>Polyadic sets and homomorphism counting</em>, under review. </li>
 </ol>
 
-Preprints of all publications mentioned above are available through the open access repository arXiv, see the [Publications](publications) page.
+Preprints of all publications mentioned above are available through the open access repository arXiv, see the [Publications](https://lucareggio.github.io/publications/) page.
 <br>
 
 <br>
