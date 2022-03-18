@@ -46,6 +46,8 @@ Preprints of all publications mentioned above are available through the open acc
 <br>
 For more on <b>game comonads</b>, have a look at the [Co-Wiki](https://kam.mff.cuni.cz/~jaklt/comonadwiki/index.php/Main_Page) maintained by [Tomáš Jakl](https://tomas.jakl.one/).
 
+<br>
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EC.jpg" style="width: 220px">
 </figure>
