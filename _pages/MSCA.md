@@ -39,7 +39,7 @@ This project may contribute to a more unified view of logic in mathematics and c
 Proceedings of the 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-13, 2021. </li>
 <li> Samson Abramsky and Luca Reggio, <em>Arboreal categories and resources</em>,
 Proceedings of the 48th International Colloquium on Automata, Languages, and Programming (ICALP), LIPIcs Vol. 198, pp. 115:1-115:20, 2021. </li>
-<li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A duality theoretic view on limits of finite structures, Extended version</em>, Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022. </li>
+<li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A duality theoretic view on limits of finite structures: Extended version</em>, Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022. </li>
 <li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A Cook’s tour of duality in logic. From quantifiers, through Vietoris, to measures</em>, Outstanding contributions to logic: Samson Abramsky, Springer, in press. </li>
 <li> George Metcalfe and Luca Reggio, <em>Model completions for universal classes of algebras: Necessary and sufficient conditions</em>, Journal of Symbolic Logic, in press. </li>
 <li> Luca Reggio, <em>Polyadic sets and homomorphism counting</em>, under review. </li>
