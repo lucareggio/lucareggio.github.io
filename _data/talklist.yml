@@ -1,3 +1,12 @@
+- title: TBA
+  upcoming: 1
+  note: invited talk (as recipient of the Premio Lettieri 2019 and Premio Gentilini per la Logica in Informatica) at
+  venueurlavailable: 1
+  venueurl: http://www.ailalogica.it/incontro2022/
+  venuedisplay: XXVII Incontro di Logica
+  place: Caserta
+  date: 12-15 September 2022
+
 - title: Relating Structure to Power, an Invitation to Game Comonads
   upcoming: 1
   note: advanced course (taught jointly with Tomáš Jakl) at
@@ -7,13 +16,13 @@
   place: Galway
   date: 8-19 August 2022
 
-#- title: TBA
-#  upcoming: 1
-#  venueurlavailable: 1
-#  venueurl: https://mathsites.unibe.ch/bernlogicseminar/HS2021.html
-#  venuedisplay: Bern Logic Seminar
-#  place: Bern
-#  date: 16 December 2021
+- title: Arboreal categories and homomorphism preservation theorems
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://mathsites.unibe.ch/ordalglogicworkshop/
+  venuedisplay: Ordered Algebras and Logic Workshop
+  place: Les Diablerets
+  date: 30 March - 2 April 2022
 
 - title: Game comonads - Towards an axiomatic theory of resources
   upcoming: 0
