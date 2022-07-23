@@ -1,3 +1,14 @@
+- title: Regular categories and soft sheaf representations
+  authors: Marco Abbadini and Luca Reggio
+  submitted: 0   
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2207.10041
+  preprintdisplay: arXiv
+  publishedurl: 0
+  publisheddisplay: 0
+  published: 0
+  thesis: 0
+
 - title: Homomorphism testing lemmas and coslices
   authors: Luca Reggio
   submitted: na  
@@ -10,7 +21,7 @@
   published: na
   thesis: 0
 
-- title: Polyadic Sets and Homomorphism Counting
+- title: Polyadic sets and homomorphism counting
   authors: Luca Reggio
   submitted: 1  
   preprintavailable: 1
@@ -35,10 +46,10 @@
 
 - title: A duality theoretic view on limits of finite structures (Extended version)
   authors: Mai Gehrke, Tomas Jakl and Luca Reggio
-  submitted: 0  
-  preprintavailable: 0
-  preprinturl: https://arxiv.org/abs/2012.09975
-  preprintdisplay: arXiv
+  submitted: 1  
+  preprintavailable: 1
+  preprinturl: https://zenodo.org/record/6762075
+  preprintdisplay: Zenodo
   publishedurl: https://lmcs.episciences.org/8978
   publisheddisplay: Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022
   published: 1
@@ -47,9 +58,9 @@
 - title: Arboreal categories and resources
   authors: Samson Abramsky and Luca Reggio
   submitted: 1  
-  preprintavailable: 0
-  preprinturl: 0
-  preprintdisplay: 0
+  preprintavailable: 1
+  preprinturl: https://zenodo.org/record/6761969
+  preprintdisplay: Zenodo
   publishedurl: https://drops.dagstuhl.de/opus/volltexte/2021/14184/
   publisheddisplay: 48th International Colloquium on Automata, Languages, and Programming (ICALP), LIPIcs Vol. 198, pp. 115:1-115:20, 2021
   published: 1

@@ -24,14 +24,30 @@
   venuedisplay: ESSLLI Summer School
   place: Galway
   date: 8-19 August 2022
+  
+- title: Regular categories and soft sheaf representations
+  upcoming: 0
+  venueurlavailable: 1
+  venueurl: https://www.mat.uc.pt/~tacl2021/
+  venuedisplay: TACL 2021-22
+  place: Coimbra
+  date: 20-24 June 2022  
 
 - title: Arboreal categories and homomorphism preservation theorems
-  upcoming: 1
+  upcoming: 0
   venueurlavailable: 1
-  venueurl: https://mathsites.unibe.ch/ordalglogicworkshop/
-  venuedisplay: Ordered Algebras and Logic Workshop
-  place: Les Diablerets
-  date: 30 March - 2 April 2022
+  venueurl: https://math.unice.fr/~carlos/pages/confs/duality22/DualityAndMore.html
+  venuedisplay: Duality and More workshop
+  place: Nice
+  date: 16-20 May 2022
+  
+#- title: Arboreal categories and homomorphism preservation theorems
+#  upcoming: 1
+#  venueurlavailable: 1
+#  venueurl: https://mathsites.unibe.ch/ordalglogicworkshop/
+#  venuedisplay: Ordered Algebras and Logic Workshop
+#  place: Les Diablerets
+#  date: 30 March - 2 April 2022  
 
 - title: Game comonads - Towards an axiomatic theory of resources
   upcoming: 0
