@@ -1,6 +1,6 @@
 - title: Regular categories and soft sheaf representations
   authors: Marco Abbadini and Luca Reggio
-  submitted: 0   
+  submitted: 1   
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2207.10041
   preprintdisplay: arXiv
@@ -9,17 +9,17 @@
   published: 0
   thesis: 0
 
-- title: Homomorphism testing lemmas and coslices
-  authors: Luca Reggio
-  submitted: na  
-  preprintavailable: 0
-  report: 1
-  preprinturl: 0
-  preprintdisplay: 0
-  publishedurl: 0
-  publisheddisplay: 0
-  published: na
-  thesis: 0
+#- title: Homomorphism testing lemmas and coslices
+#  authors: Luca Reggio
+#  submitted: na  
+#  preprintavailable: 0
+#  report: 1
+#  preprinturl: 0
+#  preprintdisplay: 0
+#  publishedurl: 0
+#  publisheddisplay: 0
+#  published: na
+#  thesis: 0
 
 - title: Polyadic sets and homomorphism counting
   authors: Luca Reggio
@@ -35,7 +35,7 @@
 - title: Arboreal categories. An axiomatic theory of resources
   authors: Samson Abramsky and Luca Reggio
   description: Extended version of the ICALP'21 paper.
-  submitted: 0  
+  submitted: 1  
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2102.08109
   preprintdisplay: arXiv
