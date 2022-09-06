@@ -1,3 +1,15 @@
+- title: XXII Congresso dell'Unione Matematica Italiana
+  upcoming: 1
+  url: https://umi.dm.unibo.it/congresso2023/
+  place: Pisa
+  date: 4-9 September 2023
+  
+- title: Resources in Computation workshop
+  upcoming: 1
+  url: 
+  place: London
+  date: 21-23 September 2022 
+
 - title: ItaCa Fest 2022
   upcoming: 1
   url: https://progetto-itaca.github.io/
@@ -11,7 +23,7 @@
   date: 12-15 September 2022
   
 - title: ESSLLI Summer School
-  upcoming: 1
+  upcoming: 0
   url: https://2022.esslli.eu/
   place: Galway
   date: 8-19 August 2022  

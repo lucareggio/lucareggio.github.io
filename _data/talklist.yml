@@ -1,5 +1,14 @@
 - title: TBA
   upcoming: 1
+  note: invited talk at the
+  venueurlavailable: 1
+  venueurl: https://umi.dm.unibo.it/congresso2023/
+  venuedisplay: XXII Congresso dell'Unione Matematica Italiana
+  place: Pisa
+  date: 4-9 September 2023
+
+- title: TBA
+  upcoming: 1
   note: invited talk at
   venueurlavailable: 1
   venueurl: https://progetto-itaca.github.io/
@@ -17,7 +26,7 @@
   date: 12-15 September 2022
 
 - title: Relating Structure to Power, an Invitation to Game Comonads
-  upcoming: 1
+  upcoming: 0
   note: advanced course (taught jointly with Tomáš Jakl) at
   venueurlavailable: 1
   venueurl: https://2022.esslli.eu/
