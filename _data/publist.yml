@@ -43,6 +43,18 @@
   publisheddisplay: 0
   published: 0
   thesis: 0
+  
+- title: Model completions for universal classes of algebras. Necessary and sufficient conditions
+  authors: George Metcalfe and Luca Reggio
+  submitted: 1  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2102.01426
+  preprintdisplay: arXiv
+  publishedurl: https://doi.org/10.1017/jsl.2022.1
+  publisheddisplay: Journal of Symbolic Logic
+  published: 1
+  inpress: To appear in the 
+  thesis: 0  
 
 - title: A duality theoretic view on limits of finite structures (Extended version)
   authors: Mai Gehrke, Tomas Jakl and Luca Reggio
@@ -75,18 +87,6 @@
   publishedurl: https://ieeexplore.ieee.org/document/9470609
   publisheddisplay: Proceedings of the 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-13, 2021
   published: 1
-  thesis: 0
-
-- title: Model completions for universal classes of algebras. Necessary and sufficient conditions
-  authors: George Metcalfe and Luca Reggio
-  submitted: 1  
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/2102.01426
-  preprintdisplay: arXiv
-  publishedurl: https://doi.org/10.1017/jsl.2022.1
-  publisheddisplay: Journal of Symbolic Logic
-  published: 1
-  inpress: To appear in the
   thesis: 0
 
 - title: Beth definability and the Stone-Weierstrass Theorem
