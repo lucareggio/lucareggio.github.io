@@ -50,7 +50,7 @@ permalink: /publications/
 {% if publi.published == 1 and publi.preprintavailable == 1 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  {{ publi.inpress }}<a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a> <br />
+  {{ publi.inpress }} <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a> <br />
   {{ publi.description }} Preprint available on <a href="{{ publi.preprinturl }}">{{ publi.preprintdisplay }}</a>
   
 {% endif %}  
@@ -58,7 +58,7 @@ permalink: /publications/
 {% if publi.published == 1 and publi.preprintavailable == 0 %}
 
   <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b> <br />
-  {{ publi.inpress }}<a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a> <br />
+  {{ publi.inpress }} <a href="{{ publi.publishedurl }}">{{ publi.publisheddisplay }}</a> <br />
   {{ publi.description }} 
   
 {% endif %}
