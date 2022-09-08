@@ -16,7 +16,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <b>Programme</b>
 
 <br>
-<b>Local information</b> \ The meeting will take place in Room -- at the Department of Computer Science of UCL, (<a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>), London WC1E 6EA. 
+<b>Local information</b> <br /> The meeting will take place in Room -- at the Department of Computer Science of UCL, (<a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>), London WC1E 6EA. 
 
 <br>
 <b>Organising and programme committee</b>
@@ -25,7 +25,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 - Rafal Stefanski
 
 <br>
-<b>Contact information</b> \ For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
+<b>Contact information</b> <br /> For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
 
 <br>
 <b>Confirmed participants</b>
