@@ -28,9 +28,9 @@ pn.extension(raw_css=[css])
 SimpleTable = pn.panel("""
 <div class="special_table"></div>
 
-|                          | **Wednesday** | **Thursday** | **Friday**            |
+|                          | **Wednesday** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | **Thursday** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | **Friday**            |
 |:-------------------------|:-------------:|:------------:|:---------------------:|
-| 9:30-10:30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |               | talk 5       | talk 10               |
+| 09:30-10:30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |               | talk 5       | talk 10               |
 | 10:30-11:00              | welcome       | coffee break | coffee break          |
 | 11:00-12:00              | talk 1        | talk 6       | talk 11               |
 | 12:00-14:00              | lunch break   | lunch break  | lunch break           |
