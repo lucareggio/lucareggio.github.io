@@ -26,6 +26,8 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 <br>
 <b>Contact information</b>
+
+<br>
 For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
 
 <br>
