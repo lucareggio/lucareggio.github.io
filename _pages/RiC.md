@@ -76,7 +76,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-f78n">16:00-16:30</td>
     <td class="tg-f78n">coffee break</td>
     <td class="tg-f78n">coffee break</td>
-    <td class="tg-f78n">coffee break</td>
+    <td class="tg-efqa"></td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:30</td>
