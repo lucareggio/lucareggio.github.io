@@ -10,7 +10,7 @@ permalink: /RiC2022/
 
 <br>
 
-This is the first meeting of the EPSRC project _"Resources in Computation"_, led by [Samson Abramsky](http://www0.cs.ucl.ac.uk/people/S.Abramsky.html). It will take place from September 21st to September 23rd 2022 at the Department of Computer Science of [University College London](https://www.ucl.ac.uk/).
+This is the first meeting of the EPSRC project _"Resources in Computation"_, led by [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). It will take place from September 21st to September 23rd 2022 at the Department of Computer Science of [University College London](https://www.ucl.ac.uk/).
 
 <br>
 <b>Programme</b> <br />
@@ -102,23 +102,23 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 <br>
 <b>Confirmed participants</b>
-- Samson Abramsky (University College London)
-- Rui Soares Barbosa (International Iberian Nanotechnology Laboratory)
-- Anuj Dawar (University of Cambridge)
-- Thomas Ehrhard (CNRS & IRIF)
-- Tomáš Jakl (University of Cambridge)
-- Amin Karamlou (University of Oxford)
-- Bartek Klin (University of Oxford)
-- Dan Marsden (University of Oxford)
-- Paul-André Melliès (CNRS & IRIF)
-- Yoàv Montacute (University of Cambridge)
-- Vincent Moreau (IRIF)
-- Joni Puljujärvi (University of Helsinki)
-- David Pym (University College London)
-- Luca Reggio (University College London)
-- Nihil Shah (University of Oxford)
-- Rafał Stefański (University College London)
-- Jouko Väänänen (University of Helsinki)
+- [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/) (University College London)
+- [Rui Soares Barbosa](https://www.ruisoaresbarbosa.com/) (International Iberian Nanotechnology Laboratory)
+- [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/) (University of Cambridge)
+- [Thomas Ehrhard](https://www.irif.fr/~ehrhard/) (CNRS & IRIF)
+- [Tomáš Jakl](https://tomas.jakl.one/) (University of Cambridge)
+- [Amin Karamlou](https://www.cs.ox.ac.uk/people/amin.karamlou/) (University of Oxford)
+- [Bartek Klin](https://www.cs.ox.ac.uk/people/bartek.klin/main.html) (University of Oxford)
+- [Dan Marsden](https://www.cs.ox.ac.uk/people/dan.marsden/) (University of Oxford)
+- [Paul-André Melliès](https://www.irif.fr/~mellies/) (CNRS & IRIF)
+- [Yoàv Montacute](https://www.cl.cam.ac.uk/~ym374/) (University of Cambridge)
+- [Vincent Moreau](https://www.irif.fr/users/moreau/index) (IRIF)
+- [Joni Puljujärvi](https://www.mv.helsinki.fi/home/jopujo/) (University of Helsinki)
+- [David Pym](http://www0.cs.ucl.ac.uk/staff/D.Pym/) (University College London)
+- [Luca Reggio](https://lucareggio.github.io/) (University College London)
+- [Nihil Shah](https://www.cs.ox.ac.uk/people/nihil.shah/) (University of Oxford)
+- [Rafał Stefański](http://www0.cs.ucl.ac.uk/people/R.Stefanski.html) (University College London)
+- [Jouko Väänänen](http://www.math.helsinki.fi/logic/people/jouko.vaananen/) (University of Helsinki)
 
 
 
