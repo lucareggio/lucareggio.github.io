@@ -26,10 +26,7 @@ The meeting will take place in Room -- at the Department of Computer Science of 
 - Rafal Stefanski
 
 <br>
-<b>Contact information</b>
-
-<br>
-For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
+<b>Contact information</b> \ For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
 
 <br>
 <b>Confirmed participants</b>
