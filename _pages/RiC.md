@@ -33,7 +33,7 @@ For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafa≈
 
 <br>
 <b>Confirmed participants</b>
-- Samson Abramsk
+- Samson Abramsky
 - Rui Soares Barbosa
 - Anuj Dawar
 - Thomas Ehrhard
