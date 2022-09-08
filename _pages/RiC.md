@@ -112,6 +112,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 - Dan Marsden
 - Paul-André Melliès
 - Yoàv Montacute
+- Vincent Moreau
 - Joni Puljujärvi
 - David Pym
 - Luca Reggio
