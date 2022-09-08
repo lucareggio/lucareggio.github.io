@@ -102,23 +102,23 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 <br>
 <b>Confirmed participants</b>
-- Samson Abramsky
-- Rui Soares Barbosa
-- Anuj Dawar
-- Thomas Ehrhard
-- Tomáš Jakl
-- Amin Karamlou
-- Bartek Klin
-- Dan Marsden
-- Paul-André Melliès
-- Yoàv Montacute
-- Vincent Moreau
-- Joni Puljujärvi
-- David Pym
-- Luca Reggio
-- Nihil Shah
-- Rafał Stefański
-- Jouko Väänänen
+- Samson Abramsky (University College London)
+- Rui Soares Barbosa (International Iberian Nanotechnology Laboratory)
+- Anuj Dawar (University of Cambridge)
+- Thomas Ehrhard (CNRS & IRIF)
+- Tomáš Jakl (University of Cambridge)
+- Amin Karamlou (University of Oxford)
+- Bartek Klin (University of Oxford)
+- Dan Marsden (University of Oxford)
+- Paul-André Melliès (CNRS & IRIF)
+- Yoàv Montacute (University of Cambridge)
+- Vincent Moreau (IRIF)
+- Joni Puljujärvi (University of Helsinki)
+- David Pym (University College London)
+- Luca Reggio (University College London)
+- Nihil Shah (University of Oxford)
+- Rafał Stefański (University College London)
+- Jouko Väänänen (University of Helsinki)
 
 
 
