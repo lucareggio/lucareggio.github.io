@@ -21,68 +21,68 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   overflow:hidden;padding:13px 20px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:13px 20px;word-break:normal;}
-.tg .tg-mst7{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:bottom}
-.tg .tg-fmc2{border-color:#ffffff;text-align:center;vertical-align:bottom}
-.tg .tg-tnwj{border-color:#ffffff;color:#fd6864;font-weight:bold;text-align:center;vertical-align:bottom}
-.tg .tg-cfog{background-color:#9eb6fa;border-color:#ffffff;text-align:center;vertical-align:bottom}
+.tg .tg-ljam{border-color:#000000;text-align:center;vertical-align:bottom}
+.tg .tg-opy8{background-color:#9eb6fa;border-color:#000000;text-align:center;vertical-align:bottom}
+.tg .tg-wk8z{border-color:#000000;color:#fd6864;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-g3j9{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:bottom}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fmc2"></th>
-    <th class="tg-tnwj">Wednesday 21</th>
-    <th class="tg-tnwj">Thursday 22</th>
-    <th class="tg-tnwj">Friday 23</th>
+    <th class="tg-ljam"></th>
+    <th class="tg-wk8z">Wednesday 21</th>
+    <th class="tg-wk8z">Thursday 22</th>
+    <th class="tg-wk8z">Friday 23</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mst7">9:30-10:30</td>
-    <td class="tg-mst7"> </td>
-    <td class="tg-mst7">talk 5</td>
-    <td class="tg-mst7">talk 10</td>
+    <td class="tg-g3j9">9:30-10:30</td>
+    <td class="tg-g3j9"> </td>
+    <td class="tg-g3j9">talk 5</td>
+    <td class="tg-g3j9">talk 10</td>
   </tr>
   <tr>
-    <td class="tg-cfog">10:30-11:00</td>
-    <td class="tg-cfog">welcome</td>
-    <td class="tg-cfog">coffee break</td>
-    <td class="tg-cfog">coffee break</td>
+    <td class="tg-opy8">10:30-11:00</td>
+    <td class="tg-opy8">welcome</td>
+    <td class="tg-opy8">coffee break</td>
+    <td class="tg-opy8">coffee break</td>
   </tr>
   <tr>
-    <td class="tg-mst7">11:00-12:00</td>
-    <td class="tg-mst7">talk 1</td>
-    <td class="tg-mst7">talk 6</td>
-    <td class="tg-mst7">talk 11</td>
+    <td class="tg-g3j9">11:00-12:00</td>
+    <td class="tg-g3j9">talk 1</td>
+    <td class="tg-g3j9">talk 6</td>
+    <td class="tg-g3j9">talk 11</td>
   </tr>
   <tr>
-    <td class="tg-cfog">12:00-14:00</td>
-    <td class="tg-cfog">lunch break</td>
-    <td class="tg-cfog">lunch break</td>
-    <td class="tg-cfog">lunch break</td>
+    <td class="tg-opy8">12:00-14:00</td>
+    <td class="tg-opy8">lunch break</td>
+    <td class="tg-opy8">lunch break</td>
+    <td class="tg-opy8">lunch break</td>
   </tr>
   <tr>
-    <td class="tg-mst7">14:00-15:00</td>
-    <td class="tg-mst7">talk 2</td>
-    <td class="tg-mst7">talk 7</td>
-    <td class="tg-mst7">discussion/conclusion</td>
+    <td class="tg-g3j9">14:00-15:00</td>
+    <td class="tg-g3j9">talk 2</td>
+    <td class="tg-g3j9">talk 7</td>
+    <td class="tg-g3j9">discussion/conclusion</td>
   </tr>
   <tr>
-    <td class="tg-fmc2">15:00-16:00</td>
-    <td class="tg-fmc2">talk 3</td>
-    <td class="tg-fmc2">talk 8</td>
-    <td class="tg-mst7"> </td>
+    <td class="tg-ljam">15:00-16:00</td>
+    <td class="tg-ljam">talk 3</td>
+    <td class="tg-ljam">talk 8</td>
+    <td class="tg-g3j9"> </td>
   </tr>
   <tr>
-    <td class="tg-cfog">16:00-16:30</td>
-    <td class="tg-cfog">coffee break</td>
-    <td class="tg-cfog">coffee break</td>
-    <td class="tg-cfog">coffee break</td>
+    <td class="tg-opy8">16:00-16:30</td>
+    <td class="tg-opy8">coffee break</td>
+    <td class="tg-opy8">coffee break</td>
+    <td class="tg-opy8">coffee break</td>
   </tr>
   <tr>
-    <td class="tg-fmc2">16:30-17:30</td>
-    <td class="tg-fmc2">talk 4</td>
-    <td class="tg-fmc2">talk 9</td>
-    <td class="tg-mst7"> </td>
+    <td class="tg-ljam">16:30-17:30</td>
+    <td class="tg-ljam">talk 4</td>
+    <td class="tg-ljam">talk 9</td>
+    <td class="tg-g3j9"> </td>
   </tr>
 </tbody>
 </table>
