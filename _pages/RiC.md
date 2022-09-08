@@ -15,16 +15,40 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <br>
 <b>Programme</b> <br />
 
-|                          | **Wednesday** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | **Thursday** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | **Friday**            |
-|:-------------------------|:-------------:|:------------:|:---------------------:|
-| 09:30-10:30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |               | talk 5       | talk 10               |
-| 10:30-11:00              | welcome       | coffee break | coffee break          |
-| 11:00-12:00              | talk 1        | talk 6       | talk 11               |
-| 12:00-14:00              | lunch break   | lunch break  | lunch break           |
-| 14:00-15:00              | talk 2        | talk 7       | discussion/conclusion |
-| 15:00-16:00              | talk 3        | talk 8       |                       |
-| 16:00-16:30              | coffee break  | coffee break |                       |
-| 16:30-17:30              | talk 4        | talk 9       |                       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Wednesday 21/09</th>
+    <th class="tg-0pky">Thursday 22/09</th>
+    <th class="tg-0pky">Friday 23/09</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 
 <br>
