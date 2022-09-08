@@ -1,6 +1,6 @@
 ---
 title: "Resources in Computation 2022"
-layout: textlay
+layout: page
 excerpt: "Resources in Computation 2022"
 sitemap: false
 permalink: /RiC2022/
