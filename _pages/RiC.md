@@ -15,6 +15,19 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <br>
 <b>Programme</b> <br />
 
+import panel as pn
+
+css = """
+div.special_table + table, th, td {
+  border: 1px solid black;
+}
+"""
+
+pn.extension(raw_css=[css])
+
+SimpleTable = pn.panel("""
+<div class="special_table"></div>
+
 |                          | **Wednesday** | **Thursday** | **Friday**            |
 |:-------------------------|:-------------:|:------------:|:---------------------:|
 | 9:30-10:30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |               | talk 5       | talk 10               |
