@@ -15,7 +15,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <br>
 <b>Programme</b> <br />
 
-| &nbsp;&nbsp;| **Wednesday** | **Thursday** | **Friday**            |
+|&nbsp; &nbsp;| **Wednesday** | **Thursday** | **Friday**            |
 |:-----------:|:-------------:|:------------:|:---------------------:|
 | 9:30-10:30  |               | talk 5       | talk 10               |
 | 10:30-11:00 | welcome       | coffee break | coffee break          |
