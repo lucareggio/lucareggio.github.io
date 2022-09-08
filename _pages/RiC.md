@@ -10,13 +10,14 @@ permalink: /RiC2022/
 
 <br>
 
-This is the first meeting of the EPSRC project _"Resources in Computation"_, led by Samson Abramsky. It will take place from September 21st to September 23rd 2022 at the Department of Computer Science of [University College London](https://www.ucl.ac.uk/).
+This is the first meeting of the EPSRC project _"Resources in Computation"_, led by [Samson Abramsky](http://www0.cs.ucl.ac.uk/people/S.Abramsky.html). It will take place from September 21st to September 23rd 2022 at the Department of Computer Science of [University College London](https://www.ucl.ac.uk/).
 
 <br>
 <b>Programme</b>
 
 <br>
 <b>Local information</b>
+The meeting will take place in Room -- at the Department of Computer Science of UCL, (<a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>), London WC1E 6EA. 
 
 <br>
 <b>Organising and programme committee</b>
