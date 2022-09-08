@@ -34,7 +34,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <b>Organising and programme committee</b>
 - Samson Abramsky
 - Luca Reggio
-- Rafal Stefanski
+- Rafał Stefański
 
 <br>
 <b>Contact information</b> <br /> For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
