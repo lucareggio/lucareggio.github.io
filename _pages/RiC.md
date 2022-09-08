@@ -26,10 +26,26 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 <br>
 <b>Contact information</b>
-For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafal Stefanski.
+For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafal Stefanski `r.stefanski@ucl.ac.uk`.
 
 <br>
 <b>Confirmed participants</b>
+- Anuj Dawar
+- Tomas Jakl
+- Yoàv Montacute
+- Jouko Väänänen
+- Joni Puljujärvi
+- Thomas Ehrhard
+- Paul-André Melliès
+- David Pym
+- Rui Soares Barbosa
+- Bartek Klin
+- Amin Karamlou
+- Dan Marsden
+- Nihil Shah
+- Samson Abramsky
+- Rafal Stefansky
+- Luca Reggio
 
 
 
