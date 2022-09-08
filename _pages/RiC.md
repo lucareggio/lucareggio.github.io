@@ -15,16 +15,17 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <br>
 <b>Programme</b> <br />
 
-|&nbsp; &nbsp;| **Wednesday** | **Thursday** | **Friday**            |
-|:-----------:|:-------------:|:------------:|:---------------------:|
-| 9:30-10:30  |               | talk 5       | talk 10               |
-| 10:30-11:00 | welcome       | coffee break | coffee break          |
-| 11:00-12:00 | talk 1        | talk 6       | talk 11               |
-| 12:00-14:00 | lunch break   | lunch break  | lunch break           |
-| 14:00-15:00 | talk 2        | talk 7       | discussion/conclusion |
-| 15:00-16:00 | talk 3        | talk 8       |                       |
-| 16:00-16:30 | coffee break  | coffee break |                       |
-| 16:30-17:30 | talk 4        | talk 9       |                       |
+|                          | **Wednesday** | **Thursday** | **Friday**            |
+|:------------------------:|:-------------:|:------------:|:---------------------:|
+| 9:30-10:30 &nbsp; &nbsp; |               | talk 5       | talk 10               |
+| 10:30-11:00              | welcome       | coffee break | coffee break          |
+| 11:00-12:00              | talk 1        | talk 6       | talk 11               |
+| 12:00-14:00              | lunch break   | lunch break  | lunch break           |
+| 14:00-15:00              | talk 2        | talk 7       | discussion/conclusion |
+| 15:00-16:00              | talk 3        | talk 8       |                       |
+| 16:00-16:30              | coffee break  | coffee break |                       |
+| 16:30-17:30              | talk 4        | talk 9       |                       |
+
 
 
 <br>
