@@ -62,7 +62,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">14:00-15:00</td>
-    <td class="tg-efqa">Jouko Väänänen</td>
+    <td class="tg-efqa">Jouko Väänänen <br> <b>On three games of logic</b></td>
     <td class="tg-efqa">Thomas Ehrhard</td>
     <td class="tg-efqa">discussion/conclusion</td>
   </tr>
