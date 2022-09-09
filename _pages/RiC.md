@@ -69,7 +69,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1">15:00-16:00</td>
     <td class="tg-c0l1">Samson Abramsky</td>
-    <td class="tg-c0l1">Vincent Moreau / <br> ???</td>
+    <td class="tg-c0l1">Vincent Moreau / <br> Amin Karamlou</td>
     <td class="tg-efqa"> </td>
   </tr>
   <tr>
@@ -80,8 +80,8 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:30</td>
-    <td class="tg-c0l1">Joni Puljujärvi / <br> ???</td>
-    <td class="tg-c0l1">Tomáš Jakl / <br> ???</td>
+    <td class="tg-c0l1">Joni Puljujärvi / <br> Dan Marsden</td>
+    <td class="tg-c0l1">Tomáš Jakl / <br> Yoàv Montacute</td>
     <td class="tg-efqa"> </td>
   </tr>
 </tbody>
