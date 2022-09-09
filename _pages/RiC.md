@@ -50,7 +50,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
-    <td class="tg-efqa">talk 1</td>
+    <td class="tg-efqa">Rui Soares Barbosa?</td>
     <td class="tg-efqa">Anuj Dawar</td>
     <td class="tg-efqa">talk 11</td>
   </tr>
@@ -68,7 +68,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1">15:00-16:00</td>
-    <td class="tg-c0l1">talk 3</td>
+    <td class="tg-c0l1">Samson Abramsky</td>
     <td class="tg-c0l1">talk 8</td>
     <td class="tg-efqa"> </td>
   </tr>
