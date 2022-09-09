@@ -40,7 +40,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">9:30-10:30</td>
     <td class="tg-efqa"> </td>
     <td class="tg-efqa">Paul-André Melliès</td>
-    <td class="tg-efqa">talk 10</td>
+    <td class="tg-efqa">Rafał Stefański</td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
@@ -69,7 +69,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1">15:00-16:00</td>
     <td class="tg-c0l1">Samson Abramsky</td>
-    <td class="tg-c0l1">talk 8</td>
+    <td class="tg-c0l1">Vincent Moreau / <br> ???</td>
     <td class="tg-efqa"> </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1">16:30-17:30</td>
     <td class="tg-c0l1">Joni Puljujärvi / <br> ???</td>
-    <td class="tg-c0l1">Rafał Stefański</td>
+    <td class="tg-c0l1">Tomáš Jakl / <br> ???</td>
     <td class="tg-efqa"> </td>
   </tr>
 </tbody>
