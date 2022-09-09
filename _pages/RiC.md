@@ -51,7 +51,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">talk 1</td>
-    <td class="tg-efqa">talk 6</td>
+    <td class="tg-efqa">Anuj</td>
     <td class="tg-efqa">talk 11</td>
   </tr>
   <tr>
@@ -62,8 +62,8 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">14:00-15:00</td>
-    <td class="tg-efqa">talk 2</td>
-    <td class="tg-efqa">talk 7</td>
+    <td class="tg-efqa">Jouko</td>
+    <td class="tg-efqa">Thomas Ehrhard</td>
     <td class="tg-efqa">discussion/conclusion</td>
   </tr>
   <tr>
