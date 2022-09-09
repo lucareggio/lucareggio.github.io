@@ -39,7 +39,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">9:30-10:30</td>
     <td class="tg-efqa"> </td>
-    <td class="tg-efqa">Paul-André Melliès <br> <b>A functorial excursion between linear logic and algebraic geometry</b></td>
+    <td class="tg-efqa">Paul-André Melliès <br> <b>A functorial excursion between linear <br>logic and algebraic geometry</b></td>
     <td class="tg-efqa">Rafał Stefański</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">14:00-15:00</td>
     <td class="tg-efqa">Jouko Väänänen <br> <b>On three games of logic</b></td>
-    <td class="tg-efqa">Thomas Ehrhard</td>
+    <td class="tg-efqa">Thomas Ehrhard <br> <b>Coherent differentiation</b></td>
     <td class="tg-efqa">discussion/conclusion</td>
   </tr>
   <tr>
