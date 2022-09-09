@@ -39,7 +39,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">9:30-10:30</td>
     <td class="tg-efqa"> </td>
-    <td class="tg-efqa">Paul-André Melliès</td>
+    <td class="tg-efqa">Paul-André Melliès <br> <b>A functorial excursion between linear logic and algebraic geometry</b></td>
     <td class="tg-efqa">Rafał Stefański</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">Rui Soares Barbosa?</td>
-    <td class="tg-efqa">Anuj Dawar</td>
+    <td class="tg-efqa">Anuj Dawar <br> <b>Linear Algebraic Quantifiers</b></td>
     <td class="tg-efqa">talk 11</td>
   </tr>
   <tr>
