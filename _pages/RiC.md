@@ -18,9 +18,9 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:13px 18px;word-break:normal;}
+  overflow:hidden;padding:13px 20px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:13px 18px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:13px 20px;word-break:normal;}
 .tg .tg-c0l1{border-color:#c0c0c0;text-align:center;vertical-align:center}
 .tg .tg-f78n{background-color:#9eb6fa;border-color:#c0c0c0;text-align:center;vertical-align:center}
 .tg .tg-xz0k{border-color:#c0c0c0;color:#fd6864;font-weight:bold;text-align:center;vertical-align:center}
@@ -70,7 +70,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
     <td class="tg-c0l1" rowspan="2">Samson Abramsky</td>
     <td class="tg-c0l1">Vincent Moreau</td>
-    <td class="tg-efqa" rowspan="4"> </td>
+    <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
     <td class="tg-c0l1">Amin Karamlou</td>
@@ -80,7 +80,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-f78n">16:00-16:30</td>
     <td class="tg-f78n">coffee break</td>
     <td class="tg-f78n">coffee break</td>
-    <td class="tg-efqa"></td>
+    <!--<td class="tg-efqa"></td>-->
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
