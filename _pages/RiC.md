@@ -18,9 +18,9 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:13px 20px;word-break:normal;}
+  overflow:hidden;padding:13px 18px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:13px 20px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:13px 18px;word-break:normal;}
 .tg .tg-c0l1{border-color:#c0c0c0;text-align:center;vertical-align:center}
 .tg .tg-f78n{background-color:#9eb6fa;border-color:#c0c0c0;text-align:center;vertical-align:center}
 .tg .tg-xz0k{border-color:#c0c0c0;color:#fd6864;font-weight:bold;text-align:center;vertical-align:center}
