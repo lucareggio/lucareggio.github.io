@@ -70,7 +70,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
     <td class="tg-c0l1" rowspan="2">Samson Abramsky</td>
     <td class="tg-c0l1">Vincent Moreau</td>
-    <td class="tg-efqa" rowspan="1"> </td>
+    <td class="tg-efqa" rowspan="4"> </td>
   </tr>
   <tr>
     <td class="tg-c0l1">Amin Karamlou</td>
