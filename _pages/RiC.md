@@ -67,11 +67,15 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">discussion/conclusion</td>
   </tr>
   <tr>
-    <td class="tg-c0l1">15:00-16:00</td>
-    <td class="tg-c0l1">Samson Abramsky</td>
-    <td class="tg-c0l1">Vincent Moreau / <br> Amin Karamlou</td>
+    <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
+    <td class="tg-c0l1" rowspan="2">Samson Abramsky</td>
+    <td class="tg-c0l1">Vincent Moreau</td>
     <td class="tg-efqa"> </td>
   </tr>
+  <tr>
+    <td class="tg-c0l1">Amin Karamlou</td>
+    <td class="tg-efqa"> </td>
+  </tr>  
   <tr>
     <td class="tg-f78n">16:00-16:30</td>
     <td class="tg-f78n">coffee break</td>
@@ -80,7 +84,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
-    <td class="tg-c0l1">Joni Puljujärvi</td>
+    <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team Semantics and Independence Notions in Quantum Physics</b></td>
     <td class="tg-c0l1">Tomáš Jakl</td>
     <td class="tg-efqa"> </td>
   </tr>
