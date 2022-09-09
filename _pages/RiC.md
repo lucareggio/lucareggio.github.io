@@ -74,7 +74,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1">Amin Karamlou</td>
-    <td class="tg-efqa"> </td>
+    <!--<td class="tg-efqa"> </td>-->
   </tr>  
   <tr>
     <td class="tg-f78n">16:00-16:30</td>
@@ -86,12 +86,12 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
     <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team semantics and independence <br>notions in quantum physics</b></td>
     <td class="tg-c0l1">Tomáš Jakl</td>
-    <td class="tg-efqa"> </td>
+    <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
     <td class="tg-c0l1">Dan Marsden</td>
     <td class="tg-c0l1">Yoàv Montacute</td>
-    <td class="tg-efqa"> </td>
+    <!--<td class="tg-efqa"> </td>-->
   </tr>
 </tbody>
 </table>
