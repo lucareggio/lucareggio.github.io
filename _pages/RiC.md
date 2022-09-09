@@ -84,7 +84,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
-    <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team Semantics and Independence Notions in Quantum Physics</b></td>
+    <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team semantics and independence <br>notions in quantum physics</b></td>
     <td class="tg-c0l1">Tomáš Jakl</td>
     <td class="tg-efqa"> </td>
   </tr>
