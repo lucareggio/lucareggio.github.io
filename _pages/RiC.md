@@ -79,9 +79,14 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa"></td>
   </tr>
   <tr>
-    <td class="tg-c0l1" rowspan="1">16:30-17:30</td>
-    <td class="tg-c0l1">Joni Puljujärvi / <br> Dan Marsden</td>
-    <td class="tg-c0l1">Tomáš Jakl / <br> Yoàv Montacute</td>
+    <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
+    <td class="tg-c0l1">Joni Puljujärvi</td>
+    <td class="tg-c0l1">Tomáš Jakl</td>
+    <td class="tg-efqa"> </td>
+  </tr>
+  <tr>
+    <td class="tg-c0l1">Dan Marsden</td>
+    <td class="tg-c0l1">Yoàv Montacute</td>
     <td class="tg-efqa"> </td>
   </tr>
 </tbody>
