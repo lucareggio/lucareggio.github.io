@@ -80,8 +80,8 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:30</td>
-    <td class="tg-c0l1">talk 4</td>
-    <td class="tg-c0l1">talk 9</td>
+    <td class="tg-c0l1">Joni Puljujärvi / ???</td>
+    <td class="tg-c0l1">Rafał Stefański</td>
     <td class="tg-efqa"> </td>
   </tr>
 </tbody>
