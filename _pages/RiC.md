@@ -40,7 +40,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">9:30-10:30</td>
     <td class="tg-efqa"> </td>
     <td class="tg-efqa">Paul-André Melliès <br> <b>A functorial excursion between linear <br>logic and algebraic geometry</b></td>
-    <td class="tg-efqa">Rafał Stefański</td>
+    <td class="tg-efqa">Rafał Stefański <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
@@ -50,7 +50,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
-    <td class="tg-efqa">Rui Soares Barbosa?</td>
+    <td class="tg-efqa">Rui Soares Barbosa? <br> <b>Title</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear Algebraic Quantifiers</b></td>
     <td class="tg-efqa">talk 11</td>
   </tr>
@@ -68,12 +68,12 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
-    <td class="tg-c0l1" rowspan="2">Samson Abramsky</td>
-    <td class="tg-c0l1">Vincent Moreau</td>
+    <td class="tg-c0l1" rowspan="2">Samson Abramsky <br> <b>Title</b></td>
+    <td class="tg-c0l1">Vincent Moreau <br> <b>Title</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1">Amin Karamlou</td>
+    <td class="tg-c0l1">Amin Karamlou <br> <b>Title</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>  
   <tr>
@@ -85,12 +85,12 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
     <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team semantics and independence <br>notions in quantum physics</b></td>
-    <td class="tg-c0l1">Tomáš Jakl</td>
+    <td class="tg-c0l1">Tomáš Jakl <br> <b>A structural account of composition methods in logic</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1">Dan Marsden</td>
-    <td class="tg-c0l1">Yoàv Montacute</td>
+    <td class="tg-c0l1">Dan Marsden <br> <b>Comonadic semantics for hybrid logic</b></td>
+    <td class="tg-c0l1">Yoàv Montacute <br> <b>Title</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
 </tbody>
