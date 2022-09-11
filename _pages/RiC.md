@@ -52,7 +52,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">Rui Soares Barbosa <br> <b>TBA</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear Algebraic Quantifiers</b></td>
-    <td class="tg-efqa">talk 11</td>
+    <td class="tg-efqa">talk</td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
