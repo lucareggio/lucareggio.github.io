@@ -98,7 +98,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 
 <br>
-<b>Local information</b> <br /> The meeting will take place at the Department of Computer Science of UCL, <a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>, London WC1E 6EA. <br> (Room to be confirmed, please check back in a few days.)
+<b>Local information</b> <br /> The meeting will take place in Room G01 (ground floor) of the Department of Computer Science of UCL, <a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>, London WC1E 6EA.
 
 <br>
 <b>Organising and programme committee</b>
