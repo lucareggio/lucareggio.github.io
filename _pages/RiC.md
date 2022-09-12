@@ -40,7 +40,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">9:30-10:30</td>
     <td class="tg-efqa"> </td>
     <td class="tg-efqa">Paul-André Melliès <br> <b>A functorial excursion between linear <br>logic and algebraic geometry</b></td>
-    <td class="tg-efqa">Rafał Stefański <br> <b>TBA</b></td>
+    <td class="tg-efqa">Rafał Stefański <br> <b>Monads, Comonads, and Mealy machines</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
