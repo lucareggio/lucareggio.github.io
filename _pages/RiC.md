@@ -52,7 +52,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">Rui Soares Barbosa <br> <b>TBA</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear Algebraic Quantifiers</b></td>
-    <td class="tg-efqa">talk</td>
+    <td class="tg-efqa">To be confirmed</td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
@@ -98,7 +98,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
 
 
 <br>
-<b>Local information</b> <br /> The meeting will take place in Room -- at the Department of Computer Science of UCL, (<a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>), London WC1E 6EA. 
+<b>Local information</b> <br /> The meeting will take place at the Department of Computer Science of UCL, (<a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>), London WC1E 6EA. (Room to be confirmed, please check back in a few days.)
 
 <br>
 <b>Organising and programme committee</b>
