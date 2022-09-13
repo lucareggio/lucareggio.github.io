@@ -54,8 +54,8 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">Rui Soares Barbosa <br> <b>TBA</b></td>
-    <td class="tg-efqa">Anuj Dawar <br> <b>Linear Algebraic Quantifiers</b></td>
-    <td class="tg-efqa">To be confirmed</td>
+    <td class="tg-efqa">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
+    <td class="tg-efqa">Luca Reggio <br> <b>Arboreal categories</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
@@ -71,7 +71,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
-    <td class="tg-c0l1" rowspan="2">Samson Abramsky <br> <b>Resources in Computation</b></td>
+    <td class="tg-c0l1" rowspan="2">Samson Abramsky <br> <b>Resources in computation</b></td>
     <td class="tg-c0l1">Vincent Moreau <br> <b>TBA</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
@@ -88,7 +88,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
     <td class="tg-c0l1">Joni Puljujärvi <br> <b>Team semantics and independence<br> notions in quantum physics</b></td>
-    <td class="tg-c0l1" rowspan="2">Rafał Stefański <br> <b>Monads, Comonads, and<br> Mealy machines</b></td>
+    <td class="tg-c0l1" rowspan="2">Rafał Stefański <br> <b>Monads, comonads, and<br> Mealy machines</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
