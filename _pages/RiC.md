@@ -72,7 +72,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
     <td class="tg-c0l1" rowspan="2">Samson Abramsky <br> <b>Resources in computation</b></td>
-    <td class="tg-c0l1">Vincent Moreau <br> <b>TBA</b></td>
+    <td class="tg-c0l1">Vincent Moreau <br> <b>From profinite words to profinite λ-terms</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
