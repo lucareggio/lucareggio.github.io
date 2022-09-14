@@ -53,7 +53,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
-    <td class="tg-efqa">Rui Soares Barbosa <br> <b>TBA</b></td>
+    <td class="tg-efqa">Rui Soares Barbosa <br> <b>Contextuality as a resource</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
     <td class="tg-efqa">Luca Reggio <br> <b>Arboreal categories</b></td>
   </tr>
