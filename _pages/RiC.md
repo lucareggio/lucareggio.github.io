@@ -40,7 +40,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa" rowspan="2">9:30-10:30</td>
     <td class="tg-efqa" rowspan="2"> </td>
     <td class="tg-efqa" rowspan="2">Paul-André Melliès <br> <b>A functorial excursion between linear <br>logic and algebraic geometry</b></td>
-    <td class="tg-efqa">Amin Karamlou <br> <b>TBA</b></td>
+    <td class="tg-efqa">Amin Karamlou <br> <b>Results about mixed distributive laws motivated by <br>considerations in logic and non-local games</b></td>
   </tr>
   <tr>
   <td class="tg-c0l1">Yoàv Montacute <br> <b>TBA</b></td>
