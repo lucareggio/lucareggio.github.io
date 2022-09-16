@@ -53,7 +53,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa">11:00-12:00</td>
-    <td class="tg-efqa">Rui Soares Barbosa <br> <b>Contextuality as a resource</b></td>
+    <td class="tg-efqa">Samson Abramsky <br> <b>Resources in computation</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
     <td class="tg-efqa">Luca Reggio <br> <b>Arboreal categories</b></td>
   </tr>
@@ -71,7 +71,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
-    <td class="tg-c0l1" rowspan="2">Samson Abramsky <br> <b>Resources in computation</b></td>
+    <td class="tg-c0l1" rowspan="2">Rui Soares Barbosa <br> <b>Contextuality as a resource</b></td>
     <td class="tg-c0l1">Vincent Moreau <br> <b>From profinite words to profinite λ-terms</b></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
