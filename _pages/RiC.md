@@ -43,7 +43,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">Amin Karamlou <br> <b>Results about mixed distributive laws <br>motivated by considerations in <br>logic and non-local games</b></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Yoàv Montacute <br> <b>TBA</b></td>
+  <td class="tg-c0l1">Luca Reggio <br> <b>Arboreal categories</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
@@ -55,7 +55,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">11:00-12:00</td>
     <td class="tg-efqa">Samson Abramsky <br> <b>Resources in computation</b></td>
     <td class="tg-efqa">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
-    <td class="tg-efqa">Luca Reggio <br> <b>Arboreal categories</b></td>
+    <td class="tg-efqa">Yoàv Montacute <br> <b>TBA</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
