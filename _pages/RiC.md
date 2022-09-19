@@ -58,7 +58,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa">Yoàv Montacute <br> <b>TBA</b></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Nihil Shah <br> <b>TBA</b></td>
+  <td class="tg-c0l1">Nihil Shah <br> <b>Linear arboreal categories</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
