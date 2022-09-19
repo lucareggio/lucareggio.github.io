@@ -55,7 +55,7 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa" rowspan="2">11:00-12:00</td>
     <td class="tg-efqa" rowspan="2">Samson Abramsky <br> <b>Resources in computation</b></td>
     <td class="tg-efqa" rowspan="2">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
-    <td class="tg-efqa">Yoàv Montacute <br> <b>TBA</b></td>
+    <td class="tg-efqa">Yoàv Montacute <br> <b>Everything Everywhere All in One</b></td>
   </tr>
   <tr>
   <td class="tg-c0l1">Nihil Shah <br> <b>Linear arboreal categories</b></td>
