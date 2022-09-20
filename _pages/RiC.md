@@ -136,6 +136,7 @@ The <b>social dinner</b> will be on Wednesday 21th at 19:00 at <a href="http://m
 - [Nihil Shah](https://www.cs.ox.ac.uk/people/nihil.shah/) (University of Oxford)
 - [Rafał Stefański](http://www0.cs.ucl.ac.uk/people/R.Stefanski.html) (University College London)
 - [Jouko Väänänen](http://www.math.helsinki.fi/logic/people/jouko.vaananen/) (University of Helsinki)
+- [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu) (Imperial College London)
 
 
 
