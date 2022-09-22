@@ -6,9 +6,17 @@
   venuedisplay: XXII Congresso dell'Unione Matematica Italiana
   place: Pisa
   date: 4-9 September 2023
+  
+- title: Arboreal categories
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://lucareggio.github.io/RiC2022/
+  venuedisplay: Resources in Computation workshop
+  place: Online
+  date: 21-23 September 2022  
 
 - title: Arboreal categories and homomorphism preservation theorems
-  upcoming: 1
+  upcoming: 0
   note: invited talk at
   venueurlavailable: 1
   venueurl: https://progetto-itaca.github.io/
