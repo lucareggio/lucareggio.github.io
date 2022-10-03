@@ -41,8 +41,8 @@ Proceedings of the 48th International Colloquium on Automata, Languages, and Pro
 <li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A duality theoretic view on limits of finite structures: Extended version</em>, Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022. </li>
 <li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A Cook’s tour of duality in logic. From quantifiers, through Vietoris, to measures</em>, Outstanding Contributions to Logic: Samson Abramsky, Springer, in press. </li>
 <li> George Metcalfe and Luca Reggio, <em>Model completions for universal classes of algebras: Necessary and sufficient conditions</em>, Journal of Symbolic Logic, in press. </li>
-<li> Luca Reggio, <em>Polyadic sets and homomorphism counting</em>, under review. </li>
-<li> Marco Abbadini and Luca Reggio, <em>Regular categories and soft sheaf representations</em>, under review. </li>
+<li> Luca Reggio, <em>Polyadic sets and homomorphism counting</em>, Advances in Mathematics, in press. </li>
+<li> Marco Abbadini and Luca Reggio, <em>Regular categories and soft sheaf representations</em>, submitted. </li>
 </ol>
 
 Preprints of all publications mentioned above are available through open access repositories, see the [Publications](https://lucareggio.github.io/publications/) page.

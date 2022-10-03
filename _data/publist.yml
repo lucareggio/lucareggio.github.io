@@ -27,9 +27,10 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2110.11061
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1016/j.aim.2022.108712
+  publisheddisplay: Advances in Mathematics
+  published: 1
+  inpress: To appear in 
   thesis: 0
   
 - title: Arboreal categories. An axiomatic theory of resources
