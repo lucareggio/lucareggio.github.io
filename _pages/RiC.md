@@ -40,10 +40,10 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
     <td class="tg-efqa" rowspan="2">9:30-10:30</td>
     <td class="tg-efqa" rowspan="2"> </td>
     <td class="tg-efqa" rowspan="2"> Paul-André Melliès <br> <a href="/downloads/RiC2022/Mellies_resources-september-2022-functorial.pdf"><b>A functorial excursion between linear <br>logic and algebraic geometry</b></a></td>
-    <td class="tg-efqa">Amin Karamlou <br> <b>Results about mixed distributive laws <br>motivated by considerations in <br>logic and non-local games</b></td>
+    <td class="tg-efqa">Amin Karamlou <br> <a href="/downloads/RiC2022/Karamlou_mixed_distributive_laws.pdf"><b>Results about mixed distributive laws <br>motivated by considerations in <br>logic and non-local games</b></a></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Luca Reggio <br> <b>Arboreal categories</b></td>
+  <td class="tg-c0l1">Luca Reggio <br> <a href="/downloads/RiC2022/Reggio_Resources-in-Computation.pdf"><b>Arboreal categories</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
