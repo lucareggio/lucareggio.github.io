@@ -1,4 +1,4 @@
-- title: Regular categories and soft sheaf representations
+- title: Barr-exact categories and soft sheaf representations
   authors: Marco Abbadini and Luca Reggio
   submitted: 1   
   preprintavailable: 1
@@ -28,9 +28,8 @@
   preprinturl: https://arxiv.org/abs/2110.11061
   preprintdisplay: arXiv
   publishedurl: https://doi.org/10.1016/j.aim.2022.108712
-  publisheddisplay: Advances in Mathematics
-  published: 1
-  inpress: To appear in 
+  publisheddisplay: Advances in Mathematics, Vol. 410, Part A, 108712, 2022
+  published: 1 
   thesis: 0
   
 - title: Arboreal categories. An axiomatic theory of resources
