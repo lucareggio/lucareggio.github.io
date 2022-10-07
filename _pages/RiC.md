@@ -53,12 +53,12 @@ This is the first meeting of the EPSRC project _"Resources in Computation"_, led
   </tr>
   <tr>
     <td class="tg-efqa" rowspan="2">11:00-12:00</td>
-    <td class="tg-efqa" rowspan="2">Samson Abramsky <br> <b>Resources in computation</b></td>
-    <td class="tg-efqa" rowspan="2">Anuj Dawar <br> <b>Linear algebraic quantifiers</b></td>
-    <td class="tg-efqa">Yoàv Montacute <br> <b>Everything Everywhere All in One</b></td>
+    <td class="tg-efqa" rowspan="2">Samson Abramsky <br> <a href="/downloads/RiC2022/Abramsky_rc22.pdf"><b>Resources in computation</b></a></td>
+    <td class="tg-efqa" rowspan="2">Anuj Dawar <br> <a href="/downloads/RiC2022/Dawar-RiC.pdf"><b>Linear algebraic quantifiers</b></a></td>
+    <td class="tg-efqa">Yoàv Montacute <br> <a href="/downloads/RiC2022/Montacute_Everything_Everywhere_All_in_One.pdf"><b>Everything Everywhere All in One</b></a></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Nihil Shah <br> <b>Linear arboreal categories</b></td>
+  <td class="tg-c0l1">Nihil Shah <br> <a href="/downloads/RiC2022/Shah_Linear_arboreal_categories_UCL_Workshop_2022.pdf"><b>Linear arboreal categories</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
