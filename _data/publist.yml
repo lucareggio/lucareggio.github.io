@@ -62,7 +62,7 @@
   preprintavailable: 1
   preprinturl: https://zenodo.org/record/6762075
   preprintdisplay: Zenodo
-  publishedurl: https://lmcs.episciences.org/8978
+  publishedurl: https://doi.org/10.46298/lmcs-18(1:16)2022
   publisheddisplay: Logical Methods in Computer Science, Vol. 18, Issue 1, pp. 16:1-16:38, 2022
   published: 1
   thesis: 0
@@ -73,7 +73,7 @@
   preprintavailable: 1
   preprinturl: https://zenodo.org/record/6761969
   preprintdisplay: Zenodo
-  publishedurl: https://drops.dagstuhl.de/opus/volltexte/2021/14184/
+  publishedurl: https://doi.org/10.4230/LIPIcs.ICALP.2021.115
   publisheddisplay: 48th International Colloquium on Automata, Languages, and Programming (ICALP), LIPIcs Vol. 198, pp. 115:1-115:20, 2021
   published: 1
   thesis: 0
@@ -84,7 +84,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2105.03274
   preprintdisplay: arXiv
-  publishedurl: https://ieeexplore.ieee.org/document/9470609
+  publishedurl: https://doi.org/10.1109/LICS52264.2021.9470609
   publisheddisplay: Proceedings of the 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-13, 2021
   published: 1
   thesis: 0
@@ -95,7 +95,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.05281
   preprintdisplay: arXiv
-  publishedurl: https://www.sciencedirect.com/science/article/pii/S0168007221000488
+  publishedurl: https://doi.org/10.1016/j.apal.2021.102990
   publisheddisplay: Annals of Pure and Applied Logic, Vol. 172, Issue 8, 102990, 2021
   published: 1
   thesis: 0
@@ -143,7 +143,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1909.01631
   preprintdisplay: arXiv
-  publishedurl: https://link.springer.com/article/10.1007%2Fs10485-020-09604-y
+  publishedurl: https://doi.org/10.1007/s10485-020-09604-y
   publisheddisplay: Applied Categorical Structures, Vol. 28, pp. 921-934, 2020
   published: 1
   thesis: 0
@@ -155,7 +155,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1907.04036
   preprintdisplay: arXiv
-  publishedurl: https://link.springer.com/chapter/10.1007%2F978-3-030-45231-5_16
+  publishedurl: https://doi.org/10.1007/978-3-030-45231-5_16
   publisheddisplay: Foundations of Software Science and Computation Structures (FoSSaCS), Proceedings of the 23rd International Conference, pp. 299-318, 2020
   published: 1
   thesis: 0
@@ -166,7 +166,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1807.10637
   preprintdisplay: arXiv
-  publishedurl: https://www.sciencedirect.com/science/article/pii/S0022404919301203
+  publishedurl: https://doi.org/10.1016/j.jpaa.2019.05.002
   publisheddisplay: Journal of Pure and Applied Algebra, Vol. 224, pp. 181-205, 2020
   published: 1
   thesis: 0
@@ -178,7 +178,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1710.01630
   preprintdisplay: arXiv
-  publishedurl: https://www.sciencedirect.com/science/article/abs/pii/S0166864118301664
+  publishedurl: https://doi.org/10.1016/j.topol.2018.03.006
   publisheddisplay: Topology and its Applications, Vol. 240, pp. 69-77, 2018
   published: 1
   thesis: 0
@@ -190,7 +190,7 @@
   preprintavailable: 1
   preprinturl: https://ora.ox.ac.uk/objects/uuid:cf51ae11-2d4c-493c-ab9c-d1fecf65e2bd
   preprintdisplay: ORA
-  publishedurl: https://ieeexplore.ieee.org/document/8005140
+  publishedurl: https://doi.org/10.1109/LICS.2017.8005140
   publisheddisplay: Proceedings of the 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS), pp. 1-12, 2017
   published: 1
   thesis: 0
@@ -202,7 +202,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/1508.07750
   preprintdisplay: arXiv
-  publishedurl: https://www.sciencedirect.com/science/article/pii/S0001870815302772
+  publishedurl: https://doi.org/10.1016/j.aim.2016.11.012
   publisheddisplay: Advances in Mathematics, Vol. 307, pp. 253-287, 2017
   published: 1
   thesis: 0
@@ -211,11 +211,11 @@
 - title: The Schutzenberger Product for Syntactic Spaces
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
-  submitted: 1   
+  submitted: 1
   preprintavailable: 0
   preprinturl: 0
   preprintdisplay: 0
-  publishedurl: http://drops.dagstuhl.de/opus/volltexte/2016/6247
+  publishedurl: https://doi.org/10.4230/LIPIcs.ICALP.2016.112
   publisheddisplay: 43rd International Colloquium on Automata, Languages, and Programming (ICALP), LIPIcs Vol. 55, pp. 112:1-112:14, 2016
   published: 1
   thesis: 0
