@@ -118,8 +118,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.15415
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
+  publishedurl: https://link.springer.com/book/9783031241161
+  inpress: To appear in a volume, dedicated to Samson Abramsky, of the Springer series
+  publisheddisplay: Outstanding Contributions to Logic
   published: 0
   thesis: 0
   
