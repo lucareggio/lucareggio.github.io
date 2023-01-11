@@ -7,6 +7,15 @@
   place: Pisa
   date: 4-9 September 2023
   
+- title: TBA
+  upcoming: 1
+  note: invited talk at
+  venueurlavailable: 1
+  venueurl: https://sites.uclouvain.be/ct2023/
+  venuedisplay: Category Theory 2023
+  place: Louvain-la-Neuve
+  date: 2-8 July 2023  
+  
 - title: Arboreal categories
   upcoming: 0
   venueurlavailable: 1
