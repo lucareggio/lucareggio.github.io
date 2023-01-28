@@ -43,6 +43,7 @@ Proceedings of the 48th International Colloquium on Automata, Languages, and Pro
 <li> George Metcalfe and Luca Reggio, <em>Model completions for universal classes of algebras: Necessary and sufficient conditions</em>, Journal of Symbolic Logic, in press. </li>
 <li> Luca Reggio, <em>Polyadic sets and homomorphism counting</em>, Advances in Mathematics, Vol. 410, Part A, 108712, 2022. </li>
 <li> Marco Abbadini and Luca Reggio, <em>Regular categories and soft sheaf representations</em>, submitted. </li>
+<li> Samson Abramsky and Luca Reggio, <em>Arboreal categories and homomorphism preservation theorems</em>, submitted. </li>
 </ol>
 
 Preprints of all publications mentioned above are available through open access repositories, see the [Publications](https://lucareggio.github.io/publications/) page.
