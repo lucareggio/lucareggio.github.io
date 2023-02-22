@@ -32,6 +32,18 @@
 #  published: na
 #  thesis: 0
 
+- title: Model completions for universal classes of algebras. Necessary and sufficient conditions
+  authors: George Metcalfe and Luca Reggio
+  submitted: 1  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2102.01426
+  preprintdisplay: arXiv
+  publishedurl: https://doi.org/10.1017/jsl.2022.1
+  publisheddisplay: Journal of Symbolic Logic, Vol. 88, issue 1, pp. 381-417, 2023
+  published: 1
+  #inpress: To appear in the 
+  thesis: 0 
+
 - title: Polyadic sets and homomorphism counting
   authors: Luca Reggio
   submitted: 1  
@@ -53,19 +65,7 @@
   publishedurl: 0
   publisheddisplay: 0
   published: 0
-  thesis: 0
-  
-- title: Model completions for universal classes of algebras. Necessary and sufficient conditions
-  authors: George Metcalfe and Luca Reggio
-  submitted: 1  
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/2102.01426
-  preprintdisplay: arXiv
-  publishedurl: https://doi.org/10.1017/jsl.2022.1
-  publisheddisplay: Journal of Symbolic Logic
-  published: 1
-  inpress: To appear in the 
-  thesis: 0  
+  thesis: 0 
 
 - title: A duality theoretic view on limits of finite structures (Extended version)
   authors: Mai Gehrke, Tomas Jakl and Luca Reggio
