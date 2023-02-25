@@ -16,6 +16,22 @@
   place: Louvain-la-Neuve
   date: 2-8 July 2023  
   
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://cmuc.mat.uc.pt/rdonweb/researchgroups/ppresearchgroupseminars.do?groupID=7
+  venuedisplay: Algebra, Logic and Topology Seminar
+  place: Coimbra
+  date: 14 March 2023  
+  
+- title: Logical resources and arboreal adjunctions
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique
+  venuedisplay: LIMD Seminar
+  place: Chambéry
+  date: 2 March 2023   
+  
 - title: Arboreal categories
   upcoming: 0
   venueurlavailable: 1
