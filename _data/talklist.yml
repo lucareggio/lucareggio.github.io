@@ -1,3 +1,12 @@
+- title: TBA  
+  upcoming: 1
+  note: invited joint tutorial at the Seventeenth International Tbilisi Summer School in Logic and Language, and
+  venueurlavailable: 1
+  venueurl: https://sites.google.com/view/latd-2023/home
+  venuedisplay: LATD
+  place: Tbilisi
+  date: 11-15 September 2023
+
 - title: Polyadic spaces, homomorphism counting and omega-categorical theories
   upcoming: 1
   note: invited talk at the
@@ -15,6 +24,14 @@
   venuedisplay: Category Theory 2023
   place: Louvain-la-Neuve
   date: 2-8 July 2023
+  
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://www.cs.ox.ac.uk/seminars/oasis/
+  venuedisplay: OASIS seminar
+  place: Oxford
+  date: 5 May 2023  
   
 - title: TBA
   upcoming: 1

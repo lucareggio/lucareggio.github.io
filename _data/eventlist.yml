@@ -1,14 +1,38 @@
+- title: LATD 2023
+  upcoming: 1
+  url: https://sites.google.com/view/latd-2023/
+  place: Tbilisi
+  date: 11-15 September 2023
+  
+- title: Seventeenth International Tbilisi Summer School in Logic and Language
+  upcoming: 1
+  url: 
+  place: Tbilisi
+  date: 7-15 September 2023  
+
 - title: XXII Congresso dell'Unione Matematica Italiana
   upcoming: 1
   url: https://umi.dm.unibo.it/congresso2023/
   place: Pisa
   date: 4-9 September 2023
+  
+- title: Resources and co-Resources Closing Workshop
+  upcoming: 1
+  url: 
+  place: Cambridge
+  date: 17-19 July 2023
 
 - title: Category Theory 2023
   upcoming: 1
   url: https://sites.uclouvain.be/ct2023/
   place: Louvain-la-Neuve
   date: 2-8 July 2023 
+  
+- title: Structure Meets Power 2023
+  upcoming: 0
+  url: https://www.cst.cam.ac.uk/conference/structure-meets-power-2023
+  place: Boston
+  date: 25 June 2023   
   
 - title: Resources in Computation workshop
   upcoming: 0
