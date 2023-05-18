@@ -26,9 +26,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2207.10041
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1016/j.jpaa.2023.107413
+  publisheddisplay: Journal of Pure and Applied Algebra, Vol. 227, issue 12, 107413, 2023
+  published: 1
   thesis: 0
 
 #- title: Homomorphism testing lemmas and coslices
