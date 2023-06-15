@@ -16,6 +16,14 @@
   place: Pisa
   date: 4-9 September 2023
   
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://www.cst.cam.ac.uk/conference/coresources-2023
+  venuedisplay: Resources and co-Resources Closing Workshop
+  place: Cambridge
+  date: 17-19 July 2023  
+  
 - title: Resource-sensitive model theory, a categorical view
   upcoming: 1
   note: invited talk at
