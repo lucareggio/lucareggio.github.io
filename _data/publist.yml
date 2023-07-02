@@ -38,7 +38,7 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2102.08109
   preprintdisplay: arXiv
-  publishedurl: 0
+  publishedurl: https://lmcs.episciences.org/
   publisheddisplay: Logical Methods in Computer Science
   published: 1
   inpress: To appear in 
