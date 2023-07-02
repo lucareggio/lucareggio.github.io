@@ -30,6 +30,19 @@
   publisheddisplay: 0
   published: 0
   thesis: 0
+  
+- title: Arboreal categories. An axiomatic theory of resources
+  authors: Samson Abramsky and Luca Reggio
+  description: Extended version of the ICALP'21 paper.
+  submitted: 1  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2102.08109
+  preprintdisplay: arXiv
+  publishedurl: 0
+  publisheddisplay: Logical Methods in Computer Science
+  published: 1
+  inpress: To appear in 
+  thesis: 0   
 
 - title: Barr-exact categories and soft sheaf representations
   authors: Marco Abbadini and Luca Reggio
@@ -76,18 +89,6 @@
   publisheddisplay: Advances in Mathematics, Vol. 410, Part A, 108712, 2022
   published: 1 
   thesis: 0
-  
-- title: Arboreal categories. An axiomatic theory of resources
-  authors: Samson Abramsky and Luca Reggio
-  description: Extended version of the ICALP'21 paper.
-  submitted: 1  
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/2102.08109
-  preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
-  thesis: 0 
 
 - title: A duality theoretic view on limits of finite structures (Extended version)
   authors: Mai Gehrke, Tomas Jakl and Luca Reggio
