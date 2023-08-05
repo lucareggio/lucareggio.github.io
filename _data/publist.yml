@@ -141,9 +141,8 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2007.15415
   preprintdisplay: arXiv
-  publishedurl: https://link.springer.com/book/9783031241161
-  inpress: To appear in a volume, dedicated to Samson Abramsky, of the Springer series
-  publisheddisplay: Outstanding Contributions to Logic
+  publishedurl: https://doi.org/10.1007/978-3-031-24117-8_4
+  publisheddisplay: Samson Abramsky on Logic and Structure in Computer Science and Beyond, Outstanding Contributions to Logic, Vol. 25, Springer, 2023
   published: 1
   thesis: 0
   
