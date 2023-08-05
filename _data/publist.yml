@@ -78,6 +78,18 @@
   published: 1
   #inpress: To appear in the 
   thesis: 0 
+  
+- title: A Cook's tour of duality in logic. From quantifiers, through Vietoris, to measures
+  authors:
+    Mai Gehrke, Tomas Jakl and Luca Reggio
+  submitted: 1 
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2007.15415
+  preprintdisplay: arXiv
+  publishedurl: https://doi.org/10.1007/978-3-031-24117-8_4
+  publisheddisplay: Samson Abramsky on Logic and Structure in Computer Science and Beyond, Outstanding Contributions to Logic, Vol. 25, Springer, 2023
+  published: 1
+  thesis: 0  
 
 - title: Polyadic sets and homomorphism counting
   authors: Luca Reggio
@@ -134,18 +146,6 @@
   published: 1
   thesis: 0
 
-- title: A Cook's tour of duality in logic. From quantifiers, through Vietoris, to measures
-  authors:
-    Mai Gehrke, Tomas Jakl and Luca Reggio
-  submitted: 1 
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/2007.15415
-  preprintdisplay: arXiv
-  publishedurl: https://doi.org/10.1007/978-3-031-24117-8_4
-  publisheddisplay: Samson Abramsky on Logic and Structure in Computer Science and Beyond, Outstanding Contributions to Logic, Vol. 25, Springer, 2023
-  published: 1
-  thesis: 0
-  
 - title: Quantifiers on languages and codensity monads (Extended version)
   authors:
     Mai Gehrke, Daniela Petrisan and Luca Reggio
