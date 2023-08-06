@@ -104,9 +104,7 @@ This is an international workshop to celebrate the publication of the volume [Sa
 
 
 <br>
-<b>Local information</b> <br /> The meeting will take place in Room G01 (ground floor) of the Department of Computer Science of UCL, <a href="http://www.ucl.ac.uk/maps/66-72-gower-street">66-72 Gower Street</a>, London WC1E 6EA.<br>
-The <b>social dinner</b> will be on Wednesday 21th at 19:00 at <a href="http://myralondon.com/">Myra</a>, 52-54 New Oxford St, London WC1A 1ES (<a href="https://www.google.com/maps/place/Myra+Restaurant/@51.525376,-0.2518367,11z/data=!3m1!5s0x48761b3302428b3f:0x298251571d5cb40b!4m5!3m4!1s0x48761b33025aaa83:0x40da20a2e49e7fea!8m2!3d51.5171061!4d-0.1263764">Google Maps directions</a>).
-
+<b>Local information</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> at UCL, London WC1E 6BT.<br>
 
 
 <br>
