@@ -30,20 +30,20 @@ This is an international workshop to celebrate the publication of the volume [Sa
 <thead>
   <tr>
     <th class="tg-c0l1"></th>
-    <th class="tg-xz0k">Wednesday 21</th>
-    <th class="tg-xz0k">Thursday 22</th>
-    <th class="tg-xz0k">Friday 23</th>
+    <th class="tg-xz0k">Monday 18</th>
+    <th class="tg-xz0k">Tuesday 19</th>
+    <th class="tg-xz0k">Wednesday 20</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-efqa" rowspan="2">9:30-10:30</td>
     <td class="tg-efqa" rowspan="2"> </td>
-    <td class="tg-efqa" rowspan="2"> Paul-André Melliès <br> <a href="/downloads/RiC2022/Mellies_resources-september-2022-functorial.pdf"><b>A functorial excursion between linear <br>logic and algebraic geometry</b></a></td>
-    <td class="tg-efqa">Amin Karamlou <br> <a href="/downloads/RiC2022/Karamlou_mixed_distributive_laws.pdf"><b>Results about mixed distributive laws <br>motivated by considerations in <br>logic and non-local games</b></a></td>
+    <td class="tg-efqa" rowspan="2"> Speaker B1 <br> <b>Title</b></td>
+    <td class="tg-efqa">Speaker C1 <br> <a href="/downloads/RiC2022/Karamlou_mixed_distributive_laws.pdf"><b>Results about mixed distributive laws <br>motivated by considerations in <br>logic and non-local games</b></a></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Luca Reggio <br> <a href="/downloads/RiC2022/Reggio_Resources-in-Computation.pdf"><b>Arboreal categories</b></a></td>
+  <td class="tg-c0l1">Speaker C2 <br> <a href="/downloads/RiC2022/Reggio_Resources-in-Computation.pdf"><b>Arboreal categories</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
@@ -53,12 +53,12 @@ This is an international workshop to celebrate the publication of the volume [Sa
   </tr>
   <tr>
     <td class="tg-efqa" rowspan="2">11:00-12:00</td>
-    <td class="tg-efqa" rowspan="2">Samson Abramsky <br> <a href="/downloads/RiC2022/Abramsky_rc22.pdf"><b>Resources in computation</b></a></td>
-    <td class="tg-efqa" rowspan="2">Anuj Dawar <br> <a href="/downloads/RiC2022/Dawar-RiCv2.pdf"><b>Linear algebraic quantifiers</b></a></td>
-    <td class="tg-efqa">Yoàv Montacute <br> <a href="/downloads/RiC2022/Montacute_Everything_Everywhere_All_in_One.pdf"><b>Everything Everywhere All in One</b></a></td>
+    <td class="tg-efqa" rowspan="2">Speaker A1 <br> <a href="/downloads/RiC2022/Abramsky_rc22.pdf"><b>Resources in computation</b></a></td>
+    <td class="tg-efqa" rowspan="2">Speaker B2 <br> <a href="/downloads/RiC2022/Dawar-RiCv2.pdf"><b>Linear algebraic quantifiers</b></a></td>
+    <td class="tg-efqa">Speaker C3 <br> <a href="/downloads/RiC2022/Montacute_Everything_Everywhere_All_in_One.pdf"><b>Everything Everywhere All in One</b></a></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Nihil Shah <br> <a href="/downloads/RiC2022/Shah_Linear_arboreal_categories_UCL_Workshop_2022.pdf"><b>Linear arboreal categories</b></a></td>
+  <td class="tg-c0l1">Speaker C4 <br> <a href="/downloads/RiC2022/Shah_Linear_arboreal_categories_UCL_Workshop_2022.pdf"><b>Linear arboreal categories</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:00-14:00</td>
@@ -68,18 +68,18 @@ This is an international workshop to celebrate the publication of the volume [Sa
   </tr>
   <tr>
     <td class="tg-efqa">14:00-15:00</td>
-    <td class="tg-efqa">Jouko Väänänen <br> <a href="/downloads/RiC2022/Vaananen_London2022.pdf"><b>On three games of logic</b></a></td>
-    <td class="tg-efqa">Thomas Ehrhard <br> <a href="/downloads/RiC2022/Ehrhard_talk.pdf"><b>Coherent differentiation</b></a></td>
+    <td class="tg-efqa">Speaker A2 <br> <a href="/downloads/RiC2022/Vaananen_London2022.pdf"><b>On three games of logic</b></a></td>
+    <td class="tg-efqa">Speaker B3 <br> <a href="/downloads/RiC2022/Ehrhard_talk.pdf"><b>Coherent differentiation</b></a></td>
     <td class="tg-efqa">discussion/conclusion</td>
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
-    <td class="tg-c0l1" rowspan="2">Rui Soares Barbosa <br> <a href="/downloads/RiC2022/Barbosa_slides.pdf"><b>Contextuality as a resource</b></a></td>
-    <td class="tg-c0l1">Vincent Moreau <br> <a href="/downloads/RiC2022/Moreau_profinite-lambda-terms.pdf"><b>From profinite words to profinite λ-terms</b></a></td>
+    <td class="tg-c0l1" rowspan="2">Speaker A3 <br> <a href="/downloads/RiC2022/Barbosa_slides.pdf"><b>Contextuality as a resource</b></a></td>
+    <td class="tg-c0l1">Speaker B4 <br> <a href="/downloads/RiC2022/Moreau_profinite-lambda-terms.pdf"><b>From profinite words to profinite λ-terms</b></a></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1">Tomáš Jakl <br> <a href="/downloads/RiC2022/Jakl_slides.pdf"><b>A structural account of composition<br> methods in logic</b></a></td>
+    <td class="tg-c0l1">Speaker B5 <br> <a href="/downloads/RiC2022/Jakl_slides.pdf"><b>A structural account of composition<br> methods in logic</b></a></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>  
   <tr>
@@ -90,12 +90,12 @@ This is an international workshop to celebrate the publication of the volume [Sa
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
-    <td class="tg-c0l1">Joni Puljujärvi <br> <a href="/downloads/RiC2022/Puljujarvi_resourcesincomputation2022_presentation.pdf"><b>Team semantics and independence<br> notions in quantum physics</b></a></td>
-    <td class="tg-c0l1" rowspan="2">Rafał Stefański <br> <a href="/downloads/RiC2022/Stefanski_monads-comonads-Mealy-machines.pdf"><b>Monads, comonads, and<br> Mealy machines</b></a></td>
+    <td class="tg-c0l1">Speaker A4 <br> <a href="/downloads/RiC2022/Puljujarvi_resourcesincomputation2022_presentation.pdf"><b>Team semantics and independence<br> notions in quantum physics</b></a></td>
+    <td class="tg-c0l1" rowspan="2">Speaker B6 <br> <a href="/downloads/RiC2022/Stefanski_monads-comonads-Mealy-machines.pdf"><b>Monads, comonads, and<br> Mealy machines</b></a></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1">Dan Marsden <br> <a href="/downloads/RiC2022/Marsden_Hybrid_Fragment_Resources_Workshop_Slides.pdf"><b>Comonadic semantics for hybrid logic</b></a></td>
+    <td class="tg-c0l1">Speaker A5 <br> <a href="/downloads/RiC2022/Marsden_Hybrid_Fragment_Resources_Workshop_Slides.pdf"><b>Comonadic semantics for hybrid logic</b></a></td>
     <!--<td class="tg-efqa"> </td>-->
   </tr>
 </tbody>
