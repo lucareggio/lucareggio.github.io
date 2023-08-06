@@ -103,7 +103,7 @@ This is an international workshop to celebrate the publication of the volume [Sa
 
 
 <br>
-<b>Local information</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> at UCL, London WC1E 6BT.<br>
+<b>Local information</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> of University College London, WC1E 6BT.<br>
 
 
 <br>
