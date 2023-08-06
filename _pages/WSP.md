@@ -111,14 +111,14 @@ The <b>social dinner</b> will be on Wednesday 21th at 19:00 at <a href="http://m
 <br>
 <b>Organising and programme committee</b>
 - Samson Abramsky
+- Mehrnoosh Sadrzadeh
 - Luca Reggio
-- Rafał Stefański
 
 <br>
-<b>Contact information</b> <br /> For further information please contact Luca Reggio `l.reggio@ucl.ac.uk` or Rafał Stefański `r.stefanski@ucl.ac.uk`.
+<b>Contact information</b> <br /> For further information please contact Luca Reggio `l.reggio@ucl.ac.uk`.
 
 <br>
-<b>Confirmed participants</b>
+<b>Confirmed participants</b> (in alphabetical order)
 - [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/) (University College London)
 - [Rui Soares Barbosa](https://www.ruisoaresbarbosa.com/) (International Iberian Nanotechnology Laboratory)
 - [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/) (University of Cambridge)
