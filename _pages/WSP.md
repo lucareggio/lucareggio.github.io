@@ -6,9 +6,7 @@ sitemap: false
 permalink: /WSP2023draft/
 ---
 
-# Workshop on Springer Volume <br> _"Samson Abramsky on Logic and Structure in Computer Science and Beyond"_
-
-<h1 style="text-align: center;">Title</h1>
+<h1 style="text-align: center;">Workshop on Springer Volume <br> _"Samson Abramsky on Logic and Structure in Computer Science and Beyond"_</h1>
 
 <br>
 
