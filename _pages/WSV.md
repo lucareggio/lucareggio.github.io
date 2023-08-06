@@ -3,7 +3,7 @@ title: "Workshop on Springer Volume 2023"
 layout: page
 excerpt: "Workshop on Springer Volume 2023"
 sitemap: false
-permalink: /WSP2023draft/
+permalink: /WSV2023draft/
 ---
 
 <h1 style="text-align: center;">Workshop on Springer Volume <br> _"Samson Abramsky on Logic and Structure <br> in Computer Science and Beyond"_</h1>
