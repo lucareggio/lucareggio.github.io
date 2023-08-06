@@ -120,7 +120,7 @@ The <b>social dinner</b> will be on Wednesday 21th at 19:00 at <a href="http://m
 
 <br>
 <b>Confirmed participants</b> (in alphabetical order)
-- [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/) (University College London)
+- [Samson Abramsky](http://www0.cs.ucl.ac.uk/people/S.Abramsky.html) (University College London)
 - [Pierre Clairambault](https://pageperso.lis-lab.fr/pierre.clairambault/) (Aix-Marseille Université)
 - [Carmen Constantin](https://www.mansfield.ox.ac.uk/dr-carmen-constantin) (University of Oxford)
 - [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/) (University of Cambridge)
