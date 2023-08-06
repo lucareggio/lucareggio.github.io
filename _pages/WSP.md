@@ -26,7 +26,7 @@ This is an international workshop to celebrate the publication of the volume [Sa
 .tg .tg-xz0k{border-color:#c0c0c0;color:#fd6864;font-weight:bold;text-align:center;vertical-align:center}
 .tg .tg-efqa{background-color:#ffffff;border-color:#c0c0c0;text-align:center;vertical-align:center}
 </style>
-<table class="tg">
+<table class="tg", style="margin-left: auto; margin-right: auto;">
 <thead>
   <tr>
     <th class="tg-c0l1"></th>
