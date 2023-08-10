@@ -38,10 +38,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2102.08109
   preprintdisplay: arXiv
-  publishedurl: https://lmcs.episciences.org/
-  publisheddisplay: Logical Methods in Computer Science
+  publishedurl: https://doi.org/10.46298/lmcs-19(3:14)2023
+  publisheddisplay: Logical Methods in Computer Science, Vol. 19, issue 3, pp. 14:1-14:36, 2023
   published: 1
-  inpress: To appear in 
   thesis: 0   
 
 - title: Barr-exact categories and soft sheaf representations

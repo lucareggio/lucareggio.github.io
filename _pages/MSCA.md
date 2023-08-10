@@ -43,6 +43,7 @@ Proceedings of the 48th International Colloquium on Automata, Languages, and Pro
 <li> Mai Gehrke, Tomas Jakl and Luca Reggio, <em>A Cook’s tour of duality in logic. From quantifiers, through Vietoris, to measures</em>, Samson Abramsky on Logic and Structure in Computer Science and Beyond, Outstanding Contributions to Logic, Vol. 25, Springer, 2023. </li>
 <li> George Metcalfe and Luca Reggio, <em>Model completions for universal classes of algebras: Necessary and sufficient conditions</em>, Journal of Symbolic Logic, Vol. 88, issue 1, pp. 381-417, 2023. </li>
 <li> Marco Abbadini and Luca Reggio, <em>Barr-exact categories and soft sheaf representations</em>, Journal of Pure and Applied Algebra, Vol. 227, issue 12, 107413, 2023. </li>
+<li> Samson Abramsky and Luca Reggio, <em>Arboreal categories: An axiomatic theory of resources</em>, Logical Methods in Computer Science, Vol. 19, Issue 3, pp. 14:1-14:36, 2023. </li>
 <li> Samson Abramsky and Luca Reggio, <em>Arboreal categories and homomorphism preservation theorems</em>, submitted. </li>
 </ol>
 
