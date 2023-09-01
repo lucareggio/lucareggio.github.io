@@ -97,14 +97,9 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
     <!--<td class="tg-efqa"></td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1" rowspan="2">16:30-17:30</td>
-    <td class="tg-c0l1">Speaker A4 <br> <b>Title</b></td>
-    <td class="tg-c0l1" rowspan="2">Speaker B6 <br> <b>Title</b></td>
-    <!--<td class="tg-efqa"> </td>-->
-  </tr>
-  <tr>
-    <td class="tg-c0l1">Speaker A5 <br> <b>Title</b></td>
-    <!--<td class="tg-efqa"> </td>-->
+    <td class="tg-c0l1" rowspan="2">16:30-17:15</td>
+    <td class="tg-efqa"> 1.7 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.7 <br> <b>Title</b></td>
   </tr>
 </tbody>
 </table>
