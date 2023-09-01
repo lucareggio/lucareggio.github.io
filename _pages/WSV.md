@@ -37,10 +37,16 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 </thead>
 <tbody>
   <tr>
-    <td class="tg-efqa" rowspan="2">9:30-10:30</td>
-    <td class="tg-efqa" rowspan="2"> </td>
-    <td class="tg-efqa" rowspan="2"> Speaker B1 <br> <b>Title</b></td>
-    <td class="tg-efqa">Speaker C1 <br> <b>Title</b></td>
+    <td class="tg-f78n">09:00-09:30</td>
+    <td class="tg-f78n">coffee</td>
+    <td class="tg-f78n">coffee</td>
+    <td class="tg-f78n">coffee</td>
+  </tr>	
+  <tr>
+    <td class="tg-efqa" rowspan="2">9:30-10:15</td>
+    <td class="tg-efqa" rowspan="2"> 1.1 <br> <b>Title</b></td>
+    <td class="tg-efqa" rowspan="2"> 2.1 <br> <b>Title</b></td>
+    <td class="tg-efqa">3.1 <br> <b>Title</b></td>
   </tr>
   <tr>
   <td class="tg-c0l1">Speaker C2 <br> <b>Title</b></td>
@@ -113,7 +119,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 - Luca Reggio
 
 <br>
-<b>Contact information</b> <br /> For further information please contact Luca Reggio `l.reggio@ucl.ac.uk`.
+<b>Contact information</b> <br /> For further information please contact Luca Reggio at `l.reggio@ucl.ac.uk`.
 
 <br>
 <b>Confirmed participants</b> (in alphabetical order)
