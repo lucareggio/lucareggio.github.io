@@ -43,20 +43,20 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
     <td class="tg-f78n">coffee</td>
   </tr>	
   <tr>
-    <td class="tg-efqa" rowspan="2">9:30-10:15</td>
-    <td class="tg-efqa" rowspan="2"> 1.1 <br> <b>Title</b></td>
-    <td class="tg-efqa" rowspan="2"> 2.1 <br> <b>Title</b></td>
-    <td class="tg-efqa">3.1 <br> <b>Title</b></td>
+    <td class="tg-efqa">9:30-10:15</td>
+    <td class="tg-efqa"> 1.1 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.1 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 3.1 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-efqa" rowspan="2">10:15-11:00</td>
-    <td class="tg-efqa" rowspan="2"> 1.2 <br> <b>Title</b></td>
-    <td class="tg-efqa" rowspan="2"> 2.2 <br> <b>Title</b></td>
-	<td class="tg-efqa" rowspan="2"> 3.2 <br> <b>Title</b></td>
+    <td class="tg-efqa">10:15-11:00</td>
+    <td class="tg-efqa"> 1.2 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.2 <br> <b>Title</b></td>
+	<td class="tg-efqa"> 3.2 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-f78n">10:30-11:00</td>
-    <td class="tg-f78n">welcome</td>
+    <td class="tg-f78n">11:00-11:30</td>
+    <td class="tg-f78n">coffee break</td>
     <td class="tg-f78n">coffee break</td>
     <td class="tg-f78n">coffee break</td>
   </tr>
@@ -157,7 +157,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 - [Sam Speight](https://users.ox.ac.uk/~orie3678/) (University of Oxford)
 - [Nikos Tzevelekos](https://www.tzevelekos.org/) (Queen Mary University of London)
 - [Jouko Väänänen](http://www.math.helsinki.fi/logic/people/jouko.vaananen/) (University of Helsinki)
-- [Daphne Wang](https://wangdaphne.github.io/index.html) (University College London)
+- [Daphne Wang](https://wangdaphne.github.io/) (University College London)
 - [Glynn Winskel](https://www.strath.ac.uk/staff/winskelglynnprofessor/) (University of Strathclyde and Huawei)
 - [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria/LORIA)
 
