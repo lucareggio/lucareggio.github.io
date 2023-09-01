@@ -73,16 +73,16 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 	<td class="tg-efqa"> 3.4 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-f78n">12:00-14:00</td>
+    <td class="tg-f78n">13:00-14:30</td>
     <td class="tg-f78n">lunch break</td>
     <td class="tg-f78n">lunch break</td>
     <td class="tg-f78n">lunch break</td>
   </tr>
   <tr>
-    <td class="tg-efqa">14:00-15:00</td>
-    <td class="tg-efqa">Speaker A2 <br> <b>Title</b></td>
-    <td class="tg-efqa">Speaker B3 <br> <b>Title</b></td>
-    <td class="tg-efqa">discussion/conclusion</td>
+    <td class="tg-efqa">14:30-15:15</td>
+    <td class="tg-efqa"> 1.5 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.5 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 3.5 <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-c0l1" rowspan="2">15:00-16:00</td>
