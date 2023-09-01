@@ -49,7 +49,10 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
     <td class="tg-efqa">3.1 <br> <b>Title</b></td>
   </tr>
   <tr>
-  <td class="tg-c0l1">Speaker C2 <br> <b>Title</b></td>
+    <td class="tg-efqa" rowspan="2">10:15-11:00</td>
+    <td class="tg-efqa" rowspan="2"> 1.2 <br> <b>Title</b></td>
+    <td class="tg-efqa" rowspan="2"> 2.2 <br> <b>Title</b></td>
+	<td class="tg-efqa" rowspan="2"> 3.2 <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">10:30-11:00</td>
