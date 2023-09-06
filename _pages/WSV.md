@@ -38,22 +38,28 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 <tbody>
   <tr>
     <td class="tg-f78n">09:00-09:30</td>
-    <td class="tg-f78n">coffee</td>
+    <td class="tg-f78n">coffee + <br> intro (09:20)</td>
     <td class="tg-f78n">coffee</td>
     <td class="tg-f78n">coffee</td>
   </tr>	
   <tr>
-    <td class="tg-efqa">9:30-10:15</td>
+    <td class="tg-efqa">9:30-10:00</td>
     <td class="tg-efqa"> 1.1 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.1 <br> <b>Title</b></td>
     <td class="tg-efqa"> 3.1 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-efqa">10:15-11:00</td>
+    <td class="tg-efqa">10:00-10:30</td>
     <td class="tg-efqa"> 1.2 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.2 <br> <b>Title</b></td>
 	<td class="tg-efqa"> 3.2 <br> <b>Title</b></td>
   </tr>
+  tr>
+      <td class="tg-efqa">10:30-11:00</td>
+      <td class="tg-efqa"> 1.3 <br> <b>Title</b></td>
+      <td class="tg-efqa"> 2.3 <br> <b>Title</b></td>
+  	  <td class="tg-efqa"> 3.3 <br> <b>Title</b></td>
+    </tr>
   <tr>
     <td class="tg-f78n">11:00-11:30</td>
     <td class="tg-f78n">coffee break</td>
@@ -61,46 +67,53 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
     <td class="tg-f78n">coffee break</td>
   </tr>
   <tr>
-    <td class="tg-efqa">11:30-12:15</td>
-    <td class="tg-efqa"> 1.3 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.3 <br> <b>Title</b></td>
-	<td class="tg-efqa"> 3.3 <br> <b>Title</b></td>
-  </tr>
-  <tr>
-    <td class="tg-efqa">12:15-13:00</td>
+    <td class="tg-efqa">11:30-12:00</td>
     <td class="tg-efqa"> 1.4 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.4 <br> <b>Title</b></td>
 	<td class="tg-efqa"> 3.4 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-f78n">13:00-14:30</td>
-    <td class="tg-f78n">lunch break</td>
-    <td class="tg-f78n">lunch break</td>
-    <td class="tg-f78n">lunch break</td>
-  </tr>
-  <tr>
-    <td class="tg-efqa">14:30-15:15</td>
+    <td class="tg-efqa">12:00-12:30</td>
     <td class="tg-efqa"> 1.5 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.5 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 3.5 <br> <b>Title</b></td>
+	<td class="tg-efqa"> 3.5 <br> <b>Title</b></td>
   </tr>
   <tr>
-    <td class="tg-efqa">15:15-16:00</td>
+    <td class="tg-f78n">12:30-14:00</td>
+    <td class="tg-f78n">lunch break</td>
+    <td class="tg-f78n">lunch break</td>
+    <td class="tg-f78n">lunch break</td>
+  </tr>
+  <tr>
+    <td class="tg-efqa">14:00-14:30</td>
     <td class="tg-efqa"> 1.6 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.6 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 3.6 <br> <b>Title</b></td>
-  </tr> 
-  <tr>
-    <td class="tg-f78n">16:00-16:30</td>
-    <td class="tg-f78n">coffee break</td>
-    <td class="tg-f78n">coffee break</td>
-    <!--<td class="tg-efqa"></td>-->
   </tr>
   <tr>
-    <td class="tg-c0l1">16:30-17:15</td>
+    <td class="tg-efqa">14:30-15:00</td>
     <td class="tg-efqa"> 1.7 <br> <b>Title</b></td>
     <td class="tg-efqa"> 2.7 <br> <b>Title</b></td>
+  </tr> 
+  <tr>
+    <td class="tg-efqa">15:00-15:40</td>
+    <td class="tg-efqa"> 1.8 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.8 <br> <b>Title</b></td>
+  </tr>  
+  <tr>
+    <td class="tg-f78n">15:30-16:00</td>
+    <td class="tg-f78n">coffee break</td>
+    <td class="tg-f78n">coffee break</td>
   </tr>
+  <tr>
+    <td class="tg-c0l1">16:00-16:30</td>
+    <td class="tg-efqa"> 1.9 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.9 <br> <b>Title</b></td>
+  </tr>
+  <tr>
+    <td class="tg-c0l1">16:30-17:00</td>
+    <td class="tg-efqa"> 1.10 <br> <b>Title</b></td>
+    <td class="tg-efqa"> 2.10 <br> <b>Title</b></td>
+  </tr>  
 </tbody>
 </table>
 
@@ -149,13 +162,11 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 - [Amy Searle](https://www.physics.ox.ac.uk/our-people/searle) (University of Oxford)
 - [Nihil Shah](https://www.cs.ox.ac.uk/people/nihil.shah/) (University of Oxford)
 - [Sam Speight](https://users.ox.ac.uk/~orie3678/) (University of Oxford)
+- [Rafał Stefański](https://sites.google.com/view/rafal-stefanski/) (University College London)
 - [Nikos Tzevelekos](https://www.tzevelekos.org/) (Queen Mary University of London)
 - [Jouko Väänänen](http://www.math.helsinki.fi/logic/people/jouko.vaananen/) (University of Helsinki)
 - [Daphne Wang](https://wangdaphne.github.io/) (University College London)
 - [Glynn Winskel](https://www.strath.ac.uk/staff/winskelglynnprofessor/) (University of Strathclyde and Huawei)
 - [Vladimir Zamdzhiev](https://homepages.loria.fr/VZamdzhiev/) (Inria/LORIA)
-
-
-
 
 <br>
