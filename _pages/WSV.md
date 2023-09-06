@@ -54,7 +54,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
     <td class="tg-efqa"> 2.2 <br> <b>Title</b></td>
 	<td class="tg-efqa"> 3.2 <br> <b>Title</b></td>
   </tr>
-  tr>
+  <tr>
       <td class="tg-efqa">10:30-11:00</td>
       <td class="tg-efqa"> 1.3 <br> <b>Title</b></td>
       <td class="tg-efqa"> 2.3 <br> <b>Title</b></td>
