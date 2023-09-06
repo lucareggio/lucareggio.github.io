@@ -44,21 +44,21 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>	
   <tr>
     <td class="tg-efqa">9:30-10:00</td>
-    <td class="tg-efqa"> 1.1 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.1 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 3.1 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Phokion Kolaitis <br> <b>Title</b></td>
+    <td class="tg-efqa"> Anuj Dawar <br> <b>Title</b></td>
+    <td class="tg-efqa"> Chris Heunen <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
-    <td class="tg-efqa"> 1.2 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.2 <br> <b>Title</b></td>
-	<td class="tg-efqa"> 3.2 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <b>Title</b></td>
+    <td class="tg-efqa"> Michael Moortgat <br> <b>Title</b></td>
+	<td class="tg-efqa"> Daphne Wang <br> <b>Title</b></td>
   </tr>
   <tr>
       <td class="tg-efqa">10:30-11:00</td>
-      <td class="tg-efqa"> 1.3 <br> <b>Title</b></td>
-      <td class="tg-efqa"> 2.3 <br> <b>Title</b></td>
-  	  <td class="tg-efqa"> 3.3 <br> <b>Title</b></td>
+      <td class="tg-efqa"> Dan Marsden <br> <b>Title</b></td>
+      <td class="tg-efqa"> Robert Raussendorf <br> <b>Title</b></td>
+  	  <td class="tg-efqa"> Andrzej Murawski <br> <b>Title</b></td>
     </tr>
   <tr>
     <td class="tg-f78n">11:00-11:30</td>
@@ -68,15 +68,15 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
-    <td class="tg-efqa"> 1.4 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.4 <br> <b>Title</b></td>
-	<td class="tg-efqa"> 3.4 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Shane Mansfield <br> <b>Title</b></td>
+    <td class="tg-efqa"> Jouko Vaananen <br> <b>Title</b></td>
+	<td class="tg-efqa"> Amin Karamlou <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
-    <td class="tg-efqa"> 1.5 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.5 <br> <b>Title</b></td>
-	<td class="tg-efqa"> 3.5 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Tomas Jakl <br> <b>Title</b></td>
+    <td class="tg-efqa"> Glynn Winskel <br> <b>Title</b></td>
+	<td class="tg-efqa"> Luca Reggio <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:30-14:00</td>
@@ -86,18 +86,18 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">14:00-14:30</td>
-    <td class="tg-efqa"> 1.6 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.6 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Andrew Moshier <br> <b>Title</b></td>
+    <td class="tg-efqa"> Jim Laird <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-efqa">14:30-15:00</td>
-    <td class="tg-efqa"> 1.7 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.7 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Rafał Stefański <br> <b>Title</b></td>
+    <td class="tg-efqa"> Amy Searle <br> <b>Title</b></td>
   </tr> 
   <tr>
     <td class="tg-efqa">15:00-15:40</td>
-    <td class="tg-efqa"> 1.8 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.8 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Carmen Constantin <br> <b>Title</b></td>
+    <td class="tg-efqa"> Nihil Shah <br> <b>Title</b></td>
   </tr>  
   <tr>
     <td class="tg-f78n">15:30-16:00</td>
@@ -106,13 +106,13 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
-    <td class="tg-efqa"> 1.9 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.9 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Pierre Clairambault <br> <b>Title</b></td>
+    <td class="tg-efqa"> Rui Soares Barbosa <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:00</td>
-    <td class="tg-efqa"> 1.10 <br> <b>Title</b></td>
-    <td class="tg-efqa"> 2.10 <br> <b>Title</b></td>
+    <td class="tg-efqa"> Peter Hines <br> <b>Title</b></td>
+    <td class="tg-efqa"> Samson Abramsky <br> <b>Title</b></td>
   </tr>  
 </tbody>
 </table>
