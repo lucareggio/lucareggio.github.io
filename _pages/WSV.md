@@ -44,21 +44,21 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>	
   <tr>
     <td class="tg-efqa">9:30-10:00</td>
-    <td class="tg-efqa"> Phokion Kolaitis <br> <a href="/WSV2023-abstracts#Kolaitis"><b>Consistency, Acyclicity, and Positive Semirings</b></a></td>
-    <td class="tg-efqa"> Anuj Dawar <br> <a href="/WSV2023-abstracts#Dawar"><b>Variables, Pebbles, Width and Support</b></a></td>
-    <td class="tg-efqa"> Chris Heunen <br> <a href="/WSV2023-abstracts#Heunen"><b>TBA</b></a></td>
+    <td class="tg-efqa">Phokion Kolaitis<br><a href="/WSV2023-abstracts#Kolaitis"><b>Consistency, Acyclicity, and Positive Semirings</b></a></td>
+    <td class="tg-efqa">Anuj Dawar<br><a href="/WSV2023-abstracts#Dawar"><b>Variables, Pebbles, Width and Support</b></a></td>
+    <td class="tg-efqa">Chris Heunen<br><a href="/WSV2023-abstracts#Heunen"><b>TBA</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
-    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <a href="/WSV2023-abstracts#Zamdzhiev"><b>Central Submonads and Notions of Computation</b></a></td>
-    <td class="tg-efqa"> Giuseppe Greco <br> <a href="/WSV2023-abstracts#Greco"><b>TBA</b></a></td>
-	<td class="tg-efqa"> Daphne Wang <br> <a href="/WSV2023-abstracts#Wang"><b>Causality and Signalling of Garden-Path Sentences</b></a></td>
+    <td class="tg-efqa">Vladimir Zamdzhiev<br><a href="/WSV2023-abstracts#Zamdzhiev"><b>Central Submonads and Notions of Computation</b></a></td>
+    <td class="tg-efqa">Giuseppe Greco<br><a href="/WSV2023-abstracts#Greco"><b>TBA</b></a></td>
+	<td class="tg-efqa">Daphne Wang<br><a href="/WSV2023-abstracts#Wang"><b>Causality and Signalling of Garden-Path Sentences</b></a></td>
   </tr>
   <tr>
       <td class="tg-efqa">10:30-11:00</td>
-      <td class="tg-efqa"> Dan Marsden <br> <a href="/WSV2023-abstracts#Marsden"><b>TBA</b></a></td>
-      <td class="tg-efqa"> Robert Raussendorf <br> <a href="/WSV2023-abstracts#Raussendorf"><b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></a></td>
-  	  <td class="tg-efqa"> Andrzej Murawski <br> <a href="/WSV2023-abstracts#Murawski"><b>TBA</b></a></td>
+      <td class="tg-efqa">Dan Marsden<br><a href="/WSV2023-abstracts#Marsden"><b>TBA</b></a></td>
+      <td class="tg-efqa">Robert Raussendorf<br><a href="/WSV2023-abstracts#Raussendorf"><b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></a></td>
+  	  <td class="tg-efqa">Andrzej Murawski<br><a href="/WSV2023-abstracts#Murawski"><b>TBA</b></a></td>
     </tr>
   <tr>
     <td class="tg-f78n">11:00-11:30</td>
@@ -68,15 +68,15 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
-    <td class="tg-efqa"> Shane Mansfield <br> <a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
-    <td class="tg-efqa"> Jouko Väänänen <br> <a href="/WSV2023-abstracts#Väänänen"><b>Dependence logic and dimension</b></a></td>
-	<td class="tg-efqa"> Amin Karamlou <br> <a href="/WSV2023-abstracts#Karamlou"><b>CSP relaxations and the hierarchy of contextuality</b></a></td>
+    <td class="tg-efqa">Shane Mansfield<br><a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
+    <td class="tg-efqa">Jouko Väänänen<br><a href="/WSV2023-abstracts#Väänänen"><b>Dependence logic and dimension</b></a></td>
+	<td class="tg-efqa">Amin Karamlou<br><a href="/WSV2023-abstracts#Karamlou"><b>CSP relaxations and the hierarchy of contextuality</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
-    <td class="tg-efqa"> Tomáš Jakl <br> <a href="/WSV2023-abstracts#Jakl"><b>TBA</b></a></td>
-    <td class="tg-efqa"> Glynn Winskel <br> <a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
-	<td class="tg-efqa"> Luca Reggio <br> <a href="/WSV2023-abstracts#Reggio"><b>TBA</b></a></td>
+    <td class="tg-efqa">Tomáš Jakl<br><a href="/WSV2023-abstracts#Jakl"><b>TBA</b></a></td>
+    <td class="tg-efqa">Glynn Winskel<br><a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
+	<td class="tg-efqa">Luca Reggio<br><a href="/WSV2023-abstracts#Reggio"><b>TBA</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:30-14:00</td>
@@ -86,18 +86,18 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">14:00-14:30</td>
-    <td class="tg-efqa"> Andrew Moshier <br> <a href="/WSV2023-abstracts#Moshier"><b>Relations in Order-enriched Categories</b></a></td>
-    <td class="tg-efqa"> Jim Laird <br> <a href="/WSV2023-abstracts#Laird"><b>TBA</b></a></td>
+    <td class="tg-efqa">Andrew Moshier<br><a href="/WSV2023-abstracts#Moshier"><b>Relations in Order-enriched Categories</b></a></td>
+    <td class="tg-efqa">Jim Laird<br><a href="/WSV2023-abstracts#Laird"><b>TBA</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">14:30-15:00</td>
-    <td class="tg-efqa"> Rafał Stefański <br> <a href="/WSV2023-abstracts#Stefański"><b>TBA</b></a></td>
-    <td class="tg-efqa"> Amy Searle <br> <a href="/WSV2023-abstracts#Searle"><b>TBA</b></a></td>
+    <td class="tg-efqa">Rafał Stefański<br><a href="/WSV2023-abstracts#Stefański"><b>TBA</b></a></td>
+    <td class="tg-efqa">Amy Searle<br><a href="/WSV2023-abstracts#Searle"><b>TBA</b></a></td>
   </tr> 
   <tr>
     <td class="tg-efqa">15:00-15:40</td>
-    <td class="tg-efqa"> Carmen Constantin <br> <a href="/WSV2023-abstracts#Constantin"><b>Towards a Classification of Contextuality</b></a></td>
-    <td class="tg-efqa"> Nihil Shah <br> <a href="/WSV2023-abstracts#Shah"><b>TBA</b></a></td>
+    <td class="tg-efqa">Carmen Constantin<br><a href="/WSV2023-abstracts#Constantin"><b>Towards a Classification of Contextuality</b></a></td>
+    <td class="tg-efqa">Nihil Shah<br><a href="/WSV2023-abstracts#Shah"><b>TBA</b></a></td>
   </tr>  
   <tr>
     <td class="tg-f78n">15:30-16:00</td>
@@ -106,13 +106,13 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
-    <td class="tg-efqa"> Pierre Clairambault <br> <a href="/WSV2023-abstracts#Clairambault"><b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></a></td>
-    <td class="tg-efqa"> Rui Soares Barbosa <br> <a href="/WSV2023-abstracts#Barbosa"><b>TBA</b></a></td>
+    <td class="tg-efqa">Pierre Clairambault<br><a href="/WSV2023-abstracts#Clairambault"><b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></a></td>
+    <td class="tg-efqa">Rui Soares Barbosa<br><a href="/WSV2023-abstracts#Barbosa"><b>TBA</b></a></td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:00</td>
-    <td class="tg-efqa"> Peter Hines <br> <a href="/WSV2023-abstracts#Hines"><b>“It's all Greek to me” - on the pre-history of categorical logic</b></a></td>
-    <td class="tg-efqa"> Samson Abramsky <br> <a href="/WSV2023-abstracts#Abramsky"><b>TBA</b></a></td>
+    <td class="tg-efqa">Peter Hines<br><a href="/WSV2023-abstracts#Hines"><b>“It's all Greek to me” - on the pre-history of categorical logic</b></a></td>
+    <td class="tg-efqa">Samson Abramsky<br><a href="/WSV2023-abstracts#Abramsky"><b>TBA</b></a></td>
   </tr>  
 </tbody>
 </table>
