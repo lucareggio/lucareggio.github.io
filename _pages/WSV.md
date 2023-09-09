@@ -51,7 +51,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
     <td class="tg-efqa"> Vladimir Zamdzhiev <br> <b>Title</b></td>
-    <td class="tg-efqa"> Michael Moortgat <br> <b>Title</b></td>
+    <td class="tg-efqa"> Giuseppe Greco <br> <b>Title</b></td>
 	<td class="tg-efqa"> Daphne Wang <br> <b>Title</b></td>
   </tr>
   <tr>
