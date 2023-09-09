@@ -53,7 +53,7 @@ semantics literature. The translation is implemented, and available at:
 </p>
 
 <p>
-https://ipatopetrinets.github.io/
+<a href="https://ipatopetrinets.github.io/">https://ipatopetrinets.github.io/</a>
 </p>
 
 <p>
