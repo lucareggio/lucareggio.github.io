@@ -90,7 +90,7 @@ show how it yields novel complexity lower bounds.
 <br>
 <h4 id="Hines"><b>Peter Hines</b> <br> “It's all Greek to me” - on the pre-history of categorical logic</h4>
 <p>
-<a href="/downloads/WSV2023/Hines-It's_all_Greek_to_me.pdf">See PDF attached</a>
+<a href="/downloads/WSV2023/Hines-It's_all_Greek_to_me.pdf">Download PDF</a>
 </p>
 
 <br>
