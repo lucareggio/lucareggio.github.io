@@ -8,11 +8,11 @@ permalink: /WSV2023-abstracts/
 
 <br>
 <details>
-<summary><b>Carmen Constantin</b>: Towards a Classification of Contextuality
+<summary><b>Carmen Constantin</b>: Towards a Classification of Contextuality</summary>
 
 This talk will discuss some of the early steps taken towards classifying quantum states according to the hierarchy of contextuality introduced by Abramsky and Brandenburger. We will briefly mention some of the results which led to the conjecture that almost all entangled states admit Hardy-type proofs of non-locality without inequalities and probabilities and also give a constructive proof of this conjecture. In particular, we will showcase an algorithm for producing local, n+2 one-qubit observables, which witness the logical contextuality of almost all n-qubit entangled states, with the exception of tensor products of single-qubit states and Bell states. 
+</details>
 
-<br>
 
 <br>
 - <b>Samson Abramsky</b>: TBA <br>
