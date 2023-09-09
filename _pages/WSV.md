@@ -106,7 +106,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
-    <td class="tg-efqa"> Pierre Clairambault <br> <b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></td>
+    <td class="tg-efqa"> Pierre Clairambault <br> <a href="/WSV-abstracts#Clairambault"><b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></a></td>
     <td class="tg-efqa"> Rui Soares Barbosa <br> <b>Title</b></td>
   </tr>
   <tr>
