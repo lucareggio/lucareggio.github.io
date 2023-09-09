@@ -44,21 +44,21 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>	
   <tr>
     <td class="tg-efqa">9:30-10:00</td>
-    <td class="tg-efqa"> Phokion Kolaitis <br> <b>Consistency, Acyclicity, and Positive Semirings</b></td>
-    <td class="tg-efqa"> Anuj Dawar <br> <b>Variables, Pebbles, Width and Support</b></td>
-    <td class="tg-efqa"> Chris Heunen <br> <b>Title</b></td>
+    <td class="tg-efqa"> Phokion Kolaitis <br> <a href="/WSV2023-abstracts#Kolaitis"><b>Consistency, Acyclicity, and Positive Semirings</b></a></td>
+    <td class="tg-efqa"> Anuj Dawar <br> <a href="/WSV2023-abstracts#Dawar"><b>Variables, Pebbles, Width and Support</b></a></td>
+    <td class="tg-efqa"> Chris Heunen <br> <a href="/WSV2023-abstracts#Heunen"><b>Title</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
-    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <b>Central Submonads and Notions of Computation</b></td>
-    <td class="tg-efqa"> Giuseppe Greco <br> <b>Title</b></td>
-	<td class="tg-efqa"> Daphne Wang <br> <b>Causality and Signalling of Garden-Path Sentences</b></td>
+    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <a href="/WSV2023-abstracts#Zamdzhiev"><b>Central Submonads and Notions of Computation</b></a></td>
+    <td class="tg-efqa"> Giuseppe Greco <br> <a href="/WSV2023-abstracts#Greco"><b>Title</b></a></td>
+	<td class="tg-efqa"> Daphne Wang <br> <a href="/WSV2023-abstracts#Wang"><b>Causality and Signalling of Garden-Path Sentences</b></a></td>
   </tr>
   <tr>
       <td class="tg-efqa">10:30-11:00</td>
-      <td class="tg-efqa"> Dan Marsden <br> <b>Title</b></td>
-      <td class="tg-efqa"> Robert Raussendorf <br> <b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></td>
-  	  <td class="tg-efqa"> Andrzej Murawski <br> <b>Title</b></td>
+      <td class="tg-efqa"> Dan Marsden <br> <a href="/WSV2023-abstracts#Marsden"><b>Title</b></a></td>
+      <td class="tg-efqa"> Robert Raussendorf <br> <a href="/WSV2023-abstracts#Raussendorf"><b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></a></td>
+  	  <td class="tg-efqa"> Andrzej Murawski <br> <a href="/WSV2023-abstracts#Murawski"><b>Title</b></a></td>
     </tr>
   <tr>
     <td class="tg-f78n">11:00-11:30</td>
@@ -68,14 +68,14 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
-    <td class="tg-efqa"> Shane Mansfield <br> <b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></td>
-    <td class="tg-efqa"> Jouko Vaananen <br> <b>Dependence logic and dimension</b></td>
-	<td class="tg-efqa"> Amin Karamlou <br> <b>CSP relaxations and the hierarchy of contextuality</b></td>
+    <td class="tg-efqa"> Shane Mansfield <br> <a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
+    <td class="tg-efqa"> Jouko Väänänen <br> <a href="/WSV2023-abstracts#Väänänen"><b>Dependence logic and dimension</b></a></td>
+	<td class="tg-efqa"> Amin Karamlou <br> <a href="/WSV2023-abstracts#Karamlou"><b>CSP relaxations and the hierarchy of contextuality</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
-    <td class="tg-efqa"> Tomas Jakl <br> <b>Title</b></td>
-    <td class="tg-efqa"> Glynn Winskel <br> <b>GoI to SmP</b></td>
+    <td class="tg-efqa"> Tomas Jakl <br> <a href="/WSV2023-abstracts#Jakl"><b>Title</b></a></td>
+    <td class="tg-efqa"> Glynn Winskel <br> <a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
 	<td class="tg-efqa"> Luca Reggio <br> <b>Title</b></td>
   </tr>
   <tr>
