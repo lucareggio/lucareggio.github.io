@@ -140,6 +140,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 - [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/) (University of Cambridge)
 - [Maximilian Doré](https://www.cs.ox.ac.uk/people/maximilian.dore/) (University of Oxford)
 - [Mai Gehrke](https://math.univ-cotedazur.fr/~mgehrke/) (Université Côte d’Azur)
+- [Giuseppe Greco](https://research.vu.nl/en/persons/giuseppe-greco) (Vrije Universiteit Amsterdam)
 - [Jules Hedges](https://julesh.com/) (University of Strathclyde)
 - [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) (University of Edinburgh)
 - [Peter Hines](https://peterhines.net/) (University of York)
