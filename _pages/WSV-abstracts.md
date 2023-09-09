@@ -10,7 +10,7 @@ permalink: /WSV2023-abstracts/
 - <b>Samson Abramsky</b>: TBA <br>
 - <b>Rui Soares Barbosa</b>: TBA <br>
 
-<h2 id="Clairambault"><b>Pierre Clairambault</b> <br> The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</h2>
+<h4 id="Clairambault"><b>Pierre Clairambault</b> <br> The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</h4>
 <p>
 Concurrent Games is a framework developed in the past decade
 for semantics of programming languages. In Concurrent Games, a program
