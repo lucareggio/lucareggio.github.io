@@ -94,7 +94,7 @@ show how it yields novel complexity lower bounds.
 </p>
 
 <br>
-<h4 id="Jakl"><b>Tomas Jakl</b> <br> TBA</h4>
+<h4 id="Jakl"><b>Tomáš Jakl</b> <br> TBA</h4>
 
 <br>
 <h4 id="Karamlou"><b>Amin Karamlou</b> <br> CSP relaxations and the hierarchy of contextuality</h4>

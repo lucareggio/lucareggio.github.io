@@ -74,7 +74,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
-    <td class="tg-efqa"> Tomas Jakl <br> <a href="/WSV2023-abstracts#Jakl"><b>Title</b></a></td>
+    <td class="tg-efqa"> Tomáš Jakl <br> <a href="/WSV2023-abstracts#Jakl"><b>Title</b></a></td>
     <td class="tg-efqa"> Glynn Winskel <br> <a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
 	<td class="tg-efqa"> Luca Reggio <br> <b>Title</b></td>
   </tr>
@@ -144,7 +144,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 - [Jules Hedges](https://julesh.com/) (University of Strathclyde)
 - [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) (University of Edinburgh)
 - [Peter Hines](https://peterhines.net/) (University of York)
-- [Tomas Jakl](https://tomas.jakl.one/) (Czech Academy of Sciences and Czech Technical University)
+- [Tomáš Jakl](https://tomas.jakl.one/) (Czech Academy of Sciences and Czech Technical University)
 - [Achim Jung](https://www.cs.bham.ac.uk/~axj/) (University of Birmingham)
 - [Amin Karamlou](https://www.cs.ox.ac.uk/people/amin.karamlou/) (University of Oxford)
 - [Bartek Klin](https://www.cs.ox.ac.uk/people/bartek.klin/main.html) (University of Oxford)
