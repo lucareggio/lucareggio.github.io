@@ -44,20 +44,20 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>	
   <tr>
     <td class="tg-efqa">9:30-10:00</td>
-    <td class="tg-efqa"> Phokion Kolaitis <br> <b>Title</b></td>
-    <td class="tg-efqa"> Anuj Dawar <br> <b>Title</b></td>
+    <td class="tg-efqa"> Phokion Kolaitis <br> <b>Consistency, Acyclicity, and Positive Semirings</b></td>
+    <td class="tg-efqa"> Anuj Dawar <br> <b>Variables, Pebbles, Width and Support</b></td>
     <td class="tg-efqa"> Chris Heunen <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
-    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <b>Title</b></td>
+    <td class="tg-efqa"> Vladimir Zamdzhiev <br> <b>Central Submonads and Notions of Computation</b></td>
     <td class="tg-efqa"> Giuseppe Greco <br> <b>Title</b></td>
-	<td class="tg-efqa"> Daphne Wang <br> <b>Title</b></td>
+	<td class="tg-efqa"> Daphne Wang <br> <b>Causality and Signalling of Garden-Path Sentences</b></td>
   </tr>
   <tr>
       <td class="tg-efqa">10:30-11:00</td>
       <td class="tg-efqa"> Dan Marsden <br> <b>Title</b></td>
-      <td class="tg-efqa"> Robert Raussendorf <br> <b>Title</b></td>
+      <td class="tg-efqa"> Robert Raussendorf <br> <b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></td>
   	  <td class="tg-efqa"> Andrzej Murawski <br> <b>Title</b></td>
     </tr>
   <tr>
@@ -68,14 +68,14 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
-    <td class="tg-efqa"> Shane Mansfield <br> <b>Title</b></td>
-    <td class="tg-efqa"> Jouko Vaananen <br> <b>Title</b></td>
-	<td class="tg-efqa"> Amin Karamlou <br> <b>Title</b></td>
+    <td class="tg-efqa"> Shane Mansfield <br> <b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></td>
+    <td class="tg-efqa"> Jouko Vaananen <br> <b>Dependence logic and dimension</b></td>
+	<td class="tg-efqa"> Amin Karamlou <br> <b>CSP relaxations and the hierarchy of contextuality</b></td>
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
     <td class="tg-efqa"> Tomas Jakl <br> <b>Title</b></td>
-    <td class="tg-efqa"> Glynn Winskel <br> <b>Title</b></td>
+    <td class="tg-efqa"> Glynn Winskel <br> <b>GoI to SmP</b></td>
 	<td class="tg-efqa"> Luca Reggio <br> <b>Title</b></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-efqa">14:00-14:30</td>
-    <td class="tg-efqa"> Andrew Moshier <br> <b>Title</b></td>
+    <td class="tg-efqa"> Andrew Moshier <br> <b>Relations in Order-enriched Categories</b></td>
     <td class="tg-efqa"> Jim Laird <br> <b>Title</b></td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr> 
   <tr>
     <td class="tg-efqa">15:00-15:40</td>
-    <td class="tg-efqa"> Carmen Constantin <br> <b>Title</b></td>
+    <td class="tg-efqa"> Carmen Constantin <br> <b>Towards a Classification of Contextuality</b></td>
     <td class="tg-efqa"> Nihil Shah <br> <b>Title</b></td>
   </tr>  
   <tr>
@@ -106,12 +106,12 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
   </tr>
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
-    <td class="tg-efqa"> Pierre Clairambault <br> <b>Title</b></td>
+    <td class="tg-efqa"> Pierre Clairambault <br> <b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></td>
     <td class="tg-efqa"> Rui Soares Barbosa <br> <b>Title</b></td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:00</td>
-    <td class="tg-efqa"> Peter Hines <br> <b>Title</b></td>
+    <td class="tg-efqa"> Peter Hines <br> <b>“It's all Greek to me” - on the pre-history of categorical logic</b></td>
     <td class="tg-efqa"> Samson Abramsky <br> <b>Title</b></td>
   </tr>  
 </tbody>
