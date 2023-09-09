@@ -6,25 +6,12 @@ sitemap: false
 permalink: /WSV2023-abstracts/
 ---
 
-<html>
-<body>
-
-<details>
-<summary><b>Carmen Constantin</b>: Towards a Classification of Contextuality</summary>
-
-<p>
-This talk will discuss some of the early steps taken towards classifying quantum states according to the hierarchy of contextuality introduced by Abramsky and Brandenburger. We will briefly mention some of the results which led to the conjecture that almost all entangled states admit Hardy-type proofs of non-locality without inequalities and probabilities and also give a constructive proof of this conjecture. In particular, we will showcase an algorithm for producing local, n+2 one-qubit observables, which witness the logical contextuality of almost all n-qubit entangled states, with the exception of tensor products of single-qubit states and Bell states. 
-</p>
-</details>
-
-</body>
-</html>
-
-
 <br>
 - <b>Samson Abramsky</b>: TBA <br>
 - <b>Rui Soares Barbosa</b>: TBA <br>
 - <b>Pierre Clairambault</b>: The Geometry of Causality : Multi-token Geometry of Interaction and Its Causal Unfolding <br>
+
+<p>
 Concurrent Games is a framework developed in the past decade
 for semantics of programming languages. In Concurrent Games, a program
 is interpreted as an event structure, representing its interactive
@@ -33,7 +20,9 @@ extremely fine-grained: it is causal as in so-called truly concurrent
 models of concurrency, showing explicitely the dependence and
 independence of computational events, and the non-deterministic
 branching points.
+</p>
 
+<p>
 This interpretation is computed in a modular way by induction on
 programs, following the methodology of denotational semantics. This is
 good, because it means that the semantics can be used to reason
@@ -42,7 +31,9 @@ of the interpretation of the source code in a denotational model and the
 complexity of the operations involved (notably, the composition of
 strategies) blurs the relationship between the source code and the
 semantics.
+</p>
 
+<p>
 In this work, we make concurrent games operational. More precisely, we
 show that programs can be translated compositionally intro certain
 coloured Petri nets, combining intuitions from game semantics, Girard's
@@ -53,16 +44,27 @@ still close to the source code. But as finite graphs *unfold* to
 infinite trees, Petri nets *unfold* to event structures; and here we
 show that this unfolding yields the same event structure obtained
 denotationally from the interpretation in concurrent games.
+</p>
 
+<p>
 We deploy this for Idealized Parallel Algol, a call-by-name higher-order
 concurrent programming language that is well-studied in the game
 semantics literature. The translation is implemented, and available at:
+</p>
 
+<p>
 https://ipatopetrinets.github.io/
+</p>
 
+<p>
 This is joint work with Simon Castellan.
+</p>
+
 - <b>Carmen Constantin</b>: Towards a Classification of Contextuality <br> <br>
+<p>
 This talk will discuss some of the early steps taken towards classifying quantum states according to the hierarchy of contextuality introduced by Abramsky and Brandenburger. We will briefly mention some of the results which led to the conjecture that almost all entangled states admit Hardy-type proofs of non-locality without inequalities and probabilities and also give a constructive proof of this conjecture. In particular, we will showcase an algorithm for producing local, n+2 one-qubit observables, which witness the logical contextuality of almost all n-qubit entangled states, with the exception of tensor products of single-qubit states and Bell states. 
+</p>
+
 - <b>Anuj Dawar</b>: Variables, Pebbles, Width and Support <br>
 In finite model theory, the number of distinct variables that appear in
 a formula emerged as an important measure of the complexity of a
