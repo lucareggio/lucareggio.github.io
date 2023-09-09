@@ -10,7 +10,7 @@ permalink: /WSV2023-abstracts/
 - <b>Samson Abramsky</b>: TBA <br>
 - <b>Rui Soares Barbosa</b>: TBA <br>
 - <b>Pierre Clairambault</b>: TBA <br>
-- <b>Carmen Constantin</b>: TBA <br>
+- <b>Carmen Constantin</b>: TBA <br> <br>
 - <b>Anuj Dawar</b>: Variables, Pebbles, Width and Support <br>
 In finite model theory, the number of distinct variables that appear in
 a formula emerged as an important measure of the complexity of a
@@ -19,7 +19,7 @@ pebbling comonad introduced by Abramsky, Dawar and Wang.  In this talk,
 I relate the measure to a number of different notions of width in the
 literature showing that it describes a fundamental resource.  In
 particular, I make a connection with supports in circuit complexity and
-show how it yields novel complexity lower bounds. <br>
+show how it yields novel complexity lower bounds. <br> <br>
 - <b>Giuseppe Greco</b>: TBA <br>
 - <b>Chris Heunen</b>: TBA <br>
 - <b>Peter Hines</b>: TBA <br>
