@@ -31,11 +31,9 @@ return false;
 
 </head>
 <body>
-<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png" class="center">
+<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
 <br><br>
-<div class="container">
 <button id="clickme" onclick="changeImage();">Click here for an alternative cover!</button>
-</div>
 </body>
 </html>
 
