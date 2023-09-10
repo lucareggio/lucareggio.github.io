@@ -8,7 +8,7 @@ permalink: /WSV2023/
 
 <h1 style="text-align: center;">Workshop on Springer Volume <br> _"Samson Abramsky on Logic and Structure <br> in Computer Science and Beyond"_</h1>
 <br>
-<h3 style="text-align: center;">September 18th-20th 2023</h3>
+<h3 style="text-align: center;">September 18th-20th, 2023</h3>
 
 <br>
 
