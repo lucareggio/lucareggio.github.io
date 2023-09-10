@@ -34,7 +34,7 @@ return false;
 <img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
 <br><br>
 <div>
-<button onclick="changeImage();" type="button" style="background-color:yellow;margin:auto;display:block">Click here for an alternative cover!</button>
+<button onclick="changeImage();" type="button" style=";margin:auto;display:block">Click here for an alternative cover!</button>
 </div>
 </body>
 </html>
