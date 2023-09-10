@@ -21,14 +21,11 @@ figcaption {
     margin-bottom: 20px;
 }
 
-.container {
-    height: 200px;
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+button {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
 }
-
 
 /* Top navigation bar */
 
