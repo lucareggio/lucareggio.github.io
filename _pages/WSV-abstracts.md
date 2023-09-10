@@ -120,7 +120,7 @@ This talk is based on a chapter with the same title by Albert Atserias and Phoki
 <h4 id="Laird"><b>Jim Laird</b> <br> Axioms for sequentiality, state and concurrency</h4>
 <p>
 In our contribution to the "Logic and Structure" volume, Guy McCusker and I give Abramsky-style "axioms for full abstraction" of a games model of general references. The categorical structure on which these are based - final coalgebras for the sequoid, an asymmetric connective capturing causality - suggests a general methodology for constructing higher-order mutable objects by hiding their internal state, and coinductive theories for reasoning about them. Relating this structure to adjunction models of computational effects and linear logic opens the prospect of extending these theories to concurrent objects.	
-</p	
+</p>
 
 <br>
 <h4 id="Mansfield"><b>Shane Mansfield</b> <br> Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</h4>
