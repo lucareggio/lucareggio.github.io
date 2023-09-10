@@ -8,6 +8,8 @@ permalink: /WSV2023-abstracts/
 
 <h1 style="text-align: center;">Workshop on Springer Volume 2023 <br>Abstracts</h1>
 
+<br>
+
 <h4 id="Abramsky"><b>Samson Abramsky</b> <br> TBA</h4>
 
 <br>
