@@ -114,7 +114,7 @@ return false;
   <tr>
     <td class="tg-efqa">14:00-14:30</td>
     <td class="tg-efqa">Andrew Moshier<br><a href="/WSV2023-abstracts#Moshier"><b>Relations in Order-enriched Categories</b></a></td>
-    <td class="tg-efqa">Jim Laird<br><a href="/WSV2023-abstracts#Laird"><b>TBA</b></a></td>
+    <td class="tg-efqa">Jim Laird<br><a href="/WSV2023-abstracts#Laird"><b>Axioms for sequentiality, state and concurrency</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">14:30-15:00</td>
