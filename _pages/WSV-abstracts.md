@@ -89,7 +89,10 @@ show how it yields novel complexity lower bounds.
 <h4 id="Greco"><b>Giuseppe Greco</b> <br> TBA</h4>
 
 <br>
-<h4 id="Heunen"><b>Chris Heunen</b> <br> TBA</h4>
+<h4 id="Heunen"><b>Chris Heunen</b> <br> Compact Inverse Categories</h4>
+<p>
+<a href="/downloads/WSV2023/Heunen-Compact_Inverse_Categories.pdf">Download PDF</a>
+</p>
 
 <br>
 <h4 id="Hines"><b>Peter Hines</b> <br> “It's all Greek to me” - on the pre-history of categorical logic</h4>
