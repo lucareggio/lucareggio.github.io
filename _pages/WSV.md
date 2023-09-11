@@ -65,7 +65,7 @@ return false;
 <tbody>
   <tr>
     <td class="tg-f78n">09:00-09:30</td>
-    <td class="tg-f78n">coffee + <br> intro (09:20)</td>
+    <td class="tg-f78n">coffee + <br> intro by Mehrnoosh Sadrzadeh (09:20)</td>
     <td class="tg-f78n">coffee</td>
     <td class="tg-f78n">coffee</td>
   </tr>	
@@ -145,8 +145,8 @@ return false;
 </table>
 
 
-<br>
-<b>Local information</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> of University College London, WC1E 6BT.<br>
+<br><br>
+<b>Where</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> of University College London, WC1E 6BT.<br>
 
 
 <br>
