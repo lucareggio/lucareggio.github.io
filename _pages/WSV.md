@@ -119,12 +119,12 @@ return false;
   <tr>
     <td class="tg-efqa">14:30-15:00</td>
     <td class="tg-efqa">Rafał Stefański<br><a href="/WSV2023-abstracts#Stefański"><b>TBA</b></a></td>
-    <td class="tg-efqa">Amy Searle<br><a href="/WSV2023-abstracts#Searle"><b>TBA</b></a></td>
+    <td class="tg-efqa">Nihil Shah<br><a href="/WSV2023-abstracts#Shah"><b>TBA</b></a></td>
   </tr> 
   <tr>
     <td class="tg-efqa">15:00-15:40</td>
     <td class="tg-efqa">Tomáš Jakl<br><a href="/WSV2023-abstracts#Jakl"><b>TBA</b></a></td>
-    <td class="tg-efqa">Nihil Shah<br><a href="/WSV2023-abstracts#Shah"><b>TBA</b></a></td>
+    <td class="tg-efqa">Amy Searle<br><a href="/WSV2023-abstracts#Searle"><b>TBA</b></a></td>
   </tr>  
   <tr>
     <td class="tg-f78n">15:30-16:00</td>
