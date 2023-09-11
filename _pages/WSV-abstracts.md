@@ -142,7 +142,15 @@ Regular categories are suitable for dealing with structures that arise from ordi
 </p>
 
 <br>
-<h4 id="Murawski"><b>Andrzej Murawski</b> <br> TBA</h4>
+<h4 id="Murawski"><b>Andrzej Murawski</b> <br> Deconstructing general references via game semantics</h4>
+<p>
+We investigate the game semantics of general references through the fully abstract game model of Abramsky, Honda and McCusker (AHM), which demonstrated that the visibility condition in games corresponds to the extra expressivity afforded by higher-order references with respect to integer references. First, we prove a stronger version of the visible factorisation result from AHM, by decomposing any strategy into a visible one and a single strategy corresponding to a reference cell of type unit → unit (AHM accounted only for finite strategies and its result involved unboundedly many cells).
+</p>
+
+<p>
+We show that the strengthened version of the theorem implies universality of the model and, consequently, we can rely upon it to provide semantic proofs of program transformation results. In particular, one can prove that any program with general references is equivalent to a purely functional program augmented with a single unit → unit reference cell and a single integer cell. We also propose a syntactic method of achieving such a transformation.
+Finally, we provide a type-theoretic characterisation of terms in which the use of general references can be simulated with an integer reference cell or through purely functional computation, without any changes to the underlying types.	
+</p>	
 
 <br>
 <h4 id="Raussendorf"><b>Robert Raussendorf</b> <br> Interwoven paths: my journey through contextuality, cohomology and paradox</h4>
