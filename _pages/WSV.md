@@ -95,13 +95,13 @@ return false;
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
-    <td class="tg-efqa">Shane Mansfield<br><a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
+    <td class="tg-efqa">Carmen Constantin<br><a href="/WSV2023-abstracts#Constantin"><b>Towards a Classification of Contextuality</b></a></td>
     <td class="tg-efqa">Jouko Väänänen<br><a href="/WSV2023-abstracts#Väänänen"><b>Dependence logic and dimension</b></a></td>
 	<td class="tg-efqa">Amin Karamlou<br><a href="/WSV2023-abstracts#Karamlou"><b>CSP relaxations and the hierarchy of contextuality</b></a></td>
   </tr>
   <tr>
     <td class="tg-efqa">12:00-12:30</td>
-    <td class="tg-efqa">Carmen Constantin<br><a href="/WSV2023-abstracts#Constantin"><b>Towards a Classification of Contextuality</b></a></td>
+    <td class="tg-efqa">Shane Mansfield<br><a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
     <td class="tg-efqa">Glynn Winskel<br><a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
 	<td class="tg-efqa">Luca Reggio<br><a href="/WSV2023-abstracts#Reggio"><b>TBA</b></a></td>
   </tr>
