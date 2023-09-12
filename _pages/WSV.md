@@ -148,6 +148,8 @@ return false;
 <br><br>
 <b>Where</b> <br /> The meeting will take place in the <a href="https://www.ucl.ac.uk/maps/gustave-tuck-lt">Gustave Tuck Lecture Theatre</a> of University College London, WC1E 6BT.<br>
 
+You can take a <a href="https://viewer.mapme.com/02b0fbce-a91c-4a19-a4f7-41986b7a4438">virtual tour of the campus</a>, or glimpse the Lecture Theathre from <a href="https://www.youtube.com/watch?v=j4GYRtyhwvY">the work of Christopher Nolan</a>.
+
 
 <br>
 <b>Organising and programme committee</b>
