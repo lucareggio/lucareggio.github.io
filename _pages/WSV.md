@@ -186,7 +186,7 @@ You can take a <a href="https://viewer.mapme.com/02b0fbce-a91c-4a19-a4f7-41986b7
 - [Andrew Moshier](https://www.chapman.edu/our-faculty/m-andrew-moshier) (Chapman University)
 - [Andrzej Murawski](https://www.cs.ox.ac.uk/people/andrzej.murawski/) (University of Oxford)
 - [Rajagopal Nagarajan](https://cs.mdx.ac.uk/raja/) (Middlesex University)
-- [Robert Raussendorf](https://phas.ubc.ca/~raussen/) (University of British Columbia)
+- [Robert Raussendorf](https://phas.ubc.ca/~raussen/) (Leibniz Universitaet Hannover)
 - [Luca Reggio](https://lucareggio.github.io/) (University College London)
 - [Mehrnoosh Sadrzadeh](https://msadrzadeh.wordpress.com/) (University College London)
 - [Amy Searle](https://www.physics.ox.ac.uk/our-people/searle) (University of Oxford)
