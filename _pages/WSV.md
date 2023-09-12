@@ -77,13 +77,13 @@ return false;
   </tr>
   <tr>
     <td class="tg-efqa">10:00-10:30</td>
-    <td class="tg-efqa">Vladimir Zamdzhiev<br><a href="/WSV2023-abstracts#Zamdzhiev"><b>Central Submonads and Notions of Computation</b></a></td>
+    <td class="tg-efqa">Andrew Moshier<br><a href="/WSV2023-abstracts#Moshier"><b>Relations in Order-enriched Categories</b></a></td>
     <td class="tg-efqa">Robert Raussendorf<br><a href="/WSV2023-abstracts#Raussendorf"><b>Interwoven paths: my journey through contextuality, cohomology and paradox</b></a></td>
 	<td class="tg-efqa">Andrzej Murawski<br><a href="/WSV2023-abstracts#Murawski"><b>Deconstructing general references via game semantics</b></a></td>
   </tr>
   <tr>
       <td class="tg-efqa">10:30-11:00</td>
-      <td class="tg-efqa">Andrew Moshier<br><a href="/WSV2023-abstracts#Moshier"><b>Relations in Order-enriched Categories</b></a></td>
+      <td class="tg-efqa">Vladimir Zamdzhiev<br><a href="/WSV2023-abstracts#Zamdzhiev"><b>Central Submonads and Notions of Computation</b></a></td>
       <td class="tg-efqa">Giuseppe Greco<br><a href="/WSV2023-abstracts#Greco"><b>TBA</b></a></td>
   	  <td class="tg-efqa">Daphne Wang<br><a href="/WSV2023-abstracts#Wang"><b>Causality and Signalling of Garden-Path Sentences</b></a></td>
     </tr>
