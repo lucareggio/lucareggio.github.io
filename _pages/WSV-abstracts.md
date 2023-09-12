@@ -101,7 +101,10 @@ show how it yields novel complexity lower bounds.
 </p>
 
 <br>
-<h4 id="Jakl"><b>Tomáš Jakl</b> <br> TBA</h4>
+<h4 id="Jakl"><b>Tomáš Jakl</b> <br> Towards comonadic locality theorems</h4>
+<p>
+In this talk I overview my progress towards obtaining a fully axiomatic account of Gaifman and Hanf locality theorems, which are an important tool in finite model theory. As a by-product I obtain an abstract version of the Workspace Lemma of Samson Abramsky and Dan Marsden. My axiomatic setting is based on the framework of game comonads and arboreal categories studied in the Resources and co-Resources project where Samson Abramsky was in the leading role together with Anuj Dawar.	
+</p>	
 
 <br>
 <h4 id="Karamlou"><b>Amin Karamlou</b> <br> CSP relaxations and the hierarchy of contextuality</h4>
@@ -132,7 +135,14 @@ Among the promising technological approaches to quantum computing, photonics off
 </p>
 
 <br>
-<h4 id="Marsden"><b>Dan Marsden</b> <br> TBA</h4>
+<h4 id="Marsden"><b>Dan Marsden</b> <br> Ripples from Pebbles</h4>
+<p>
+This talk will survey aspects of the game comonads programme of research, beginning with pebble games,
+and Abramsky, Dawar and Wang's introduction of game comonads. The talk will then sketch subsequent
+work of myself and Samson, expanding these ideas to guarded and bounded fragments of first-order logic. 
+Time permitting, we shall conclude with a discussion of ongoing work, originating from the finite model theory 
+and game comonads project at this year's Adjoint School.	
+</p>	
 
 <br>
 <h4 id="Moshier"><b>Andrew Moshier</b> <br> Relations in Order-enriched Categories</h4>
@@ -175,7 +185,10 @@ As became clearer in the following year, establishing the cohomology — context
 <h4 id="Shah"><b>Nihil Shah</b> <br> TBA</h4>
 
 <br>
-<h4 id="Stefański"><b>Rafał Stefański</b> <br> TBA</h4>
+<h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transdcuers</h4>
+<p>
+The topic of this talk are functors (in Set) that are both monads and comonads, and how they connect with the theory of transducers (which are output producing automata). For each such functor M, we show how to define a class of recognizable functions of type MΣ → MΓ. Then, we present a couple of examples of Ms whose recognizable functions correspond to some well-know classes of transducers, such as Mealy machines and rational functions. We also present M's for more complex structures such as terms or infinite words.Then, we discuss what properties of M are required to ensure that its class of recognizable functions is closed under compositions. Finally, we talk about the problems one encounters while trying to extending the results to a general category.	
+</p>
 
 <br>
 <h4 id="Väänänen"><b>Jouko Väänänen</b> <br> Dependence logic and dimension</h4>
