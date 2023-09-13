@@ -187,6 +187,9 @@ We study the setup in which measurements are performed in a particular temporal 
 <p>
 [1] S. Abramsky and A. Brandenburger, “The sheaf-theoretic structure of non-locality and contextuality,” New
 Journal of Physics, vol. 13, p. 113036, Nov. 2011.
+</p>
+
+<p>
 [2] R. Barbosa, “Contextuality in quantum mechanics and beyond,” 2015	
 </p>	
 
