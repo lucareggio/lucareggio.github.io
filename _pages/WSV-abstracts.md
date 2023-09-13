@@ -179,7 +179,16 @@ As became clearer in the following year, establishing the cohomology — context
 <h4 id="Reggio"><b>Luca Reggio</b> <br> TBA</h4>
 
 <br>
-<h4 id="Searle"><b>Amy Searle</b> <br> TBA</h4>
+<h4 id="Searle"><b>Amy Searle</b> <br> Quantifying Non-Classicality in Temporal Measurement Scenarios</h4>
+<p>
+We study the setup in which measurements are performed in a particular temporal order on a system, which may be a system governed by the laws of classical physics, quantum physics, or most generally any general probabilistic theory. We utilise a sheaf theoretic approach akin to that of Abramsky and Brandenburger's approach to contextuality [1], the difference being that here our notion of classicality must reflect that measurements could be sensitive to previous measurements. Of central significance in this framework is the ability to map temporal measurement setups as well as the empirical models for such setups (tables of data arising from measurement) to certain carefully constructed contextuality measurement scenarios and empirical models. Doing so allows us to utilise a Theorem from [2] for contextuality setups, adapted from Vorob'ev's Theorem in the context of game theory, in order to understand which temporal measurement scenarios are capable of exhibiting non-classicality.
+</p>
+
+<p>
+[1] S. Abramsky and A. Brandenburger, “The sheaf-theoretic structure of non-locality and contextuality,” New
+Journal of Physics, vol. 13, p. 113036, Nov. 2011.
+[2] R. Barbosa, “Contextuality in quantum mechanics and beyond,” 2015	
+</p>	
 
 <br>
 <h4 id="Shah"><b>Nihil Shah</b> <br> Mixed Distributive Laws: Game Comonads over Distribution/Quantum Monads</h4>

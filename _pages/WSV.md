@@ -124,7 +124,7 @@ return false;
   <tr>
     <td class="tg-efqa">15:00-15:40</td>
     <td class="tg-efqa">Tomáš Jakl<br><a href="/WSV2023-abstracts#Jakl"><b>Towards comonadic locality theorems</b></a></td>
-    <td class="tg-efqa">Amy Searle<br><a href="/WSV2023-abstracts#Searle"><b>TBA</b></a></td>
+    <td class="tg-efqa">Amy Searle<br><a href="/WSV2023-abstracts#Searle"><b>Quantifying Non-Classicality in Temporal Measurement Scenarios</b></a></td>
   </tr>  
   <tr>
     <td class="tg-f78n">15:30-16:00</td>
