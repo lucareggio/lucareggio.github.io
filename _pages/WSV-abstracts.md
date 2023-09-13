@@ -182,7 +182,10 @@ As became clearer in the following year, establishing the cohomology — context
 <h4 id="Searle"><b>Amy Searle</b> <br> TBA</h4>
 
 <br>
-<h4 id="Shah"><b>Nihil Shah</b> <br> TBA</h4>
+<h4 id="Shah"><b>Nihil Shah</b> <br> Mixed Distributive Laws: Game Comonads over Distribution/Quantum Monads</h4>
+<p>
+In the seminal paper, The Pebbling Comonad in Finite Model Theory, Abramsky, Dawar and Wang encoded the pebble model comparison game as an indexed family of comonads over the category of relational structures. This game, and thus the comonad, is an important tool in finite model theory as it characterizes when two structures are equivalent in finite variable logic and has important connections to local consistency and graph isomorphism testing. Parallel to this development, in the paper The Quantum Monad on Relational Structures, Abramsky, Barbosa, de Silva, and Zapata constructed a graded monad over the category of relational structures which captured a notion of quantum homomorphism originally phrased in terms non-local games from quantum information theory. Finding a graded distributive law between the pebbling comonad and the quantum monad would give rise to biKleisli category allowing these two constructions to interact compositionally. In this talk, I will go over how in the process of searching for such a law, we obtained interesting, but unrelated, no-go theorems demonstrating that directed containers do not distribute over a large class of discrete probability distribution monads.  We also discovered a general tool for transferring distributive laws of (co)monads on some category to related (co)monads on a (co)reflective subcategory. Finally, I will conclude with recent work demonstrating that there are distributive laws of game comonads over the quantum monad.	
+</p>
 
 <br>
 <h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transdcuers</h4>
