@@ -9,6 +9,18 @@
   url: https://iiia.csic.es/tacl2024/
   place: Barcelona
   date: 1-5 July 2024  
+  
+- title: WoLLIC 2024
+  upcoming: 1
+  url: https://wollic.org/wollic2024/
+  place: Bern
+  date: 10-13 June 2024  
+  
+- title: Workshop on Springer Volume "Samson Abramsky on Logic and Structure in Computer Science and Beyond"
+  upcoming: 1
+  url: https://lucareggio.github.io/WSV2023/
+  place: London
+  date: 18-20 September 2023  
 
 - title: LATD 2023
   upcoming: 1
@@ -23,7 +35,7 @@
   date: 7-15 September 2023  
 
 - title: XXII Congresso dell'Unione Matematica Italiana
-  upcoming: 1
+  upcoming: 0
   url: https://umi.dm.unibo.it/congresso2023/
   place: Pisa
   date: 4-9 September 2023
