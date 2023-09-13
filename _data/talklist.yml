@@ -1,22 +1,30 @@
-- title: Soft sheaf representations, a categorical perspective
-  upcoming: 1
-  venueurlavailable: 1
-  venueurl: https://sites.google.com/view/latd-2023/
-  venuedisplay: LATD 2023
-  place: Tbilisi
-  date: 11-15 September 2023
+#- title: Soft sheaf representations, a categorical perspective
+#  upcoming: 1
+#  venueurlavailable: 1
+#  venueurl: https://sites.google.com/view/latd-2023/
+#  venuedisplay: LATD 2023
+#  place: Tbilisi
+#  date: 11-15 September 2023
 
-- title: An excursion into logic, categories, and resources  
+#- title: An excursion into logic, categories, and resources  
+#  upcoming: 1
+#  note: invited joint tutorial at LATD and the
+#  venueurlavailable: 1
+#  venueurl: https://www.logic.at/tbilisi23/
+#  venuedisplay: Seventeenth International Tbilisi Summer School in Logic and Language
+#  place: Tbilisi
+#  date: 7-15 September 2023
+
+- title: TBA
   upcoming: 1
-  note: invited joint tutorial at LATD and the
   venueurlavailable: 1
-  venueurl: https://www.logic.at/tbilisi23/
-  venuedisplay: Seventeenth International Tbilisi Summer School in Logic and Language
-  place: Tbilisi
-  date: 7-15 September 2023
+  venueurl: https://lucareggio.github.io/WSV2023/
+  venuedisplay: Workshop on Springer Volume "Samson Abramsky on Logic and Structure in Computer Science and Beyond"
+  place: London
+  date: 18-20 September 2023
 
 - title: Polyadic spaces, homomorphism counting and omega-categorical theories
-  upcoming: 1
+  upcoming: 0
   note: invited talk at the
   venueurlavailable: 1
   venueurl: https://umi.dm.unibo.it/congresso2023/
