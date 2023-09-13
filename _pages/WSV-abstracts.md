@@ -13,7 +13,7 @@ permalink: /WSV2023-abstracts/
 <h4 id="Abramsky"><b>Samson Abramsky</b> <br> TBA</h4>
 
 <br>
-<h4 id="Barbosa"><b>Rui Soares Barbosa</b> <br> TBA</h4>
+<h4 id="Barbosa"><b>Rui Soares Barbosa</b> <br> Logic and structure at the borders of paradox</h4>
 
 <br>
 <h4 id="Clairambault"><b>Pierre Clairambault</b> <br> The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</h4>

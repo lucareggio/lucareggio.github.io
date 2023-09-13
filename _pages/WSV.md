@@ -134,7 +134,7 @@ return false;
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
     <td class="tg-efqa">Pierre Clairambault<br><a href="/WSV2023-abstracts#Clairambault"><b>The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</b></a></td>
-    <td class="tg-efqa">Rui Soares Barbosa<br><a href="/WSV2023-abstracts#Barbosa"><b>TBA</b></a></td>
+    <td class="tg-efqa">Rui Soares Barbosa<br><a href="/WSV2023-abstracts#Barbosa"><b>Logic and structure at the borders of paradox</b></a></td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:30-17:00</td>
