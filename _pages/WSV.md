@@ -65,9 +65,9 @@ return false;
 <tbody>
   <tr>
     <td class="tg-f78n">09:00-09:30</td>
-    <td class="tg-f78n">coffee + <br> intro by Mehrnoosh Sadrzadeh (09:20)</td>
-    <td class="tg-f78n">coffee</td>
-    <td class="tg-f78n">coffee</td>
+    <td class="tg-f78n">tea & coffee + <br> intro by Mehrnoosh Sadrzadeh (09:20)</td>
+    <td class="tg-f78n">tea & coffee</td>
+    <td class="tg-f78n">tea & coffee</td>
   </tr>	
   <tr>
     <td class="tg-efqa">9:30-10:00</td>
@@ -89,9 +89,9 @@ return false;
     </tr>
   <tr>
     <td class="tg-f78n">11:00-11:30</td>
-    <td class="tg-f78n">coffee break</td>
-    <td class="tg-f78n">coffee break</td>
-    <td class="tg-f78n">coffee break</td>
+    <td class="tg-f78n">tea & coffee</td>
+    <td class="tg-f78n">tea & coffee</td>
+    <td class="tg-f78n">tea & coffee</td>
   </tr>
   <tr>
     <td class="tg-efqa">11:30-12:00</td>
@@ -128,8 +128,8 @@ return false;
   </tr>  
   <tr>
     <td class="tg-f78n">15:30-16:00</td>
-    <td class="tg-f78n">coffee break</td>
-    <td class="tg-f78n">coffee break</td>
+    <td class="tg-f78n">tea & coffee</td>
+    <td class="tg-f78n">tea & coffee</td>
   </tr>
   <tr>
     <td class="tg-c0l1">16:00-16:30</td>
