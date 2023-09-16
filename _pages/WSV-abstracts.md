@@ -86,7 +86,11 @@ show how it yields novel complexity lower bounds.
 </p>
 
 <br>
-<h4 id="Greco"><b>Giuseppe Greco</b> <br> TBA</h4>
+<h4 id="Greco"><b>Giuseppe Greco</b> <br> Lambek-Grishin Calculus: Focusing, Display and Full Polarization
+</h4>
+<p>
+*Focused sequent calculi* are a refinement of sequent calculi, where additional side conditions on the applicability of inference rules force the implementation of a proof search strategy. Focused cut-free proofs exhibit a special normal form that is used for defining identity of sequent calculi proofs. We introduce a novel focused display calculus **fD.LG** and a fully polarized algebraic semantics $\mathbb{FP.LG}$ for Lambek-Grishin logic by generalizing the theory of *multi-type calculi* and their algebraic semantics with *heterogenous consequence relations*. The calculus **fD.LG** has *strong focalization* and it is *sound and complete* w.r.t. $\mathbb{FP.LG}$. This completeness result is in a sense stronger than completeness with respect to standard polarized algebraic semantics, insofar as we do not need to quotient over proofs with consecutive applications of shifts over the same formula. We also show a number of additional results. **fD.LG** is sound and complete w.r.t. LG-algebras: this amounts to a semantic proof of the so-called *completeness of focusing*, given that the standard (display) sequent calculus for Lambek-Grishin logic is complete w.r.t. LG-algebras. **fD.LG** and the focused calculus **fLG** of Moortgat and Moot are equivalent with respect to proofs, indeed there is an effective translation from **fLG**-derivations to **fD.LG**-derivations and vice versa: this provides the link with operational semantics, given that every **fLG**-derivation is in a Curry-Howard correspondence with a directional $\overline\lambda\mu\widetilde{\mu}$-term.	
+</p>	
 
 <br>
 <h4 id="Heunen"><b>Chris Heunen</b> <br> Compact Inverse Categories</h4>
