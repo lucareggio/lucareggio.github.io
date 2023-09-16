@@ -210,7 +210,7 @@ In the seminal paper, The Pebbling Comonad in Finite Model Theory, Abramsky, Daw
 </p>
 
 <br>
-<h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transdcuers</h4>
+<h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transducers</h4>
 <p>
 The topic of this talk are functors (in Set) that are both monads and comonads, and how they connect with the theory of transducers (which are output producing automata). For each such functor M, we show how to define a class of recognizable functions of type MΣ → MΓ. Then, we present a couple of examples of Ms whose recognizable functions correspond to some well-know classes of transducers, such as Mealy machines and rational functions. We also present M's for more complex structures such as terms or infinite words.Then, we discuss what properties of M are required to ensure that its class of recognizable functions is closed under compositions. Finally, we talk about the problems one encounters while trying to extending the results to a general category.	
 </p>
