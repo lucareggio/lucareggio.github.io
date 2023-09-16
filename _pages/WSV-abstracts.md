@@ -185,7 +185,7 @@ As became clearer in the following year, establishing the cohomology — context
 <h4 id="Reggio"><b>Luca Reggio</b> <br> Paths without homotopy, and homotopy without paths</h4>
 
 <p>
-Building on the game comonads research programme, started by Samson Abramsky and Anuj Dawar, I will outline some preliminary ideas on how to use abstract homotopy theory to combine two distinct approaches to the study of ``Logic and Structure'': the geometric/topological one (exemplified by duality theory) and the categorical one (in the form of game comonads).	
+Building on the game comonads research programme, started by Samson Abramsky and Anuj Dawar, I will outline some preliminary ideas on how to use abstract homotopy theory to combine two distinct approaches to the study of "Logic and Structure": the geometric/topological one (exemplified by duality theory) and the categorical one (in the form of game comonads).	
 </p>	
 	
 <br>
