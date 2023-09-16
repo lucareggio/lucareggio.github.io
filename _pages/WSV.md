@@ -104,7 +104,7 @@ return false;
     <td class="tg-efqa">12:00-12:30</td>
     <td class="tg-efqa">Shane Mansfield<br><a href="/WSV2023-abstracts#Mansfield"><b>Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</b></a></td>
     <td class="tg-efqa">Glynn Winskel<br><a href="/WSV2023-abstracts#Winskel"><b>GoI to SmP</b></a></td>
-	<td class="tg-efqa">Luca Reggio<br><a href="/WSV2023-abstracts#Reggio"><b>TBA</b></a></td>
+	<td class="tg-efqa">Luca Reggio<br><a href="/WSV2023-abstracts#Reggio"><b>Paths without homotopy, and homotopy without paths</b></a></td>
   </tr>
   <tr>
     <td class="tg-f78n">12:30-14:00</td>
