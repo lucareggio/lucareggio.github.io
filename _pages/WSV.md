@@ -70,7 +70,7 @@ return false;
     <td class="tg-f78n">tea & coffee</td>
   </tr>	
   <tr>
-    <td class="tg-efqa">9:30-10:00</td>
+    <td class="tg-efqa">09:30-10:00</td>
     <td class="tg-efqa">Phokion Kolaitis<br><a href="/WSV2023-abstracts#Kolaitis"><b>Consistency, Acyclicity, and Positive Semirings</b></a></td>
     <td class="tg-efqa">Anuj Dawar<br><a href="/WSV2023-abstracts#Dawar"><b>Variables, Pebbles, Width and Support</b></a></td>
     <td class="tg-efqa">Chris Heunen<br><a href="/WSV2023-abstracts#Heunen"><b>Compact Inverse Categories</b></a></td>
