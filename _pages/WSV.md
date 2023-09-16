@@ -151,7 +151,7 @@ return false;
 
 You can take a <a href="https://viewer.mapme.com/02b0fbce-a91c-4a19-a4f7-41986b7a4438">virtual tour of the campus</a>, or glimpse the Lecture Theatre from <a href="https://www.youtube.com/watch?v=j4GYRtyhwvY">the work of Christopher Nolan</a>.
 
-<br><br>
+<br>
 <b>Workshop dinner</b> <br /> The dinner will take place on Tuesday evening at 7pm at <a href="https://www.google.com/maps/place/TAS+Restaurant+Bloomsbury/@51.5179719,-0.1275085,17z/data=!3m2!4b1!5s0x48761b353dfb27c7:0xc014439c9eca836b!4m10!3m9!1s0x48761b3268412ae9:0x484ac38b8df21412!5m3!1s2023-09-17!4m1!1i2!8m2!3d51.5179719!4d-0.1275085!16s%2Fg%2F1t_kf_sw?entry=ttu">TAS Restaurant Bloomsbury</a>.
 
 
