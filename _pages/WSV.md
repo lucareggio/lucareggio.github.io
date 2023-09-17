@@ -155,7 +155,7 @@ You can take a <a href="https://viewer.mapme.com/02b0fbce-a91c-4a19-a4f7-41986b7
 <b>Social activities</b> <br/> On Monday at 6pm we will meet for an informal pub dinner at <a href="https://www.google.com/maps/place/The+Jack+Horner,+Holborn/@51.5187432,-0.1347583,17z/data=!3m1!4b1!4m6!3m5!1s0x48761b2db5312e89:0x1dfa217e7f8149e8!8m2!3d51.5187432!4d-0.1321834!16s%2Fm%2F051tmxg?entry=ttu">The Jack Horner</a>, on Tottenham Court Road.
 
 <p>
-The workshop dinner will take place on Tuesday evening at 7pm at <a href="https://www.google.com/maps/place/TAS+Restaurant+Bloomsbury/@51.5179719,-0.1275085,17z/data=!3m2!4b1!5s0x48761b353dfb27c7:0xc014439c9eca836b!4m10!3m9!1s0x48761b3268412ae9:0x484ac38b8df21412!5m3!1s2023-09-17!4m1!1i2!8m2!3d51.5179719!4d-0.1275085!16s%2Fg%2F1t_kf_sw?entry=ttu">TAS Restaurant Bloomsbury</a>.
+The workshop dinner will take place on Tuesday evening at 7pm at <a href="https://www.google.com/maps/place/TAS+Restaurant+Bloomsbury/@51.5179719,-0.1300834,17z/data=!3m2!4b1!5s0x48761b353dfb27c7:0xc014439c9eca836b!4m10!3m9!1s0x48761b3268412ae9:0x484ac38b8df21412!5m3!1s2023-09-17!4m1!1i2!8m2!3d51.5179719!4d-0.1275085!16s%2Fg%2F1t_kf_sw?entry=ttu">TAS Restaurant Bloomsbury</a>.
 </p>
 
 
