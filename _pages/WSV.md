@@ -140,7 +140,7 @@ return false;
   <tr>
     <td class="tg-c0l1">16:30-17:00</td>
     <td class="tg-efqa">Peter Hines<br><a href="/WSV2023-abstracts#Hines"><b>“It's all Greek to me” - on the pre-history of categorical logic</b></a></td>
-    <td class="tg-efqa">Samson Abramsky<br><a href="/WSV2023-abstracts#Abramsky"><b>TBA</b></a></td>
+    <td class="tg-efqa">Samson Abramsky<br><a href="/WSV2023-abstracts#Abramsky"><b>Contextuality in logical form</b></a></td>
   </tr>  
 </tbody>
 </table>
