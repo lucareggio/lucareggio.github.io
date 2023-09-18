@@ -98,9 +98,9 @@ show how it yields novel complexity lower bounds.
 </p>	
 
 <br>
-<h4 id="Heunen"><b>Chris Heunen</b> <br> Compact Inverse Categories</h4>
+<h4 id="Heunen"><b>Chris Heunen</b> <br> The Quantum Effect - A Recipe for Quantum Pi</h4>
 <p>
-<a href="/downloads/WSV2023/Heunen-Compact_Inverse_Categories.pdf">Download PDF</a>
+Free categorical constructions characterise quantum computing as the combination of two copies of a reversible classical model, glued by the complementarity equations of classical structures. This recipe effectively constructs a computationally universal quantum programming language from two copies of Pi, the internal language of rig groupoids. The construction consists of Hughes' arrows. Thus answer positively the question whether a computational effect exists that turns reversible classical computation into quantum computation: the quantum effect. Measurements can be added by layering a further effect on top. Our construction also enables some reasoning about quantum programs (with or without measurement) through a combination of classical reasoning and reasoning about complementarity. Based on joint work with Carette, Kaarsgaard, and Sabry [arXiv:2302.01885].
 </p>
 
 <br>
