@@ -15,8 +15,16 @@
 #  place: Tbilisi
 #  date: 7-15 September 2023
 
-- title: Paths without homotopy, and homotopy without paths
+- title: TBA
   upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://www.irif.fr/en/seminaires/pps/index
+  venuedisplay: PPS seminar
+  place: Paris
+  date: 23 November 2023 
+
+- title: Paths without homotopy, and homotopy without paths
+  upcoming: 0
   venueurlavailable: 1
   venueurl: https://lucareggio.github.io/WSV2023/
   venuedisplay: Workshop on Springer Volume "Samson Abramsky on Logic and Structure in Computer Science and Beyond"
