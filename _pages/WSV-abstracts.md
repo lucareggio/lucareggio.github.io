@@ -10,7 +10,7 @@ permalink: /WSV2023-abstracts/
 
 <br>
 
-<h4 id="Abramsky"><b>Samson Abramsky</b> <br> Contextuality in logical form</h4>
+<h4 id="Abramsky"><b>Samson Abramsky</b> <br> Contextuality in logical form <a href="/downloads/WSV2023/slides/Abramsky_samson_volume_workshop.pdf">(slides)</a></h4>
 <p>
 The workshop and the associated volume feature a wide range of topics. Nevertheless, I am deeply convinced that these works have an underlying unity. This is manifested by the surprising interconnections between these apparently very different topics which have arisen in recent work. I shall mention several of these, and describe one in more detail: a duality for partial Boolean algebras (joint work with Rui Soares Barbosa).	
 </p>	
