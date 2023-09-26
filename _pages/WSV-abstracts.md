@@ -16,10 +16,10 @@ The workshop and the associated volume feature a wide range of topics. Neverthel
 </p>	
 
 <br>
-<h4 id="Barbosa"><b>Rui Soares Barbosa</b> <br> Logic and structure at the borders of paradox</h4>
+<h4 id="Barbosa"><b>Rui Soares Barbosa</b> <br> Logic and structure at the borders of paradox <a href="/downloads/WSV2023/slides/Barbosa_SamsonLSCSB.pdf">(slides)</a></h4>
 
 <br>
-<h4 id="Clairambault"><b>Pierre Clairambault</b> <br> The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding</h4>
+<h4 id="Clairambault"><b>Pierre Clairambault</b> <br> The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding <a href="/downloads/WSV2023/slides/Clairambault_slides.pdf">(slides)</a></h4>
 
 <p>
 Concurrent Games is a framework developed in the past decade
@@ -71,13 +71,13 @@ This is joint work with Simon Castellan.
 </p>
 
 <br>
-<h4 id="Constantin"><b>Carmen Constantin</b> <br> Towards a Classification of Contextuality</h4>
+<h4 id="Constantin"><b>Carmen Constantin</b> <br> Towards a Classification of Contextuality <a href="/downloads/WSV2023/slides/Constantin_Carmen.pdf">(slides)</a></h4>
 <p>
 This talk will discuss some of the early steps taken towards classifying quantum states according to the hierarchy of contextuality introduced by Abramsky and Brandenburger. We will briefly mention some of the results which led to the conjecture that almost all entangled states admit Hardy-type proofs of non-locality without inequalities and probabilities and also give a constructive proof of this conjecture. In particular, we will showcase an algorithm for producing local, n+2 one-qubit observables, which witness the logical contextuality of almost all n-qubit entangled states, with the exception of tensor products of single-qubit states and Bell states. 
 </p>
 
 <br>
-<h4 id="Dawar"><b>Anuj Dawar</b> <br> Variables, Pebbles, Width and Support</h4>
+<h4 id="Dawar"><b>Anuj Dawar</b> <br> Variables, Pebbles, Width and Support <a href="/downloads/WSV2023/slides/Dawar_slides.pdf">(slides)</a></h4>
 <p>
 In finite model theory, the number of distinct variables that appear in
 a formula emerged as an important measure of the complexity of a
@@ -90,7 +90,7 @@ show how it yields novel complexity lower bounds.
 </p>
 
 <br>
-<h4 id="Greco"><b>Giuseppe Greco</b> <br> Lambek-Grishin Calculus: Focusing, Display and Full Polarization
+<h4 id="Greco"><b>Giuseppe Greco</b> <br> Lambek-Grishin Calculus: Focusing, Display and Full Polarization <a href="/downloads/WSV2023/slides/Greco_Beamer-Focusing_Display_and_Full_Polarization.pdf">(slides)</a>
 </h4>
 
 <p>
@@ -98,31 +98,31 @@ show how it yields novel complexity lower bounds.
 </p>	
 
 <br>
-<h4 id="Heunen"><b>Chris Heunen</b> <br> The Quantum Effect - A Recipe for Quantum Pi</h4>
+<h4 id="Heunen"><b>Chris Heunen</b> <br> The Quantum Effect - A Recipe for Quantum Pi <a href="/downloads/WSV2023/slides/Heunen_quantumeffect.pdf">(slides)</a></h4>
 <p>
 Free categorical constructions characterise quantum computing as the combination of two copies of a reversible classical model, glued by the complementarity equations of classical structures. This recipe effectively constructs a computationally universal quantum programming language from two copies of Pi, the internal language of rig groupoids. The construction consists of Hughes' arrows. Thus answer positively the question whether a computational effect exists that turns reversible classical computation into quantum computation: the quantum effect. Measurements can be added by layering a further effect on top. Our construction also enables some reasoning about quantum programs (with or without measurement) through a combination of classical reasoning and reasoning about complementarity. Based on joint work with Carette, Kaarsgaard, and Sabry [<a href="https://arxiv.org/abs/2302.01885"><b>arXiv:2302.01885</b></a>].
 </p>
 
 <br>
-<h4 id="Hines"><b>Peter Hines</b> <br> “It's all Greek to me” - on the pre-history of categorical logic</h4>
+<h4 id="Hines"><b>Peter Hines</b> <br> “It's all Greek to me” - on the pre-history of categorical logic <a href="/downloads/WSV2023/slides/Hines_AllGreekToMe.pdf">(slides)</a></h4>
 <p>
-<a href="/downloads/WSV2023/Hines-It's_all_Greek_to_me.pdf">Download PDF</a>
+<a href="/downloads/WSV2023/Hines-It's_all_Greek_to_me.pdf">Download abstract</a>
 </p>
 
 <br>
-<h4 id="Jakl"><b>Tomáš Jakl</b> <br> Towards comonadic locality theorems</h4>
+<h4 id="Jakl"><b>Tomáš Jakl</b> <br> Towards comonadic locality theorems <a href="/downloads/WSV2023/slides/Jakl_slides.pdf">(slides)</a></h4>
 <p>
 In this talk I overview my progress towards obtaining a fully axiomatic account of Gaifman and Hanf locality theorems, which are an important tool in finite model theory. As a by-product I obtain an abstract version of the Workspace Lemma of Samson Abramsky and Dan Marsden. My axiomatic setting is based on the framework of game comonads and arboreal categories studied in the Resources and co-Resources project where Samson Abramsky was in the leading role together with Anuj Dawar.	
 </p>	
 
 <br>
-<h4 id="Karamlou"><b>Amin Karamlou</b> <br> CSP relaxations and the hierarchy of contextuality</h4>
+<h4 id="Karamlou"><b>Amin Karamlou</b> <br> CSP relaxations and the hierarchy of contextuality <a href="/downloads/WSV2023/slides/Karamlou_Amin-slides.pdf">(slides)</a></h4>
 <p>
 I will aim to explain connections between Abramsky and Brandenburger's hierarchy of contextuality and constraint satisfaction problems (CSPs). It is already known that any possibilistic empirical model corresponds to a CSP. Moreover, this CSP is solvable iff the model is not strongly contextual. Here we establish similar links between probabilistic and logical notions of contextuality, and relaxations of CSPs. By exploiting existing connections between the hierarchy of contextuality and the graph-theoretic framework for contextuality, we obtain as immediate corollaries links between CSP solving and invariants of exclusivity graphs, which to the best of my knowledge is a novel observation.
 </p>
 
 <br>
-<h4 id="Kolaitis"><b>Phokion Kolaitis</b> <br> Consistency, Acyclicity, and Positive Semirings</h4>
+<h4 id="Kolaitis"><b>Phokion Kolaitis</b> <br> Consistency, Acyclicity, and Positive Semirings <a href="/downloads/WSV2023/slides/Kolaitis_abramsky-workshop-kolaitis.pptx">(slides)</a></h4>
 <p>
 In several different settings, one comes across situations in which the objects of study are locally consistent but globally inconsistent. Earlier work on probability distributions in the 1960s and relational database theory in the 1980s produced characterizations of when local consistency implies global consistency. We will discuss a common generalization of these results by considering K-relations over an arbitrary positive semiring K and establishing that a collection H of sets of attributes has the property that every pairwise consistent collection of K-relations over those sets of attributes is globally consistent if and only if the collection H forms an acyclic hypergraph.
 </p>
@@ -132,19 +132,19 @@ This talk is based on a chapter with the same title by Albert Atserias and Phoki
 </p>
 
 <br>
-<h4 id="Laird"><b>Jim Laird</b> <br> Axioms for sequentiality, state and concurrency</h4>
+<h4 id="Laird"><b>Jim Laird</b> <br> Axioms for sequentiality, state and concurrency <a href="/downloads/WSV2023/slides/Laird_samson23.pdf">(slides)</a></h4>
 <p>
 In our contribution to the "Logic and Structure" volume, Guy McCusker and I give Abramsky-style "axioms for full abstraction" of a games model of general references. The categorical structure on which these are based - final coalgebras for the sequoid, an asymmetric connective capturing causality - suggests a general methodology for constructing higher-order mutable objects by hiding their internal state, and coinductive theories for reasoning about them. Relating this structure to adjunction models of computational effects and linear logic opens the prospect of extending these theories to concurrent objects.	
 </p>
 
 <br>
-<h4 id="Mansfield"><b>Shane Mansfield</b> <br> Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform</h4>
+<h4 id="Mansfield"><b>Shane Mansfield</b> <br> Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform <a href="/downloads/WSV2023/slides/Mansfield_SamskyFest.pptx">(slides)</a></h4>
 <p>
 Among the promising technological approaches to quantum computing, photonics offers the advantages of low decoherence, information processing with modest cryogenic requirements, and native integration with classical and quantum networks. To date, quantum computing demonstrations with light have implemented specific tasks with specialized hardware, notably Gaussian Boson Sampling which permitted quantum computational advantage to be reached. At Quandela we have recently reported a first user-ready general-purpose quantum computing prototype based on single photons, which is available on the cloud. The device comprises a high-efficiency quantum-dot single-photon source feeding a universal linear optical network on a reconfigurable chip for which hardware errors are compensated by a machine-learned transpilation process. A full software stack allows remote control of the device to perform computations via logic gates or direct photonic operations. I will describe the platform and some applications that can be run on it. This includes a contextuality experiment which can be used as the basis for a protocol for the certified generation of private randomness.
 </p>
 
 <br>
-<h4 id="Marsden"><b>Dan Marsden</b> <br> Ripples from Pebbles</h4>
+<h4 id="Marsden"><b>Dan Marsden</b> <br> Ripples from Pebbles <a href="/downloads/WSV2023/slides/Marsden_Dan_Slides.pdf">(slides)</a></h4>
 <p>
 This talk will survey aspects of the game comonads programme of research, beginning with pebble games,
 and Abramsky, Dawar and Wang's introduction of game comonads. The talk will then sketch subsequent
@@ -154,7 +154,7 @@ and game comonads project at this year's Adjoint School.
 </p>	
 
 <br>
-<h4 id="Moshier"><b>Andrew Moshier</b> <br> Relations in Order-enriched Categories</h4>
+<h4 id="Moshier"><b>Andrew Moshier</b> <br> Relations in Order-enriched Categories <a href="/downloads/WSV2023/slides/Moshier.pdf">(slides)</a></h4>
 <p>
 When one considers structure in computer science (and beyond), partial orders and relations between partially-ordered structures figure prominently. Domain theory is probably the most obvious example, but programming logics, agent-based reasoning, models of distributed computing, and so on, all involve variously motivated partial orders along with relations between them.
 </p>
@@ -164,7 +164,7 @@ Regular categories are suitable for dealing with structures that arise from ordi
 </p>
 
 <br>
-<h4 id="Murawski"><b>Andrzej Murawski</b> <br> Deconstructing general references via game semantics</h4>
+<h4 id="Murawski"><b>Andrzej Murawski</b> <br> Deconstructing general references via game semantics <a href="/downloads/WSV2023/slides/Murawski_factor-ucl.pdf">(slides)</a></h4>
 <p>
 We investigate the game semantics of general references through the fully abstract game model of Abramsky, Honda and McCusker (AHM), which demonstrated that the visibility condition in games corresponds to the extra expressivity afforded by higher-order references with respect to integer references. First, we prove a stronger version of the visible factorisation result from AHM, by decomposing any strategy into a visible one and a single strategy corresponding to a reference cell of type unit → unit (AHM accounted only for finite strategies and its result involved unboundedly many cells).
 </p>
@@ -175,7 +175,7 @@ Finally, we provide a type-theoretic characterisation of terms in which the use 
 </p>	
 
 <br>
-<h4 id="Raussendorf"><b>Robert Raussendorf</b> <br> Interwoven paths: my journey through contextuality, cohomology and paradox</h4>
+<h4 id="Raussendorf"><b>Robert Raussendorf</b> <br> Interwoven paths: my journey through contextuality, cohomology and paradox <a href="/downloads/WSV2023/slides/Raussendorf_TravelLog23.pdf">(slides)</a></h4>
 <p>
 I first met Samson at one of the Obergurgl meetings, in 2008. But I got really drawn into his research when he was not present: at QPL 2011 in Nijmegen. Two of his then-students, Rui Soares Barbosa and Shane Mansfield, presented on a cohomological formulation of contextuality that they and Samson had come up with. Their work resonated with me, because of the connection between contextuality and measurement-based quantum computation (MBQC) that was already known at the time. It seemed to me that a cohomological description of contextual measurement-based quantum computations was in reach! Excited by that prospect, I spent a good fraction of the workshop chasing Rui and Shane.
 </p>
@@ -185,14 +185,14 @@ As became clearer in the following year, establishing the cohomology — context
 </p>
 
 <br>
-<h4 id="Reggio"><b>Luca Reggio</b> <br> Paths without homotopy, and homotopy without paths</h4>
+<h4 id="Reggio"><b>Luca Reggio</b> <br> Paths without homotopy, and homotopy without paths <a href="/downloads/WSV2023/slides/Reggio_London_WSV2023.pdf">(slides)</a></h4>
 
 <p>
 Building on the game comonads research programme, started by Samson Abramsky and Anuj Dawar, I will outline some preliminary ideas on how to use abstract homotopy theory to combine two distinct approaches to the study of "Logic and Structure": the geometric/topological one (exemplified by duality theory) and the categorical one (in the form of game comonads).	
 </p>	
 	
 <br>
-<h4 id="Searle"><b>Amy Searle</b> <br> Quantifying Non-Classicality in Temporal Measurement Scenarios</h4>
+<h4 id="Searle"><b>Amy Searle</b> <br> Quantifying Non-Classicality in Temporal Measurement Scenarios <a href="/downloads/WSV2023/slides/Searle_Untitled_presentation.pdf">(slides)</a></h4>
 <p>
 We study the setup in which measurements are performed in a particular temporal order on a system, which may be a system governed by the laws of classical physics, quantum physics, or most generally any general probabilistic theory. We utilise a sheaf theoretic approach akin to that of Abramsky and Brandenburger's approach to contextuality [1], the difference being that here our notion of classicality must reflect that measurements could be sensitive to previous measurements. Of central significance in this framework is the ability to map temporal measurement setups as well as the empirical models for such setups (tables of data arising from measurement) to certain carefully constructed contextuality measurement scenarios and empirical models. Doing so allows us to utilise a Theorem from [2] for contextuality setups, adapted from Vorob'ev's Theorem in the context of game theory, in order to understand which temporal measurement scenarios are capable of exhibiting non-classicality.
 </p>
@@ -207,37 +207,37 @@ Journal of Physics, vol. 13, p. 113036, Nov. 2011.
 </p>	
 
 <br>
-<h4 id="Shah"><b>Nihil Shah</b> <br> Mixed Distributive Laws: Game Comonads over Distribution/Quantum Monads</h4>
+<h4 id="Shah"><b>Nihil Shah</b> <br> Mixed Distributive Laws: Game Comonads over Distribution/Quantum Monads <a href="/downloads/WSV2023/slides/Shah_Mixed_Distributive_Laws__Game_Comonads_over_the_Quantum_Monad.pdf">(slides)</a></h4>
 <p>
 In the seminal paper, The Pebbling Comonad in Finite Model Theory, Abramsky, Dawar and Wang encoded the pebble model comparison game as an indexed family of comonads over the category of relational structures. This game, and thus the comonad, is an important tool in finite model theory as it characterizes when two structures are equivalent in finite variable logic and has important connections to local consistency and graph isomorphism testing. Parallel to this development, in the paper The Quantum Monad on Relational Structures, Abramsky, Barbosa, de Silva, and Zapata constructed a graded monad over the category of relational structures which captured a notion of quantum homomorphism originally phrased in terms non-local games from quantum information theory. Finding a graded distributive law between the pebbling comonad and the quantum monad would give rise to biKleisli category allowing these two constructions to interact compositionally. In this talk, I will go over how in the process of searching for such a law, we obtained interesting, but unrelated, no-go theorems demonstrating that directed containers do not distribute over a large class of discrete probability distribution monads.  We also discovered a general tool for transferring distributive laws of (co)monads on some category to related (co)monads on a (co)reflective subcategory. Finally, I will conclude with recent work demonstrating that there are distributive laws of game comonads over the quantum monad.	
 </p>
 
 <br>
-<h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transducers</h4>
+<h4 id="Stefański"><b>Rafał Stefański</b> <br> Monads, Comonads, and Transducers <a href="/downloads/WSV2023/slides/Stefanski_RafałMonadsComonadsTransducers.pdf">(slides)</a></h4>
 <p>
 The topic of this talk are functors (in Set) that are both monads and comonads, and how they connect with the theory of transducers (which are output producing automata). For each such functor M, we show how to define a class of recognizable functions of type MΣ → MΓ. Then, we present a couple of examples of Ms whose recognizable functions correspond to some well-know classes of transducers, such as Mealy machines and rational functions. We also present M's for more complex structures such as terms or infinite words.Then, we discuss what properties of M are required to ensure that its class of recognizable functions is closed under compositions. Finally, we talk about the problems one encounters while trying to extending the results to a general category.	
 </p>
 
 <br>
-<h4 id="Väänänen"><b>Jouko Väänänen</b> <br> Dependence logic and dimension</h4>
+<h4 id="Väänänen"><b>Jouko Väänänen</b> <br> Dependence logic and dimension <a href="/downloads/WSV2023/slides/VaananenTalk2023.pdf">(slides)</a></h4>
 <p>
 Starting with my work with Samson on dependence logic (“From IF to BI”, Synthese 2009), I present some ideas of my recent joint work with L. Hella and K Luosto on a notion of dimension for families of sets, which leads to new hierarchy results inside dependence logic and its friends.
 </p>
 
 <br>
-<h4 id="Wang"><b>Daphne Wang</b> <br> Causality and Signalling of Garden-Path Sentences</h4>
+<h4 id="Wang"><b>Daphne Wang</b> <br> Causality and Signalling of Garden-Path Sentences <a href="/downloads/WSV2023/slides/Wang_SamsonWorkshop.pdf">(slides)</a></h4>
 <p>
 Sheaves are mathematical objects that describe the globally compatible data associated with open sets of a topological space. Original examples of sheaves were continuous functions; later they also became powerful tools in algebraic geometry, as well as logic and set theory. More recently, sheaves have been applied to the theory of contextuality in quantum mechanics. Whenever the local data is not necessarily compatible, sheaves are replaced by the simpler setting of presheaves.  In previous work, we used presheaves to model lexically ambiguous phrases in natural language and identified the order of their disambiguation. In the work presented here, we model syntactic ambiguities and study a phenomenon in human parsing called garden-pathing. It has been shown that the information-theoretic quantity known as “surprisal” correlates with human reading times in natural language but fails to do so in garden-path sentences. We compute the degree of signalling in our presheaves using probabilities from the large language model BERT and evaluate predictions on two psycholinguistic datasets.  Our degree of signalling outperforms surprisal in two ways: (1) it distinguishes between hard and easy garden-path sentences (with a p < 10^{-5}) whereas existing work could not, (2) its garden-path effect is larger in one of the datasets (32 ms vs 8.75 ms per word), leading to better prediction accuracies.
 </p>
 
 <br>
-<h4 id="Winskel"><b>Glynn Winskel</b> <br> GoI to SmP</h4>
+<h4 id="Winskel"><b>Glynn Winskel</b> <br> GoI to SmP <a href="/downloads/WSV2023/slides/Winskel_GlynnatSamson2023wdiagrams.pdf">(slides)</a></h4>
 <p>
 In the early nineties Samson Abramsky and Radha Jagadeesan provided new foundations for GoI (Jean-Yves Girard’s Geometry of Interaction). Their idea returns in understanding two-sided games and strategies over relational structures within the general programme of  Structure meets Power, which began in the relatively recent work of Samson Abramsky, Anuj Dawar and Pengming Wang.
 </p>
 
 <br>
-<h4 id="Zamdzhiev"><b>Vladimir Zamdzhiev</b> <br> Central Submonads and Notions of Computation</h4>
+<h4 id="Zamdzhiev"><b>Vladimir Zamdzhiev</b> <br> Central Submonads and Notions of Computation <a href="/downloads/WSV2023/slides/Zamdzhiev_vladimir.pdf">(slides)</a></h4>
 <p>
 In a recent paper, Samson posed interesting questions regarding the vision of mathematical semantics: "That is, should mathematical semantics still be conceived as following in the track of preexisting languages, trying to explain their novel features, and to provide firm foundations for them? Or should it be seen as operating in a more autonomous fashion, developing new semantic paradigms, which may then give rise to new languages?"
 </p>
