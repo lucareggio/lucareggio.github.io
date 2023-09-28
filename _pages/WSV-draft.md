@@ -20,6 +20,8 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 <!--It will take place from September 18th to September 20th 2023 at [University College London](https://www.ucl.ac.uk/).
 -->
 
+<br>
+
 <html> 
 <head> 
 <script> 
