@@ -12,6 +12,10 @@ permalink: /WSV2023draft/
 
 <br>
 
+<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
+
+<br>
+
 This is a workshop to celebrate the publication of the volume [Samson Abramsky on Logic and Structure in Computer Science and Beyond](https://link.springer.com/book/10.1007/978-3-031-24117-8), published in the Springer series _"Outstanding Contributions to Logic"_:
 <!--It will take place from September 18th to September 20th 2023 at [University College London](https://www.ucl.ac.uk/).
 -->
