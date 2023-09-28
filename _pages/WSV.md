@@ -3,7 +3,7 @@ title: "Workshop on Springer Volume 2023"
 layout: page
 excerpt: "Workshop on Springer Volume 2023"
 sitemap: false
-permalink: /WSV2023/
+permalink: /WSV2023draft/
 ---
 
 <h1 style="text-align: center;">Workshop on Springer Volume <br> _"Samson Abramsky on Logic and Structure <br> in Computer Science and Beyond"_</h1>
@@ -12,9 +12,15 @@ permalink: /WSV2023/
 
 <br>
 
+<img id="group-photo" class ="sharp" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
+
+<br>
+
 This is a workshop to celebrate the publication of the volume [Samson Abramsky on Logic and Structure in Computer Science and Beyond](https://link.springer.com/book/10.1007/978-3-031-24117-8), published in the Springer series _"Outstanding Contributions to Logic"_:
 <!--It will take place from September 18th to September 20th 2023 at [University College London](https://www.ucl.ac.uk/).
 -->
+
+<br>
 
 <html> 
 <head> 
@@ -22,7 +28,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 
 function changeImage()
 {
-var img = document.getElementById("image");
+var img = document.getElementById("cover");
 img.src="{{ site.url }}{{ site.baseurl }}/images/slider/TheChrononauts.png";
 return false;
 }
@@ -31,7 +37,7 @@ return false;
 
 </head>
 <body>
-<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
+<img id="cover" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
 <br><br>
 <div>
 <button onclick="changeImage();" type="button" style=";margin:auto;display:block">Click here for an alternative cover!</button>
@@ -177,8 +183,8 @@ The workshop dinner will take place on Tuesday evening at 7pm at <a href="https:
 - [Anuj Dawar](https://www.cl.cam.ac.uk/~ad260/) (University of Cambridge)
 - [Maximilian Doré](https://www.cs.ox.ac.uk/people/maximilian.dore/) (University of Oxford)
 - [Mai Gehrke](https://math.univ-cotedazur.fr/~mgehrke/) (Université Côte d’Azur)
+- [Dan Ghica](https://www.cs.bham.ac.uk/~drg/) (University of Birmingham)
 - [Giuseppe Greco](https://research.vu.nl/en/persons/giuseppe-greco) (Vrije Universiteit Amsterdam)
-- [Jules Hedges](https://julesh.com/) (University of Strathclyde)
 - [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/) (University of Edinburgh)
 - [Peter Hines](https://peterhines.net/) (University of York)
 - [Tomáš Jakl](https://tomas.jakl.one/) (Czech Academy of Sciences and Czech Technical University)
