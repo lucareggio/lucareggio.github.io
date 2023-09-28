@@ -12,7 +12,7 @@ permalink: /WSV2023draft/
 
 <br>
 
-<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
+<imgsharp id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
 
 <br>
 
