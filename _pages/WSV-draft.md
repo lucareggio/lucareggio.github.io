@@ -12,7 +12,7 @@ permalink: /WSV2023draft/
 
 <br>
 
-<img id="image" class ="sharp" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
+<img id="group-photo" class ="sharp" src="{{ site.url }}{{ site.baseurl }}/images/slider/WSV2023_group_picture.jpg">
 
 <br>
 
@@ -26,7 +26,7 @@ This is a workshop to celebrate the publication of the volume [Samson Abramsky o
 
 function changeImage()
 {
-var img = document.getElementById("image");
+var img = document.getElementById("cover");
 img.src="{{ site.url }}{{ site.baseurl }}/images/slider/TheChrononauts.png";
 return false;
 }
@@ -35,7 +35,7 @@ return false;
 
 </head>
 <body>
-<img id="image" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
+<img id="cover" src="{{ site.url }}{{ site.baseurl }}/images/slider/OCL_25.png">
 <br><br>
 <div>
 <button onclick="changeImage();" type="button" style=";margin:auto;display:block">Click here for an alternative cover!</button>
