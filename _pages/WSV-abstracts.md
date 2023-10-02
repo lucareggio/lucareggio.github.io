@@ -138,7 +138,7 @@ In our contribution to the "Logic and Structure" volume, Guy McCusker and I give
 </p>
 
 <br>
-<h4 id="Mansfield"><b>Shane Mansfield</b> <br> Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform <a href="/downloads/WSV2023/slides/Mansfield_SamskyFest.pptx">(slides)</a></h4>
+<h4 id="Mansfield"><b>Shane Mansfield</b> <br> Testing Contextuality on a General-purpose Single-photon-based Quantum Computing Platform <a href="/downloads/WSV2023/slides/Mansfield_SamskyFest.pdf">(slides)</a></h4>
 <p>
 Among the promising technological approaches to quantum computing, photonics offers the advantages of low decoherence, information processing with modest cryogenic requirements, and native integration with classical and quantum networks. To date, quantum computing demonstrations with light have implemented specific tasks with specialized hardware, notably Gaussian Boson Sampling which permitted quantum computational advantage to be reached. At Quandela we have recently reported a first user-ready general-purpose quantum computing prototype based on single photons, which is available on the cloud. The device comprises a high-efficiency quantum-dot single-photon source feeding a universal linear optical network on a reconfigurable chip for which hardware errors are compensated by a machine-learned transpilation process. A full software stack allows remote control of the device to perform computations via logic gates or direct photonic operations. I will describe the platform and some applications that can be run on it. This includes a contextuality experiment which can be used as the basis for a protocol for the certified generation of private randomness.
 </p>
