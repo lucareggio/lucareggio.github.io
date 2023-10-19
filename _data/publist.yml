@@ -1,3 +1,14 @@
+- title: A model category for modal logic
+  authors: Luca Reggio
+  submitted: 0  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2310.12068
+  preprintdisplay: arXiv
+  publishedurl: 0
+  publisheddisplay: 0
+  published: 0
+  thesis: 0
+
 - title: Filtral pretoposes and compact Hausdorff locales
   authors: Célia Borlido, Panagis Karazeris, Luca Reggio and Konstantinos Tsamis
   submitted: 1  
@@ -20,7 +31,7 @@
   published: 0
   thesis: 0
 
-- title: Arboreal categories and homomorphism preservation theorems
+- title: Arboreal categories and equi-resource homomorphism preservation theorems
   authors: Samson Abramsky and Luca Reggio
   submitted: 1  
   preprintavailable: 1
