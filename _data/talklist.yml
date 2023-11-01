@@ -22,6 +22,14 @@
   venuedisplay: PPS seminar
   place: Paris
   date: 23 November 2023 
+  
+- title: Game comonads and Homotopy 
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: http://pplv.cs.ucl.ac.uk/pplv_research_seminar/
+  venuedisplay: PPLV Seminar
+  place: London
+  date: 9 November 2023   
 
 - title: Paths without homotopy, and homotopy without paths
   upcoming: 0
@@ -139,6 +147,14 @@
   venuedisplay: Duality and More workshop
   place: Nice
   date: 16-20 May 2022
+  
+- title: Game comonads - Towards an axiomatic theory of resources 
+  upcoming: 0
+  venueurlavailable: 1
+  venueurl: http://pplv.cs.ucl.ac.uk/pplv_research_seminar/
+  venuedisplay: PPLV Seminar
+  place: London
+  date: 11 February 2022  
   
 #- title: Arboreal categories and homomorphism preservation theorems
 #  upcoming: 1
