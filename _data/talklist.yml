@@ -17,6 +17,14 @@
 
 - title: TBA
   upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://researchseminars.org/seminar/TheoryCSBham
+  venuedisplay: Birmingham Theory Seminar
+  place: Birmingham
+  date: 22 March 2024 
+
+- title: TBA
+  upcoming: 1
   note: invited talk at the
   venueurlavailable: 1
   venueurl: https://www.mat.uc.pt/~sumtopo/
