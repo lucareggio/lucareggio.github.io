@@ -37,9 +37,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2211.15808
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1016/j.apal.2024.103423
+  publisheddisplay: Annals of Pure and Applied Logic
+  published: 1
   thesis: 0
   
 - title: Arboreal categories. An axiomatic theory of resources
