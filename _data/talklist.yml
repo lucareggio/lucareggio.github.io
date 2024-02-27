@@ -15,13 +15,6 @@
 #  place: Tbilisi
 #  date: 7-15 September 2023
 
-- title: TBA
-  upcoming: 1
-  venueurlavailable: 1
-  venueurl: https://researchseminars.org/seminar/TheoryCSBham
-  venuedisplay: Birmingham Theory Seminar
-  place: Birmingham
-  date: 22 March 2024 
 
 - title: TBA
   upcoming: 1
@@ -41,6 +34,14 @@
   place: Barcelona
   date: 1-5 July 2024
 
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://researchseminars.org/seminar/TheoryCSBham
+  venuedisplay: Birmingham Theory Seminar
+  place: Birmingham
+  date: 22 March 2024 
+  
 - title: Games, comonads, and categorical homotopy
   upcoming: 0
   venueurlavailable: 1
