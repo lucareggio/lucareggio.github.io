@@ -44,7 +44,7 @@ Proceedings of the 48th International Colloquium on Automata, Languages, and Pro
 <li> George Metcalfe and Luca Reggio, <em>Model completions for universal classes of algebras: Necessary and sufficient conditions</em>, Journal of Symbolic Logic, Vol. 88, issue 1, pp. 381-417, 2023. </li>
 <li> Marco Abbadini and Luca Reggio, <em>Barr-exact categories and soft sheaf representations</em>, Journal of Pure and Applied Algebra, Vol. 227, issue 12, 107413, 2023. </li>
 <li> Samson Abramsky and Luca Reggio, <em>Arboreal categories: An axiomatic theory of resources</em>, Logical Methods in Computer Science, Vol. 19, Issue 3, pp. 14:1-14:36, 2023. </li>
-<li> Samson Abramsky and Luca Reggio, <em>Arboreal categories and equi-resource homomorphism preservation theorems</em>, to appear in Annals of Pure and Applied Logic. </li>
+<li> Samson Abramsky and Luca Reggio, <em>Arboreal categories and equi-resource homomorphism preservation theorems</em>, Annals of Pure and Applied Logic, Vol. 175, Issue 6, 103423, 2024. </li>
 </ol>
 
 Preprints of all publications mentioned above are available through open access repositories, see the [Publications](https://lucareggio.github.io/publications/) page.
