@@ -1,3 +1,9 @@
+- title: ESSLLI Summer School
+  upcoming: 1
+  url: https://2025.esslli.eu/
+  place: Bochum
+  date: 28 July - 8 August 2025 
+
 - title: Categories for Automata and Language Theory
   upcoming: 1
   url: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25141
@@ -53,7 +59,7 @@
   date: 23-29 June 2024   
   
 - title: WoLLIC 2024
-  upcoming: 1
+  upcoming: 0
   url: https://wollic2024.inf.unibe.ch/
   place: Bern
   date: 10-13 June 2024  
