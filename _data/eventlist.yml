@@ -56,7 +56,13 @@
   upcoming: 1
   url: https://www.usc.gal/regaca/ct2024/index.html
   place: Santiago de Compostela
-  date: 23-29 June 2024   
+  date: 23-29 June 2024 
+  
+- title: ACT&MFPS 2024
+  upcoming: 1
+  url: https://oxford24.github.io/
+  place: Oxford
+  date: 17-21 June 2024       
   
 - title: WoLLIC 2024
   upcoming: 0
