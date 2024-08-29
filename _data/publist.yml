@@ -1,12 +1,12 @@
 - title: An invitation to game comonads
   authors: Samson Abramsky and Luca Reggio
-  submitted: 0  
+  submitted: 1  
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2407.00606
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1145/3687256.3687260
+  publisheddisplay: ACM SIGLOG News, Volume 11, Issue 3, pp. 5-48, 2024
+  published: 1
   thesis: 0
 
 - title: A model category for modal logic
