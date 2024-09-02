@@ -49,7 +49,7 @@ I received my PhD in mathematics from Université de Paris in September 2018, un
 <br>
 
 <p>You can contact me at &nbsp; 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 250px"></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 270px"></p>
 
 
 <br>
