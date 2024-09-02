@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-Since February 2022 I am Senior Research Fellow at [University College London](https://www.ucl.ac.uk/), where I work on Samson Abramsky's EPSRC project _"Resources in Computation_". Before that, I was a Marie Skłodowska-Curie fellow at Oxford University, where I carried out my project [D-FINED]({{ site.url }}{{ site.baseurl }}/MSCA). 
+Since September 2024 I have been a tenure-track researcher (RTT in the Italian system) at the Department of Mathematics _"Federigo Enriques_" of the [Università degli Studi di Milano](https://www.unimi.it/en).
+Previously, between 2020 and 2024, I was a Senior Research Fellow at [University College London](https://www.ucl.ac.uk/), where I worked on Samson Abramsky's EPSRC project _"Resources in Computation_", and a Marie Skłodowska-Curie fellow at Oxford University, where I carried out my project [D-FINED]({{ site.url }}{{ site.baseurl }}/MSCA). 
 I am mainly interested in logic and its categorical, algebraic and topological facets. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -41,9 +42,9 @@ I am mainly interested in logic and its categorical, algebraic and topological f
   </a>-->
 </div>
 
-Before moving to the UK, I was a postdoc researcher at the University of Bern, working on [George Metcalfe](https://www.math.unibe.ch/about_us/personen/prof_dr_metcalfe_george/index_eng.html)'s project _"Hidden Quantifiers"_, and at the Institute of Computer Science of the Czech Academy of Sciences in Prague.
+Before moving to the UK, I was a postdoctoral researcher at the University of Bern, working on [George Metcalfe](https://www.math.unibe.ch/about_us/personen/prof_dr_metcalfe_george/index_eng.html)'s project _"Hidden Quantifiers"_, and at the Institute of Computer Science of the Czech Academy of Sciences in Prague.
 
-I obtained my PhD in Mathematics at Université de Paris in September 2018, under the supervision of [Mai Gehrke](https://math.unice.fr/~mgehrke/). I spent the first two years of my PhD studies at [IRIF (Paris 7)](https://www.irif.fr/en/index), and the third one at the [Laboratoire J.A. Dieudonné](https://math.unice.fr/) in Nice. In that period I held a scholarship from [Sorbonne Paris Cité](http://www.sorbonne-paris-cite.fr/), and worked on Mai Gehrke's ERC Advanced Grant [DuaLL](https://www.irif.fr/~mgehrke/DuaLL.htm). My PhD thesis, entitled _"Quantifiers and duality"_, can be found on the [Publications](publications) page.
+I received my PhD in mathematics from Université de Paris in September 2018, under the supervision of [Mai Gehrke](https://math.unice.fr/~mgehrke/). I spent the first two years of my PhD studies at [IRIF (Paris 7)](https://www.irif.fr/en/index) and the third one at the [Laboratoire J.A. Dieudonné](https://math.unice.fr/) in Nice. During this time, I held a scholarship from [Sorbonne Paris Cité](http://www.sorbonne-paris-cite.fr/) and worked on Mai Gehrke's ERC Advanced Grant [DuaLL](https://www.irif.fr/~mgehrke/DuaLL.htm). My PhD thesis, entitled _"Quantifiers and duality"_, can be found on the [Publications](publications) page.
 
 <br>
 
