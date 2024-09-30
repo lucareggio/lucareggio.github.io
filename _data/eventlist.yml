@@ -10,6 +10,12 @@
   place: Dagstuhl
   date: 31 March - 4 April 2025
   
+- title: 5th ItaCa Workshop
+  upcoming: 1
+  url: https://progetto-itaca.github.io/ItaCa-24/
+  place: Padova
+  date: 19-20 December 2024  
+  
 - title: Categorical Logic and Higher Categories
   upcoming: 1
   url: https://gtendas.github.io/clhc/
@@ -17,19 +23,19 @@
   date: 16-19 December 2024  
 
 - title: Algebra Week
-  upcoming: 1
+  upcoming: 0
   url: https://algebraweeksiena.wordpress.com/
   place: Siena
   date: 10-13 September 2024
   
 - title: Category Theory and Categorical Algebra
-  upcoming: 1
+  upcoming: 0
   url: https://sites.google.com/view/beppemetere/ct-catalg
   place: Milano
   date: 9-10 September 2024  
   
 - title: XXVIII Incontro di Logica AILA
-  upcoming: 1
+  upcoming: 0
   url: https://ailameeting24.uniud.it/
   place: Udine
   date: 3-6 September 2024  
