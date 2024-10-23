@@ -1,3 +1,14 @@
+- title: Filtral pretoposes and compact Hausdorff locales
+  authors: Célia Borlido, Panagis Karazeris, Luca Reggio and Konstantinos Tsamis
+  submitted: 1  
+  preprintavailable: 1
+  preprinturl: https://arxiv.org/abs/2306.11169
+  preprintdisplay: arXiv
+  publishedurl: http://www.tac.mta.ca/tac/volumes/41/41/41-41abs.html
+  publisheddisplay: Theory and Applications of Categories, Vol. 41, No. 41, pp. 1439-1475, 2024
+  published: 1
+  thesis: 0
+
 - title: An invitation to game comonads
   authors: Samson Abramsky and Luca Reggio
   submitted: 1  
@@ -18,17 +29,6 @@
   publishedurl: 0
   publisheddisplay: 0
   published: 0
-  thesis: 0
-
-- title: Filtral pretoposes and compact Hausdorff locales
-  authors: Célia Borlido, Panagis Karazeris, Luca Reggio and Konstantinos Tsamis
-  submitted: 1  
-  preprintavailable: 1
-  preprinturl: https://arxiv.org/abs/2306.11169
-  preprintdisplay: arXiv
-  publishedurl: http://www.tac.mta.ca/tac/volumes/41/41/41-41abs.html
-  publisheddisplay: Theory and Applications of Categories, Vol. 41, No. 41, pp. 1439-1475, 2020
-  published: 1
   thesis: 0
 
 - title: Finitely accessible arboreal adjunctions and Hintikka formulae
