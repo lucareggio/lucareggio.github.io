@@ -7,8 +7,8 @@ permalink: /
 ---
 
 Since September 2024 I have been a tenure-track researcher at the Department of Mathematics _"Federigo Enriques_" of the [Università degli Studi di Milano](https://www.unimi.it/en), and since October 2024 I have been funded by the national [Rita Levi Montalcini](https://bandomontalcini.mur.gov.it/) scheme.
-Previously, between 2020 and 2024, I was a Senior Research Fellow at [University College London](https://www.ucl.ac.uk/), where I worked on Samson Abramsky's EPSRC project _"Resources in Computation_", and a Marie Skłodowska-Curie fellow at Oxford University, where I carried out my project [D-FINED]({{ site.url }}{{ site.baseurl }}/MSCA). 
-I am mainly interested in logic and its categorical, algebraic and topological facets. 
+Previously, between 2020 and 2024, I was a Senior Research Fellow at [University College London](https://www.ucl.ac.uk/), where I worked on Samson Abramsky's EPSRC project _"Resources in Computation_", and a Marie Skłodowska-Curie fellow at Oxford University, where I carried out my project [D-FINED]({{ site.url }}{{ site.baseurl }}/MSCA). I am currently an Honorary Research Fellow at UCL.
+My main interests are in logic and its categorical, algebraic and topological facets. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
