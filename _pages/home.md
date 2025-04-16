@@ -47,6 +47,9 @@ Before moving to the UK, I was a postdoctoral researcher at the University of Be
 I received my PhD in mathematics from Université de Paris in September 2018, under the supervision of [Mai Gehrke](https://math.unice.fr/~mgehrke/). I spent the first two years of my PhD studies at [IRIF (Paris 7)](https://www.irif.fr/en/index) and the third one at the [Laboratoire J.A. Dieudonné](https://math.unice.fr/) in Nice. During this time, I held a scholarship from [Sorbonne Paris Cité](http://www.sorbonne-paris-cite.fr/) and worked on Mai Gehrke's ERC Advanced Grant [DuaLL](https://www.irif.fr/~mgehrke/DuaLL.htm). My PhD thesis, entitled _"Quantifiers and duality"_, can be found on the [Publications](publications) page.
 
 <br>
+<b>Mathematical Logic at UniMi</b>
+For more information about the Mathematical Logic group at the University of Milan, see here. In collaboration with the Categorical Algebra group we run a weekly seminar on Logic, Algebra and Categories ([LAC](https://lac.unimi.it/)).
+<br>
 
 <p>You can contact me at &nbsp; 
   <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 300px"></p>
