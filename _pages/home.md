@@ -53,10 +53,8 @@ For information about the Mathematical Logic group at the University of Milan, s
 <br>
 
 <br>
-
 <p>You can contact me at &nbsp; 
   <img src="{{ site.url }}{{ site.baseurl }}/images/email-address.jpg" style="width: 300px"></p>
-
 
 <br>
 
