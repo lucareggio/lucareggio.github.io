@@ -48,7 +48,7 @@ I received my PhD in mathematics from Université de Paris in September 2018, un
 
 <br>
 <b>Mathematical Logic at UniMi</b>
-For more information about the Mathematical Logic group at the University of Milan, see [here](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica). In collaboration with the Categorical Algebra group we run a weekly seminar on Logic, Algebra and Categories ([LAC](https://lac.unimi.it/)).
+For more information about the Mathematical Logic group at the University of Milan, see [here](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica). In collaboration with the Categorical Algebra group, we run a weekly seminar on Logic, Algebra and Categories ([LAC](https://lac.unimi.it/)).
 <br>
 
 <p>You can contact me at &nbsp; 
