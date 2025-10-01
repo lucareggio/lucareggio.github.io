@@ -58,10 +58,10 @@ For information about the Mathematical Logic group at the University of Milan, s
 
 <br>
 
-<figure class="fourth" style="display: flex; justify-content: space-between;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Global-Sumud-Flotilla.png" style="width: 160px">
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png"  style="width: 100px; display: inline-block;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg"  style="width: 100px; display: inline-block;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Global-Sumud-Flotilla.png" style="width: 100px; display: inline-block;">
 </figure>
 
 <br>
