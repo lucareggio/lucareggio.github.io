@@ -60,7 +60,7 @@ For information about the Mathematical Logic group at the University of Milan, s
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png"  style="width: 100px; display: inline-block; margin-right: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg"  style="width: 100px; display: inline-block; margin-right: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg"  style="width: 120px; display: inline-block; margin-right: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Global-Sumud-Flotilla.png" style="width: 100px; display: inline-block;">
 </figure>
 
