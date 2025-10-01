@@ -62,6 +62,8 @@ For information about the Mathematical Logic group at the University of Milan, s
   <img src="{{ site.url }}{{ site.baseurl }}/images/shutdown.png" style="width: 100px">
   &nbsp; &nbsp; &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/hk.jpg" style="width: 160px">
+  &nbsp; &nbsp; &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Global-Sumud-Flotilla.png" style="width: 160px">
 </figure>
 
 <br>
