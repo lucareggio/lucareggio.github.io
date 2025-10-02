@@ -1,22 +1,43 @@
-// Get the modal
+// Get the modal and its elements
 var popup = document.getElementById('popup');
-
-// Get the button that closes the modal
 var closeBtn = document.getElementById('close-btn');
+var popupImg = document.querySelector('#popup img'); // Adjust if needed
 
-// When the page loads, show the modal
-window.onload = function() {
+// When the page loads, show the popup
+window.onload = function () {
+    if (!popup || !popupImg) return;
+
+    // Show the popup
     popup.style.display = "block";
+
+    // Wait for the image to load
+    if (popupImg.complete) {
+        handleImageSize();
+    } else {
+        popupImg.onload = handleImageSize;
+    }
 };
 
-// When the user clicks the close button, hide the modal
-closeBtn.onclick = function() {
-    popup.style.display = "none";
-};
+// Function to adjust image size class if needed
+function handleImageSize() {
+    const viewportHeight = window.innerHeight;
+    if (popupImg.naturalHeight > viewportHeight * 0.9) {
+        popupImg.classList.add('tall');
+    } else {
+        popupImg.classList.remove('tall');
+    }
+}
 
-// Optional: Close the popup if the user clicks outside the image area
-window.onclick = function(event) {
-    if (event.target == popup) {
+// Close popup when clicking the close button
+if (closeBtn) {
+    closeBtn.onclick = function () {
+        popup.style.display = "none";
+    };
+}
+
+// Optional: Close when clicking outside the image area
+window.onclick = function (event) {
+    if (event.target === popup) {
         popup.style.display = "none";
     }
 };
