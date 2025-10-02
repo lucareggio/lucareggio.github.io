@@ -20,24 +20,26 @@
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
-    overflow: hidden; /* Hide anything that overflows */
     padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: auto; /* Make the content scrollable */
 }
 
 /* Image inside the modal */
 .popup img {
-    width: 100%; /* Scale the image to fit the modal's width */
+    width: 100%; /* Make the image scale to fit the modal width */
     height: auto; /* Maintain the aspect ratio */
     max-height: none; /* Allow the image to overflow vertically */
-    object-fit: contain; /* Keeps the aspect ratio */
+    object-fit: contain; /* Ensure aspect ratio is maintained */
+    display: block;
 }
 
-/* Scroll behavior: enable scrolling if the image overflows */
+/* Make the modal content scrollable if the image is too large */
 .popup-content {
-    overflow: auto; /* Enable scrolling */
+    max-height: 80vh; /* Limit the height to 80% of the viewport height */
+    overflow: auto; /* Allow scrolling if the image overflows */
 }
 
 /* Close button (top-right corner) */
