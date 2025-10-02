@@ -3,16 +3,33 @@ layout: default
 ---
 
   <div id="homeid" class="col-sm-8">
-        <h1>Luca Reggio's Homepage</h1>
+    <h1>Luca Reggio's Homepage</h1>
 
-	{{ content }}
+    {{ content }}
+
+    <!-- Pop-up Modal HTML -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span id="close-btn" class="close-btn">&times;</span>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
+        </div>
+    </div>
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
+
+  <div id="newsid" class="col-sm-4">
+    {% include news.html %}
   </div>
-  <div id="eventsid" class="col-sm-4" >
-	{% include events.html %}
+
+  <div id="eventsid" class="col-sm-4">
+    {% include events.html %}
   </div>
-  <div id="OpenPositionsAILA" class="col-sm-4" >
-	  {% include open_positions.html %}
+
+  <div id="OpenPositionsAILA" class="col-sm-4">
+    {% include open_positions.html %}
   </div>
+
+  <!-- Include CSS and JS files -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+  
+  <script src="{{ site.baseurl }}/js/script.js"></script>
+
