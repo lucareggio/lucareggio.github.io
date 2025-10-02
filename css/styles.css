@@ -1,10 +1,6 @@
-/* General site styling (keep or add other site styles above this if needed) */
-
-/* ========== Popup Styles ========== */
-
 /* Fullscreen popup overlay */
 .popup {
-  display: none; /* hidden by default */
+  display: none; /* Hidden by default */
   position: fixed;
   top: 0;
   left: 0;
@@ -15,9 +11,9 @@
 
   display: flex;
   justify-content: center;
-  align-items: center;
-
-  padding: 20px;
+  align-items: center; /* Center vertically */
+  /* REMOVE padding from here */
+  /* padding: 20px; */
   box-sizing: border-box;
 }
 
@@ -26,13 +22,14 @@
   position: relative;
   max-width: 100%;
   max-height: 100%;
-  overflow: auto;
+  overflow: hidden; /* clip rounded corners */
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px;
-  overflow: hidden;
-  background-color: transparent;
+  padding: 20px; /* move padding here */
+  background-color: #000; /* solid background for proper border-radius */
+  border-radius: 10px;
+  box-sizing: border-box;
 }
 
 /* Popup image */
@@ -43,15 +40,9 @@
   display: block;
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-  margin: 0;  /* reset any margins */
-  position: relative; /* ensure it respects border-radius clipping */
-  z-index: 1; /* just to be safe */
-}
-
-/* Override for tall images */
-.popup-content img.tall {
-  width: auto;
-  height: 100%;
+  margin: 0;
+  position: relative;
+  z-index: 1;
 }
 
 /* Close button */
@@ -68,10 +59,15 @@
   z-index: 2;
 }
 
-/* Small screen fallback for very short viewports */
-@media (max-height: 500px) {
+/* Mobile tweak: vertically center popup properly on small viewports */
+@media (max-width: 600px) {
   .popup {
-    align-items: flex-start;
-    padding-top: 40px;
+    align-items: center; /* ensure vertical centering */
+    padding: 10px; /* add some padding on smaller screens */
+  }
+
+  .popup-content {
+    padding: 10px;
+    max-height: 90vh; /* limit height for better fit */
   }
 }
