@@ -7,15 +7,6 @@ layout: default
 
     {{ content }}
 
-    <!-- Pop-up Modal HTML -->
-    <div id="popup" class="popup">
-        <div class="popup-content">
-            <span id="close-btn" class="close-btn">&times;</span>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
-        </div>
-    </div>
-  </div>
-
   <div id="newsid" class="col-sm-4">
     {% include news.html %}
   </div>
@@ -30,6 +21,14 @@ layout: default
 
   <!-- Include CSS and JS files -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
-  
   <script src="{{ site.baseurl }}/js/script.js"></script>
+  
+  <!-- Pop-up Modal HTML -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span id="close-btn" class="close-btn">&times;</span>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
+        </div>
+    </div>
+  </div>
 

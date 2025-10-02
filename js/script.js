@@ -8,11 +8,11 @@ document.addEventListener('DOMContentLoaded', function () {
   // Show popup
   popup.style.display = 'flex';
 
-  // Function to check if image is tall
+  // Adjust image layout
   function adjustImageMode() {
     popupImg.classList.remove('tall');
 
-    const vw = window.innerWidth - 40; // account for padding
+    const vw = window.innerWidth - 40;
     const vh = window.innerHeight - 40;
 
     const imgRatio = popupImg.naturalHeight / popupImg.naturalWidth;
@@ -23,25 +23,39 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Wait for image to load
-  if (popupImg.complete) {
+  // Centering fallback for very tall content
+  function enforceVerticalOffset() {
+    const content = document.querySelector('#popup .popup-content');
+    const popupBox = popup.getBoundingClientRect();
+    const contentBox = content.getBoundingClientRect();
+
+    if (contentBox.height < popupBox.height) {
+      content.style.marginTop = ((popupBox.height - contentBox.height) / 2) + 'px';
+    } else {
+      content.style.marginTop = '20px';
+    }
+  }
+
+  function finalizeLayout() {
     adjustImageMode();
+    enforceVerticalOffset();
+  }
+
+  if (popupImg.complete) {
+    finalizeLayout();
   } else {
-    popupImg.onload = adjustImageMode;
+    popupImg.onload = finalizeLayout;
   }
 
-  // Adjust again on window resize
-  window.addEventListener('resize', adjustImageMode);
+  window.addEventListener('resize', finalizeLayout);
 
-  // Close on button click
-  if (closeBtn) {
-    closeBtn.addEventListener('click', function () {
-      popup.style.display = 'none';
-    });
-  }
+  // Close popup
+  closeBtn.addEventListener('click', () => {
+    popup.style.display = 'none';
+  });
 
-  // Close when clicking outside the popup content
-  popup.addEventListener('click', function (event) {
+  // Close on outside click
+  popup.addEventListener('click', (event) => {
     if (event.target === popup) {
       popup.style.display = 'none';
     }
