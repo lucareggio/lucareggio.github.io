@@ -27,11 +27,12 @@
   max-width: 100%;
   max-height: 100%;
   overflow: auto;
-
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 10px;
+  overflow: hidden;
+  background-color: transparent;
 }
 
 /* Popup image */
@@ -42,6 +43,9 @@
   display: block;
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  margin: 0;  /* reset any margins */
+  position: relative; /* ensure it respects border-radius clipping */
+  z-index: 1; /* just to be safe */
 }
 
 /* Override for tall images */
