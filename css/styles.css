@@ -1,4 +1,4 @@
-/* Fullscreen popup overlay */
+/* Popup overlay */
 .popup {
   display: none; /* Hidden by default */
   position: fixed;
@@ -8,28 +8,25 @@
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 9999;
-
   display: flex;
   justify-content: center;
-  align-items: center; /* Center vertically */
-  /* REMOVE padding from here */
-  /* padding: 20px; */
+  align-items: center;
+  padding: 20px;
   box-sizing: border-box;
 }
 
 /* Popup content wrapper */
 .popup-content {
   position: relative;
-  max-width: 100%;
-  max-height: 100%;
-  overflow: hidden; /* clip rounded corners */
+  max-width: 90vw;
+  max-height: 90vh;
+  background-color: #000;
+  border-radius: 12px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px; /* move padding here */
-  background-color: #000; /* solid background for proper border-radius */
-  border-radius: 10px;
-  box-sizing: border-box;
 }
 
 /* Popup image */
@@ -37,12 +34,8 @@
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  border-radius: 12px;
   display: block;
-  border-radius: 10px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-  margin: 0;
-  position: relative;
-  z-index: 1;
 }
 
 /* Close button */
@@ -52,22 +45,21 @@
   right: 15px;
   font-size: 30px;
   color: white;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 4px 10px;
-  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 5px 12px;
+  border-radius: 6px;
   cursor: pointer;
-  z-index: 2;
+  z-index: 10;
+  user-select: none;
 }
 
-/* Mobile tweak: vertically center popup properly on small viewports */
+/* Responsive tweak: smaller padding on mobile */
 @media (max-width: 600px) {
   .popup {
-    align-items: center; /* ensure vertical centering */
-    padding: 10px; /* add some padding on smaller screens */
-  }
-
-  .popup-content {
     padding: 10px;
-    max-height: 90vh; /* limit height for better fit */
+  }
+  .popup-content {
+    max-width: 95vw;
+    max-height: 85vh;
   }
 }
