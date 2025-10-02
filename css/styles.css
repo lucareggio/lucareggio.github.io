@@ -1,6 +1,10 @@
-/* Popup overlay */
+/* General site styling (keep or add other site styles above this if needed) */
+
+/* ========== Popup Styles ========== */
+
+/* Fullscreen popup overlay */
 .popup {
-  display: none; /* Hidden by default */
+  display: none; /* hidden by default */
   position: fixed;
   top: 0;
   left: 0;
@@ -8,9 +12,11 @@
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 9999;
+
   display: flex;
   justify-content: center;
   align-items: center;
+
   padding: 20px;
   box-sizing: border-box;
 }
@@ -18,12 +24,10 @@
 /* Popup content wrapper */
 .popup-content {
   position: relative;
-  max-width: 90vw;
-  max-height: 90vh;
-  background-color: #000;
-  border-radius: 12px;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
-  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,8 +38,13 @@
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
-  border-radius: 12px;
   display: block;
+}
+
+/* Override for tall images */
+.popup-content img.tall {
+  width: auto;
+  height: 100%;
 }
 
 /* Close button */
@@ -45,21 +54,17 @@
   right: 15px;
   font-size: 30px;
   color: white;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 5px 12px;
-  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 4px 10px;
+  border-radius: 4px;
   cursor: pointer;
-  z-index: 10;
-  user-select: none;
+  z-index: 2;
 }
 
-/* Responsive tweak: smaller padding on mobile */
-@media (max-width: 600px) {
+/* Small screen fallback for very short viewports */
+@media (max-height: 500px) {
   .popup {
-    padding: 10px;
-  }
-  .popup-content {
-    max-width: 95vw;
-    max-height: 85vh;
+    align-items: flex-start;
+    padding-top: 40px;
   }
 }
