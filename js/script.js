@@ -1,43 +1,66 @@
-// Get the modal and its elements
-var popup = document.getElementById('popup');
-var closeBtn = document.getElementById('close-btn');
-var popupImg = document.querySelector('#popup img'); // Adjust if needed
+document.addEventListener('DOMContentLoaded', function () {
+  var popup = document.getElementById('popup');
+  var closeBtn = document.getElementById('close-btn');
+  var popupImg = document.querySelector('#popup img');
 
-// When the page loads, show the popup
-window.onload = function () {
-    if (!popup || !popupImg) return;
+  if (!popup || !popupImg) return;
 
-    // Show the popup
-    popup.style.display = "block";
+  // Show the popup
+  popup.style.display = 'flex';  // since .popup uses flex layout
 
-    // Wait for the image to load
-    if (popupImg.complete) {
-        handleImageSize();
-    } else {
-        popupImg.onload = handleImageSize;
-    }
-};
+  // After image loads, adjust if needed
+  function onImgLoad() {
+    adjustImageMode();
+  }
 
-// Function to adjust image size class if needed
-function handleImageSize() {
-    const viewportHeight = window.innerHeight;
-    if (popupImg.naturalHeight > viewportHeight * 0.9) {
-        popupImg.classList.add('tall');
-    } else {
-        popupImg.classList.remove('tall');
-    }
-}
+  if (popupImg.complete) {
+    // If already loaded (from cache), directly adjust
+    adjustImageMode();
+  } else {
+    popupImg.addEventListener('load', onImgLoad);
+  }
 
-// Close popup when clicking the close button
-if (closeBtn) {
-    closeBtn.onclick = function () {
-        popup.style.display = "none";
-    };
-}
+  // Close on close button
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function () {
+      popup.style.display = 'none';
+    });
+  }
 
-// Optional: Close when clicking outside the image area
-window.onclick = function (event) {
+  // Close when clicking outside content
+  popup.addEventListener('click', function (event) {
     if (event.target === popup) {
-        popup.style.display = "none";
+      popup.style.display = 'none';
     }
-};
+  });
+
+  // On window resize, re-check image mode
+  window.addEventListener('resize', adjustImageMode);
+
+  function adjustImageMode() {
+    // Remove previous class
+    popupImg.classList.remove('tall');
+
+    var viewportH = window.innerHeight - 40; // subtracted padding (20px top + 20px bottom)
+    var viewportW = window.innerWidth - 40;
+
+    // Natural dimensions
+    var naturalW = popupImg.naturalWidth;
+    var naturalH = popupImg.naturalHeight;
+
+    if (!naturalW || !naturalH) {
+      // can't detect, default behavior
+      return;
+    }
+
+    // If the image’s height is relatively large compared to viewport,
+    // prefer height-based scaling
+    if (naturalH / naturalW > viewportH / viewportW) {
+      // the image is “taller” in ratio than viewport, so scale by height
+      popupImg.classList.add('tall');
+    } else {
+      // else keep default (scale by width)
+      popupImg.classList.remove('tall');
+    }
+  }
+});

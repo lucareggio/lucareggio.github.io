@@ -1,54 +1,57 @@
-/* The modal (background) */
+/* Overlay / backdrop */
 .popup {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-    overflow: auto;
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  /* Use flex to help centering */
+  display: flex;
+  justify-content: center;
+  align-items: center; /* center vertically if possible */
+  padding: 20px; /* some padding so things don’t stick to edges */
+  box-sizing: border-box;
 }
 
-/* Modal content (the image and close button container) */
+/* Content wrapper inside popup */
 .popup-content {
-    position: relative;
-    max-width: 90%;
-    max-height: 90vh;
-    margin: 40px auto; /* Add margin to avoid edges */
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow-y: auto;
-    overflow-x: hidden;
-    background: transparent;
+  position: relative;
+  max-width: 100%;      /* don’t overflow horizontally */
+  max-height: 100%;     /* don’t overflow vertically */
+  /* allow it to shrink if needed */
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-/* Default image styling */
+/* The image itself */
 .popup-content img {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    display: block;
-    max-height: 100%;
-    border-radius: 5px;
+  display: block;
+  /* default: scale by width, up to container width/height */
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
-/* If the image is too tall, switch to height-based scaling */
+/* A class when the image is “very tall” */
 .popup-content img.tall {
-    width: auto;
-    height: 100%;
+  width: auto;
+  height: 100%;
 }
 
 /* Close button */
 .close-btn {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 30px;
-    color: white;
-    cursor: pointer;
-    z-index: 2;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 30px;
+  color: white;
+  background: rgba(0,0,0,0.3);
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 2;
 }
