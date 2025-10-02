@@ -14,21 +14,30 @@
 /* Modal content (the image and the close button) */
 .popup-content {
     position: relative;
-    max-width: 90%;  /* Adjust this value to your preference */
-    max-height: 90%; /* Adjust this value to your preference */
+    max-width: 90%;  /* Modal width */
+    max-height: 90%; /* Modal height */
     margin: auto;
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
     overflow: hidden; /* Hide anything that overflows */
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Image inside the modal */
 .popup img {
-    width: 100%; /* Make the image scale down to fit the width */
+    width: 100%; /* Scale the image to fit the modal's width */
     height: auto; /* Maintain the aspect ratio */
-    max-height: 80vh; /* Prevent the image from exceeding 80% of the viewport height */
-    object-fit: contain; /* Ensures the image retains its aspect ratio */
+    max-height: none; /* Allow the image to overflow vertically */
+    object-fit: contain; /* Keeps the aspect ratio */
+}
+
+/* Scroll behavior: enable scrolling if the image overflows */
+.popup-content {
+    overflow: auto; /* Enable scrolling */
 }
 
 /* Close button (top-right corner) */
