@@ -11,43 +11,42 @@
     overflow: auto; /* Enable scrolling if the content overflows */
 }
 
-/* Modal content (the image and the close button) */
+/* Modal content (image and close button) */
 .popup-content {
     position: relative;
-    max-width: 90%;  /* Modal width */
-    max-height: 90%; /* Modal height */
+    max-width: 90%;  /* Ensure modal is not too wide */
     margin: auto;
     top: 50%;
     transform: translateY(-50%);
-    text-align: center;
     padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: auto; /* Make the content scrollable */
+    overflow: auto;  /* Allow scrolling within the modal */
+    max-height: 80vh; /* Limit modal height to 80% of viewport height */
 }
 
 /* Image inside the modal */
 .popup img {
-    width: 100%; /* Make the image scale to fit the modal width */
-    height: auto; /* Maintain the aspect ratio */
-    max-height: none; /* Allow the image to overflow vertically */
-    object-fit: contain; /* Ensure aspect ratio is maintained */
+    width: 100%; /* Scale the image to fit the width */
+    height: auto; /* Keep the aspect ratio */
+    max-height: none; /* No restriction on image height */
+    object-fit: contain; /* Ensure the image keeps its aspect ratio */
     display: block;
-}
-
-/* Make the modal content scrollable if the image is too large */
-.popup-content {
-    max-height: 80vh; /* Limit the height to 80% of the viewport height */
-    overflow: auto; /* Allow scrolling if the image overflows */
 }
 
 /* Close button (top-right corner) */
 .close-btn {
     position: absolute;
-    top: 0;
+    top: 10px; /* Adjusted to ensure the close button doesn't overlap the image */
     right: 15px;
     font-size: 30px;
     color: white;
     cursor: pointer;
+}
+
+/* Allow scrolling only if image overflows */
+.popup-content {
+    overflow-y: auto;  /* Enable vertical scrolling only */
+    overflow-x: hidden; /* Disable horizontal scrolling */
 }
