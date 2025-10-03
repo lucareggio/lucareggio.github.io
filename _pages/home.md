@@ -4,6 +4,7 @@ layout: homelay
 excerpt: "Luca Reggio"
 sitemap: false
 permalink: /
+show\_popup: true #
 ---
 
 Since September 2024 I have been a tenure-track researcher at the Department of Mathematics _"Federigo Enriques_" of the [Università degli Studi di Milano](https://www.unimi.it/en), and since October 2024 I have been funded by the national [Rita Levi Montalcini](https://bandomontalcini.mur.gov.it/) scheme.

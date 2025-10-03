@@ -23,6 +23,9 @@ layout: default
   <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
   <script src="{{ site.baseurl }}/js/script.js"></script>
   
+{% raw %}
+{% if page.show_popup == true %}
+
   <!-- Pop-up Modal HTML -->
     <div id="popup" class="popup">
         <div class="popup-content">
@@ -30,5 +33,8 @@ layout: default
             <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
         </div>
     </div>
+
+{% endif %}
+{% endraw %}
   </div>
 
