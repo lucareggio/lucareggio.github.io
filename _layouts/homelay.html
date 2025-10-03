@@ -2,39 +2,36 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-    <h1>Luca Reggio's Homepage</h1>
+<div id="homeid" class="col-sm-8">
+  <h1>Luca Reggio's Homepage</h1>
 
-    {{ content }}
+  {{ content }}
+</div>
 
-  <div id="newsid" class="col-sm-4">
-    {% include news.html %}
-  </div>
+<div id="newsid" class="col-sm-4">
+  {% include news.html %}
+</div>
 
-  <div id="eventsid" class="col-sm-4">
-    {% include events.html %}
-  </div>
+<div id="eventsid" class="col-sm-4">
+  {% include events.html %}
+</div>
 
-  <div id="OpenPositionsAILA" class="col-sm-4">
-    {% include open_positions.html %}
-  </div>
+<div id="OpenPositionsAILA" class="col-sm-4">
+  {% include open_positions.html %}
+</div>
 
-  <!-- Include CSS and JS files -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
-  <script src="{{ site.baseurl }}/js/script.js"></script>
-  
+<!-- Include CSS and JS files -->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+<script src="{{ site.baseurl }}/js/script.js"></script>
+
 {% raw %}
 {% if page.show_popup == true %}
-
   <!-- Pop-up Modal HTML -->
-    <div id="popup" class="popup">
-        <div class="popup-content">
-            <span id="close-btn" class="close-btn">&times;</span>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
-        </div>
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <span id="close-btn" class="close-btn">&times;</span>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/global_shut_downs_2025.jpg" alt="Popup Image">
     </div>
-
+  </div>
 {% endif %}
 {% endraw %}
-  </div>
-
