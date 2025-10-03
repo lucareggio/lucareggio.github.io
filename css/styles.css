@@ -1,84 +1,80 @@
 /* General site styling (keep or add other site styles above this if needed) */
 
-/* ========== Popup Styles (IMPROVED) ========== */
+/* ========== Popup Styles (FINAL CORRECTED VERSION) ========== */
 
 /* Fullscreen popup overlay */
 .popup {
-  display: none; /* Keep this to hide it by default */
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-color: rgba(0, 0, 0, 0.7);
-  z-index: 9999;
+  /* Hides it by default, BUT the next 'display: flex' immediately overrides it, 
+     which is how your original code made it visible on load. We keep this
+     behavior to ensure the pop-up appears. */
+  display: none; 
+  
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 9999;
 
-  justify-content: center;
-  align-items: center;
+  /* This is the line that makes the pop-up visible and enables centering */
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 
-  overflow: auto; 
-  padding: 20px;
-  box-sizing: border-box;
+  /* FIX for clipping: Allows the entire screen to scroll if content is too tall */
+  overflow: auto; 
+  padding: 20px;
+  box-sizing: border-box;
 }
 
-/* Add a class for when the pop-up should be visible */
-.popup.show {
-  display: flex; /* This is the key: only show it when the .show class is added by JS */
-}
-
-/* Popup content wrapper (IMPROVED) */
+/* Popup content wrapper */
 .popup-content {
-  position: relative;
-  max-width: 100%;
-  
-  /* KEY CHANGE: Removed max-height: 100% and overflow: auto from here. */
-  /* We want the image to define the content size, and the outer .popup to handle overflow. */
-  /* max-height: 100% here can conflict with flex centering. */
-  max-height: 100vh; /* Re-added to ensure it respects viewport height */
-  overflow: visible; /* Let the container size its content naturally */
-  
-  /* If you want the content to be centered within this wrapper */
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: relative;
+  max-width: 100%;
+  
+  /* RE-ADDED CONSTRAINT: Crucial for vertical sizing and keeping the image visible */
+  max-height: 100vh;
+  overflow: visible;
+
+  /* Ensures the image inside is centered */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-/* Popup image (NO CHANGE NEEDED) */
+/* Popup image */
 .popup-content img {
-  max-width: 100%;
-  max-height: 100%; /* Image will respect the size of its parent (.popup-content) */
-  object-fit: contain;
-  display: block;
+  max-width: 100%;
+  max-height: 100%; 
+  object-fit: contain;
+  display: block;
 }
 
-/* Override for tall images (NO CHANGE NEEDED) */
+/* Override for tall images */
 .popup-content img.tall {
-  width: auto;
-  height: 100%;
+  width: auto;
+  height: 100%;
 }
 
-/* Close button (NO CHANGE NEEDED) */
+/* Close button */
 .close-btn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  font-size: 30px;
-  color: white;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 4px 10px;
-  border-radius: 4px;
-  cursor: pointer;
-  z-index: 2;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 30px;
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 2;
 }
 
-/* Small screen fallback for very short viewports (REMOVED/MERGED) */
-/* The general .popup improvements should cover this, making the media query unnecessary. 
-   If you still need specific top padding for small heights, you can re-introduce a simpler version:
-*/
-/*
+/* Small screen fallback for very short viewports - kept for safety */
 @media (max-height: 500px) {
   .popup {
-     padding-top: 40px; 
+    align-items: flex-start;
+    padding-top: 40px;
   }
 }
-*/
