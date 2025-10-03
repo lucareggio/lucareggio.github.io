@@ -4,7 +4,7 @@
 
 /* Fullscreen popup overlay */
 .popup {
-  display: none; /* hidden by default */
+  display: none; /* Keep this to hide it by default */
   position: fixed;
   top: 0;
   left: 0;
@@ -13,17 +13,17 @@
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 9999;
 
-  /* RETAIN centering logic */
-  display: flex;
   justify-content: center;
   align-items: center;
 
-  /* Added overflow property to handle scrolling on the entire screen if needed */
   overflow: auto; 
-  
-  /* Key change: Added padding to prevent content from touching the screen edges */
   padding: 20px;
   box-sizing: border-box;
+}
+
+/* Add a class for when the pop-up should be visible */
+.popup.show {
+  display: flex; /* This is the key: only show it when the .show class is added by JS */
 }
 
 /* Popup content wrapper (IMPROVED) */
