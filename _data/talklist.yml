@@ -24,6 +24,14 @@
 #  place: Siena
 #  date: 10-13 September 2024
 
+- title: TBA
+  upcoming: 1
+  venueurlavailable: 1
+  venueurl: https://progetto-itaca.github.io/fests/fest26.html#jun
+  venuedisplay: ItaCa Fest 2026
+  place: Online
+  date: 16 June 2026
+
 - title: Pos-pretoposes and compact ordered spaces
   upcoming: 0
   venueurlavailable: 1
@@ -175,9 +183,8 @@
 
 - title: Arboreal categories and homomorphism preservation theorems
   upcoming: 0
-  note: invited talk at
   venueurlavailable: 1
-  venueurl: https://progetto-itaca.github.io/
+  venueurl: https://progetto-itaca.github.io/fests/fest22.html
   venuedisplay: ItaCa Fest 2022
   place: Online
   date: 20 September 2022
