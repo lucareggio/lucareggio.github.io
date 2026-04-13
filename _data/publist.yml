@@ -26,9 +26,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2503.01247
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1016/j.apal.2026.103775
+  publisheddisplay: Annals of Pure and Applied Logic
+  published: 1
   thesis: 0
 
 - title: Filtral pretoposes and compact Hausdorff locales
