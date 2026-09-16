@@ -37,9 +37,9 @@
   preprintavailable: 1
   preprinturl: https://arxiv.org/abs/2508.09944
   preprintdisplay: arXiv
-  publishedurl: 0
-  publisheddisplay: 0
-  published: 0
+  publishedurl: https://doi.org/10.1016/j.jpaa.2026.108393
+  publisheddisplay: Journal of Pure and Applied Algebra, Vol. 230, issue 11, 108393, 2026
+  published: 1
   thesis: 0
 
 - title: Existential and positive games, A comonadic and axiomatic view
